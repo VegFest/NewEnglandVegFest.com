@@ -1,0 +1,418 @@
+/*!
+ * Roots 6.5.2
+ */
+
+@import "bootstrap/bootstrap.less";
+
+/* COLORS */
+@red: 			#ef4824;
+@blue:			#35c0bd;
+@green: 		#b6bf24;
+@yellow:		#fac239;
+@white:			#ffffff;
+@black:			#222222;
+@text-blue:	#37837B;			
+.cover {
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+/* FONTS */
+@font-face {
+    font-family: 'zona_black_regular';
+    src: url('/app/themes/nevegfest/assets/fonts/zona_black_regular-webfont.eot');
+    src: url('/app/themes/nevegfest/assets/fonts/zona_black_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/app/themes/nevegfest/assets/fonts/zona_black_regular-webfont.woff2') format('woff2'),
+         url('/app/themes/nevegfest/assets/fonts/zona_black_regular-webfont.woff') format('woff'),
+         url('/app/themes/nevegfest/assets/fonts/zona_black_regular-webfont.ttf') format('truetype'),
+         url('/app/themes/nevegfest/assets/fonts/zona_black_regular-webfont.svg#zona_black_regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.zona {
+	font-family: 'zona_black_regular', sans-serif;
+	letter-spacing: 2px;
+	font-weight: 100;
+}
+
+/* ==========================================================================
+   Base
+   ========================================================================== */
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	-webkit-font-smoothing: antialiased;
+}
+
+img {max-width: 100%;}
+
+h1, h2, h3, h4 {
+	margin-top: 0;
+	color: @white;
+	font-weight: 300;
+}
+
+.32 {
+	font-size: 32px;
+	font-weight: 300;
+}
+
+.44 {
+	font-size: 44px;
+	font-weight: 300;
+}
+.cta {
+	padding: 8px 24px;
+	color: @white;
+	background: @blue;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 18px;
+	&:first-child {margin-right: 16px;}
+	transition: all, .2s;
+	&:hover {
+		background: darken(@blue, 10%);
+		color: @white;
+		text-decoration: none;
+	}
+}
+
+.content {
+	.container-fluid {
+		padding: 50px 20px;
+	}
+}
+.break {
+	height: 120vh;
+}
+
+/* ==========================================================================
+   Header
+   ========================================================================== */
+
+.page-header {
+	background: url(/app/themes/nevegfest/assets/img/header-home.jpg) no-repeat center center;
+	height: 90vh;
+	min-height: 550px;
+	.cover;
+	margin: 0;
+	text-align: center;
+	padding: 100px 0 50px 0;
+	img {max-width: 90%;}
+	h1 {
+		margin-bottom: 25px;
+	}
+	h2 {
+		.zona;
+		text-transform: uppercase;
+		font-size: 22px;
+	}
+}
+
+.ctas {
+	height: 70px;
+	padding-bottom: 20px;
+	.zona;
+	font-size: 16px;
+}
+.navbar {
+	margin: 0;
+	position: fixed;
+	border: 0px solid transparent;
+	background: @white;
+	width: 100%;
+	left: 0;
+	right: 0;
+}
+
+.navbar-nav li a {
+	.zona;
+	font-size: 14px;
+	transition: all, .2s;
+	text-transform: uppercase;
+}
+
+.navbar-default .navbar-nav>.menu-event-details>a {
+	border-top: 8px solid @green;
+	color: @green !important;
+	&:hover, &:active, &:focus {
+		color: lighten(@green, 20%);
+	}
+}
+
+.navbar-default .navbar-nav>.menu-sponsor-exhibit>a {
+	border-top: 8px solid @yellow;
+	color: @yellow !important;
+	&:hover, &:active {
+		color: lighten(@yellow, 20%);
+	}
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+	background: transparent;
+}
+/* ==========================================================================
+   Content
+   ========================================================================== */
+
+.content { }
+
+#about {
+	text-align: center;
+	font-size: 36px;
+	color: @text-blue;
+	font-weight: 300;
+}
+#features {
+	display: table;
+	.box {
+		background: @red;
+		color: @white;
+		text-transform: uppercase;
+		width: 50%;
+		float: left;
+		text-align: center;
+		padding: 20px 10px;
+		img {max-width: 90%;}
+		&:nth-child(4n+2) {
+			background: @blue;
+		}
+		&:nth-child(4n+3) {
+			background: @green;
+		}
+		&:nth-child(4n+4) {
+			background: @yellow;
+		}
+	}
+}
+#crowd {
+	background: url(/app/themes/nevegfest/assets/img/crowd.jpg) no-repeat center center;
+	.cover;	
+}
+#testimonial {
+	background: url(/app/themes/nevegfest/assets/img/header-home.jpg) no-repeat center center;
+	.cover;	
+	padding: 0 15px;
+	color: @white;
+	font-size: 36px;
+}
+/* ==========================================================================
+   Primary Content
+   ========================================================================== */
+
+.main { }
+
+/* Gallery Shortcode */
+.gallery-row { padding: 15px 0; }
+
+#gform_submit_button_1 {
+	.cta;
+	.zona;
+	background: @green;
+	border: 0px solid transparent;
+	text-align: right;
+	padding: 12px 32px;
+	margin: 0 !important;
+	font-size: 1.4em;
+	&:hover {
+		background: darken(@green, 10%);
+	}
+}
+.gform_footer {
+	text-align: center;
+}
+#field_1_6 {
+	display: inline-block;
+	float: right;
+}
+#gform_wrapper_1 {
+	padding: 0px 20px;
+	margin: 0 auto;
+	max-width: 800px;
+	width: 100%;
+	h3 {
+		color: @black;
+	}
+}
+
+#field_1_24 {
+	div {
+		padding: 15px;
+		border: 1px dotted #dedede;
+		font-size: 12px;
+		color: #777;
+	}
+}
+.gform_wrapper ul.gfield_checkbox li input[type=checkbox], .gform_wrapper ul.gfield_radio li input[type=radio] {
+	margin-left: 4px;
+}
+
+.gform_wrapper {
+	h2.gsection_title {
+		color: @black;
+		margin-top: 2em !important;
+	}
+}
+
+/* Sponsor or Exhibit */
+#field_1_5 {
+	.gfield_description {
+		text-align: center;
+	}	
+}
+#input_1_5 {
+	margin: 1em auto 0 auto !important;
+	display: table;
+	input[name="input_5"] {
+		display: none;
+	}
+	.gchoice_5_0, .gchoice_5_1 {
+		display: inline-block;
+		label {
+			.cta;
+			.zona;
+			padding: 16px 32px;
+			font-size: 1.5em;
+			text-align: center;
+			display: inline;
+			width: auto;
+		}
+	}
+	.gchoice_5_1 label {
+		background: @red;
+		&:hover {
+			background: darken(red, 10%);
+		}
+	}
+}
+
+#gforms_confirmation_message {
+	margin: 0 auto;
+	max-width: 700px;
+	padding: 25px 0;
+	color: @black;
+}
+
+/* Sponsor and Exhibitor Options */
+#input_1_3, #input_1_8 {
+	li {
+		display: inline-block;
+		width: 33.33%;
+	}
+}
+#field_1_19, #field_1_20  {
+	background: @blue;
+	display: table;
+	.col-sm-4 {
+		padding: 20px 0;
+		&:nth-child(2) {
+			margin: 0;
+			border-right: 1px solid lighten(@blue, 20%);
+			border-left: 1px solid lighten(@blue, 20%);
+		}
+	}
+	h3 {
+		color: @white;
+		padding-left: 15px;
+		padding-bottom: 12px;
+		border-bottom: 1px solid lighten(@blue, 20%);
+	}
+	ul {
+		margin-right: 15px;
+		margin-left: 25px !important;
+		font-size: 14px;
+	}
+	b {display:inline-block; padding-left: 5px;}
+}
+
+#field_1_20 {
+	background: lighten(@red,5%);
+	color: @white;
+  .col-sm-4 {
+    &:nth-child(2) {
+      border-right: 1px solid lighten(@red, 20%);
+      border-left: 1px solid lighten(@red, 20%);
+    }
+	}
+	h3 {
+		border-bottom: 0px solid transparent;
+	}
+	b {padding-left: 15px;}
+	border-bottom: 0px solid transparent;
+}
+/* ==========================================================================
+   Sidebar
+   ========================================================================== */
+
+.sidebar { }
+
+
+
+/* ==========================================================================
+   Posts
+   ========================================================================== */
+
+.hentry header { }
+.hentry time { }
+.hentry .byline { }
+.hentry .entry-content { }
+.hentry footer { }
+
+
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+#credit {
+	padding: 10px 30px;
+	text-align: center;
+}
+
+
+
+/* ==========================================================================
+   WordPress Generated Classes
+   See: http://codex.wordpress.org/CSS#WordPress_Generated_Classes
+   ========================================================================== */
+
+.aligncenter { display: block; margin: 0 auto; }
+.alignleft { float: left; }
+.alignright { float: right; }
+figure.alignnone { margin-left: 0; margin-right: 0; }
+
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media (min-width: @screen-sm-min) { 
+	#features {
+		.box {
+			width: 20%;
+			&:nth-child(4n+2) {
+				background: @blue;
+			}
+			&:nth-child(4n+3) {
+				background: @green;
+			}
+			&:nth-child(4n+4) {
+				background: @yellow;
+			}
+		}
+	}
+	nav {text-align: center;}
+	#menu-primary-navigation {
+		display: inline-block;
+		float: none;
+		margin: 0 auto;
+	}
+}
+
+@media (min-width: @screen-md-min) { }
+
+@media (min-width: @screen-lg-min) { }
