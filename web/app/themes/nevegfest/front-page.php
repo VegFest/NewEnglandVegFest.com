@@ -47,8 +47,9 @@
 <div class="break" id="crowd"></div>
 <div id="testimonial" class="32">
 	<div class="container-fluid">
-		<p class="alignleft">VegFest is one of the best events in the city! It combines education about compassionate practices, along with wonderful vendors who promote animal welfare, vegetarian and vegan living, in a festive and warm atmosphere. And the food is great too!"</p>
+		<p class="alignleft">"VegFest is one of the best events in the city! It combines education about compassionate practices, along with wonderful vendors who promote animal welfare, vegetarian and vegan living, in a festive and warm atmosphere. And the food is great too!"</p>
 		<p class="alignright">-Tina Zlody, Co-Founder of stART on the Street</p>
 	</div>
 </div>
+<div id="map"><div id="mapid-82c67e47-bb87-4105-9fe9-f3f33d9e1485"></div></div>
 <?php get_template_part('templates/content', 'page'); ?>
