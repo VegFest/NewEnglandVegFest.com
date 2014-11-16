@@ -11,7 +11,8 @@
 @yellow:		#fac239;
 @white:			#ffffff;
 @black:			#222222;
-@text-blue:	#37837B;			
+@gold:			#9b8579;
+
 .cover {
 	-webkit-background-size: cover;
   -moz-background-size: cover;
@@ -164,8 +165,9 @@ h1, h2, h3, h4 {
 #about {
 	text-align: center;
 	font-size: 36px;
-	color: @text-blue;
+	color: @gold;
 	font-weight: 300;
+	p {padding: 0 30px;}
 }
 #features {
 	display: table;
@@ -395,6 +397,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 	#features {
 		.box {
 			width: 20%;
+			min-height: 240px;
 			&:nth-child(4n+2) {
 				background: @blue;
 			}
@@ -416,4 +419,8 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 @media (min-width: @screen-md-min) { }
 
-@media (min-width: @screen-lg-min) { }
+@media (min-width: @screen-lg-min) {
+	#features {
+		.box {min-height: 0;}
+	}
+}
