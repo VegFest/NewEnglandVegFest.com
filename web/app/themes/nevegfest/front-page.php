@@ -45,12 +45,14 @@
 	</div>
 </div>
 <div class="break" id="crowd"></div>
+<img src="/app/themes/nevegfest/assets/img/bw-people.png" alt="VegFest Attendees" class="fullwidth" />
 <div id="testimonial" class="32">
 	<div class="container-fluid">
 		<p class="alignleft">"VegFest is one of the best events in the city! It combines education about compassionate practices, along with wonderful vendors who promote animal welfare, vegetarian and vegan living, in a festive and warm atmosphere. And the food is great too!"</p>
 		<p class="alignright">-Tina Zlody, Co-Founder of stART on the Street</p>
 	</div>
 </div>
+<div class="break" id="food"></div>
 			<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 			<div style="overflow:hidden;height:360px;width:100%;"><div id="gmap_canvas" style="height:360px;width:100%;"></div>
 			<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>

@@ -88,9 +88,20 @@ h1, h2, h3, h4 {
 	}
 }
 .break {
-	height: 120vh;
+	height: 100vh;
 }
-
+.fullwidth {
+	width: 100%;
+	height: auto;
+}
+.page-id-8 {
+	.page-header {
+		background: url(/app/themes/nevegfest/assets/img/SponsorEx-Header.jpg) no-repeat center center;
+		.cover;
+		height: 80vh;
+		min-height: 510px;
+	}
+}
 /* ==========================================================================
    Header
    ========================================================================== */
@@ -194,9 +205,16 @@ h1, h2, h3, h4 {
 #crowd {
 	background: url(/app/themes/nevegfest/assets/img/crowd.jpg) no-repeat center center;
 	.cover;	
+	max-height: 560px;
+}
+#food {
+	background: url(/app/themes/nevegfest/assets/img/home-food.jpg) no-repeat center center;
+	.cover;	
+	max-height: 384px;
+	background-attachment: scroll !important;
 }
 #testimonial {
-	background: url(/app/themes/nevegfest/assets/img/header-home.jpg) no-repeat center center;
+	background: url(/app/themes/nevegfest/assets/img/Green-quote-bg.jpg) no-repeat center center;
 	.cover;	
 	padding: 0 15px;
 	color: @white;
@@ -419,7 +437,11 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 	}
 }
 
-@media (min-width: @screen-md-min) { }
+@media (min-width: @screen-md-min) {
+	.break {
+		background-attachment: fixed !important;
+	}	
+}
 
 @media (min-width: @screen-lg-min) {
 	#features {
