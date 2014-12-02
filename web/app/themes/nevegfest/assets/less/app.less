@@ -13,6 +13,9 @@
 @black:			#222222;
 @gold:			#9b8579;
 
+.bluebg {
+	background: @blue;
+}
 .cover {
 	-webkit-background-size: cover;
   -moz-background-size: cover;
@@ -390,6 +393,50 @@ h1, h2, h3, h4 {
 /* ==========================================================================
    Footer
    ========================================================================== */
+#footer-info {
+	color: @white;
+	text-align: center;
+	a, a:visited {color: @white;}
+	img.alignright {
+		float: none;
+		display:inline-block;
+		clear: both;
+	}
+	h3 {
+		.zona;
+		text-transform: uppercase;
+	}
+	.pad {padding: 10px 0;}
+}
+#mc_embed_signup {
+	input[type="email"] {
+		.zona;
+		text-transform:uppercase;
+		color: @black;
+		border-radius: 40px;
+		border: 0;
+		width: 75%;
+		max-width: 485px;
+		display: inline-block;
+		float: left;
+		height: 40px;
+		font-size: 16px;
+		padding: 0 15px;
+	}
+	input[type="submit"] {
+		.cta;
+		.zona;
+		border: 0px;
+		padding: 8px 10px;
+		background: @red;
+		display: inline-block;
+		float: left;
+		margin-left: 12px;
+		&:hover {
+			background: darken(@red, 20%);
+		}
+	}
+}
 #credit {
 	padding: 10px 30px;
 	text-align: center;
@@ -414,6 +461,18 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    ========================================================================== */
 
 @media (min-width: @screen-sm-min) { 
+	#footer-info {
+		img.alignright {
+			display: none;
+		}
+		.pad {padding: 35px 0;}
+		.col-sm-8 {
+			text-align: left;
+			.pad {
+				padding-left: 25px;
+			}
+		}
+	}
 	#features {
 		.box {
 			width: 20%;
@@ -441,6 +500,15 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 	.break {
 		background-attachment: fixed !important;
 	}	
+	#footer-info {
+		img.alignright {
+			max-width: 128px;
+			width: 33%;
+			float: right;
+			display:inline;
+			clear: none;
+		}
+	}
 }
 
 @media (min-width: @screen-lg-min) {
