@@ -42,6 +42,8 @@
 	font-weight: 100;
 }
 
+.clear {clear:both;}
+
 /* ==========================================================================
    Base
    ========================================================================== */
@@ -396,7 +398,10 @@ h1, h2, h3, h4 {
 #footer-info {
 	color: @white;
 	text-align: center;
-	a, a:visited {color: @white;}
+	a, a:visited {
+		color: @white; 
+		font-weight: bold;
+	}
 	img.alignright {
 		float: none;
 		display:inline-block;
@@ -422,6 +427,7 @@ h1, h2, h3, h4 {
 		height: 40px;
 		font-size: 16px;
 		padding: 0 15px;
+		margin-bottom: 8px;
 	}
 	input[type="submit"] {
 		.cta;
@@ -432,9 +438,13 @@ h1, h2, h3, h4 {
 		display: inline-block;
 		float: left;
 		margin-left: 12px;
+		margin-right: 16px;
 		&:hover {
 			background: darken(@red, 20%);
 		}
+	}
+	input[type="checkbox"] {
+		margin: 6px;
 	}
 }
 #credit {

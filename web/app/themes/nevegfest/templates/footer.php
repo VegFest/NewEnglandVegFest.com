@@ -30,12 +30,13 @@
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="you@email.com">
 	<input type="hidden" value="VegFest 2015 Website" name="SOURCE" id="mce-SOURCE">
 </div>
-	<div id="mce-responses" class="clear">
+	<div id="mce-responses">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;"><input type="text" name="b_38963ea1aa7f978ae2c06864a_42306f7ec2" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="GO" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div><input type="submit" value="GO" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+		<div class="clear"><input type="checkbox" value="1" name="group[1][1]" id="mce-group[1]-1-0"><label for="mce-group[1]-1-0"> I'm interested in volunteering</label></div>
     </div>
 </form>
 </div>
