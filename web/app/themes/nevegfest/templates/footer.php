@@ -4,7 +4,7 @@
   </div>
 	<div id="footer-info" class="bluebg">
 		<div class="container-fluid">
-			<div class="col-sm-4">
+			<div class="col-sm-5">
 				<img src="/app/themes/nevegfest/assets/img/carrot-footer.png" alt="" class="alignright" />
 				<div class="pad">
 					<h3>Location</h3>
@@ -17,7 +17,7 @@
 					</p>
 				</div>
 			</div>
-			<div class="col-sm-8" class="pad">
+			<div class="col-sm-7" class="pad">
 				<div class="pad">
 					<h3>Signup for VegFest News</h3>
 					<!-- Begin MailChimp Signup Form -->
