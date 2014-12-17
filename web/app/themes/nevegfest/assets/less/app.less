@@ -43,7 +43,7 @@
 }
 
 .clear {clear:both;}
-
+.center {text-align: center;}
 /* ==========================================================================
    Base
    ========================================================================== */
@@ -62,6 +62,10 @@ h1, h2, h3, h4 {
 	font-weight: 300;
 }
 
+.white h2 {
+	color: lighten(@black,20%);
+	font-size: 2em;
+}
 .32 {
 	font-size: 32px;
 	font-weight: 300;
@@ -85,11 +89,14 @@ h1, h2, h3, h4 {
 		color: @white;
 		text-decoration: none;
 	}
+	&.yellow {background: @yellow;}
+	&.red {background: @red;}
 }
 
 .content {
 	.container-fluid {
 		padding: 50px 20px;
+		clear: both;
 	}
 }
 .break {
@@ -99,13 +106,105 @@ h1, h2, h3, h4 {
 	width: 100%;
 	height: auto;
 }
-.page-id-8 {
+#sponsor-ask {
+	h2 {
+		color: @blue;
+		font-size: 2.4em;
+		margin-bottom: 20px;
+	}
+	max-width: 800px;
+	font-size: 1.2em;
+	color: @gold;
+	line-height: 1.8em;
+}
+.sponsor-exhibitor-guide {
+	.bluebg {
+		padding: 20px 0 30px;
+		h2 {
+			margin-bottom: .6em;
+		}
+		.cta {display:inline-block;}
+	}
+	#footer-info {
+		background: @red;
+		#mc_embed_signup input[type="submit"] {
+			background: @blue;
+			&:hover {background: darken(@blue, 20%);}
+		}
+	}
+}
+.sponsor-and-exhibitor-application {
 	.page-header {
 		background: url(/app/themes/nevegfest/assets/img/SponsorEx-Header.jpg) no-repeat center center;
 		.cover;
 		height: 80vh;
 		min-height: 510px;
 	}
+}
+#numbers {
+	.pad {
+		display: table;
+		width: 100%;
+		padding: 20px 0;
+	}
+	.circle {
+		.zona;
+		font-size: 4vw;
+		height: 40vw;
+		width: 40vw;
+		border-radius: 25vw;
+		background: @yellow;
+		padding: 7vw 4vw;
+		margin: 0 auto 20px;
+		color: @white;
+		b {font-size: 2em;}
+	}
+	.col-xs-6 {
+	  &:nth-child(4n+2) .circle {
+  	  background: @green;
+  	}
+  	&:nth-child(4n+3) .circle {
+    	background: @blue;
+  	}
+  	&:nth-child(4n+4) .circle {
+    	background: @red;
+  	}
+	}
+}
+#reasons {
+	display: table;
+	width: 100%;
+}
+#sponsor-info, #exhibitor-info {
+	.cta {display: table; margin: 20px auto 0;}
+}
+#sponsor-info {
+	h2 {
+		text-align: center; 
+		margin-bottom: 1em;
+		font-size: 2.4em;
+		&:last-child {
+			padding-top: 25px;
+			margin-bottom: 0;
+		}
+	}
+	padding-bottom: 30px;
+}
+#exhibitor-info {
+	background: lighten(@blue,50%);
+	padding: 12px 0;
+	.container-fluid {
+		padding: 0 40px;
+	}
+	.col-sm-4 {
+		border-left: 4px solid @blue;
+	}
+	h3 {
+		.zona;
+		font-size: 1.3em;
+		color: @gold;
+	}
+	b {font-weight: normal; font-size :.9em;}
 }
 /* ==========================================================================
    Header
@@ -156,16 +255,30 @@ h1, h2, h3, h4 {
 .navbar-default .navbar-nav>.menu-event-details>a {
 	border-top: 8px solid @green;
 	color: @green !important;
+	transition: all, .2s;
 	&:hover, &:active, &:focus {
 		color: lighten(@green, 20%);
+		border-color: lighten(@green, 20%);
 	}
 }
 
 .navbar-default .navbar-nav>.menu-sponsor-exhibit>a {
 	border-top: 8px solid @yellow;
 	color: @yellow !important;
+	transition: all, .2s;
 	&:hover, &:active {
 		color: lighten(@yellow, 20%);
+		border-color: lighten(@yellow, 20%);
+	}
+}
+
+.navbar-default .navbar-nav>.menu-application>a {
+	border-top: 8px solid @blue;
+	color: @blue !important;
+	transition: all, .2s;
+	&:hover, &:active {
+		color: lighten(@blue, 20%);
+		border-color: lighten(@blue, 20%);
 	}
 }
 
@@ -185,28 +298,39 @@ h1, h2, h3, h4 {
 	font-weight: 300;
 	p {padding: 0 30px;}
 }
-#features {
+.home #features {
 	display: table;
 	.box {
-		background: @red;
-		color: @white;
-		text-transform: uppercase;
-		width: 50%;
-		float: left;
-		text-align: center;
-		padding: 20px 10px;
-		img {max-width: 90%;}
-		&:nth-child(4n+2) {
-			background: @blue;
-		}
-		&:nth-child(4n+3) {
-			background: @green;
-		}
-		&:nth-child(4n+4) {
-			background: @yellow;
-		}
+		font-size: 1em;
+		font-family: 'Open Sans', sans-serif;
 	}
 }
+.box {
+	.zona;
+	font-size: 1.2em;
+	background: @red;
+	color: @white;
+	text-transform: uppercase;
+	float: left;
+	text-align: center;
+	padding: 20px 10px;
+	width: 50%;
+	img {max-width: 90%;}
+	&:nth-child(4n+2) {
+		background: @blue;
+	}
+	&:nth-child(4n+3) {
+		background: @green;
+	}
+	&:nth-child(4n+4) {
+		background: @yellow;
+	}
+	b {
+		font-size: 1.2em;
+	}
+
+}
+
 #crowd {
 	background: url(/app/themes/nevegfest/assets/img/crowd.jpg) no-repeat center center;
 	.cover;	
@@ -259,7 +383,7 @@ h1, h2, h3, h4 {
 #gform_wrapper_1 {
 	padding: 0px 40px;
 	margin: 0 auto;
-	max-width: 800px;
+	max-width: 900px;
 	width: 100%;
 	h3 {
 		color: @black;
@@ -328,52 +452,79 @@ h1, h2, h3, h4 {
 
 /* Sponsor and Exhibitor Options */
 #input_1_3, #input_1_8 {
+	.ginput_price {display: none;}
 	li {
 		display: inline-block;
 		width: 33.33%;
 	}
+	input {
+		margin-left: 15px;
+	}
+	label {
+		margin-left: 36px;
+	}
 }
-#field_1_19, #field_1_20  {
-	background: @blue;
+#field_1_19 {
 	display: table;
+	width: 100%;
+	max-width: 1100px;
+	margin: 0 auto;
 	.col-sm-4 {
-		padding: 20px 0;
-		&:nth-child(2) {
-			margin: 0;
-			border-right: 1px solid lighten(@blue, 20%);
-			border-left: 1px solid lighten(@blue, 20%);
+		&:first-child {
+			h3 {border-color: @yellow;}
+			ul {
+				li:nth-child(2n) {
+					background: lighten(@yellow, 20%);
+				}
+				li:nth-child(2n+1) {
+				background: lighten(@yellow, 30%);
+				}
+			}
+		}
+		&:last-child {
+			h3 {
+				border-color: @red;
+				margin-right: 0;
+			}
+			ul {
+				li:nth-child(2n) {
+					background: lighten(@red, 30%);
+				}
+				li:nth-child(2n+1) {
+				background: lighten(@red, 40%);
+				}
+			}
 		}
 	}
 	h3 {
-		color: @white;
-		padding-left: 15px;
-		padding-bottom: 12px;
-		border-bottom: 1px solid lighten(@blue, 20%);
+		.zona;
+		color: lighten(@black,20%);
+		text-transform: uppercase;
+		border-top: 8px solid @blue;
+		padding: 12px 5px;
+		margin-bottom: 0;
 	}
 	ul {
-		margin-right: 15px;
-		margin-left: 25px !important;
+		padding: 0;
 		font-size: 14px;
+		list-style-type: none;
+		li {		
+			padding: 8px 16px;
+			margin: 0 !important;
+		}
+		li:nth-child(2n) {
+			background: lighten(@blue, 30%);
+		}
+		li:nth-child(2n+1) {
+			background: lighten(@blue, 40%);
+		}
 	}
 	b {display:inline-block; padding-left: 5px;}
 }
-
-#field_1_20 {
-	background: lighten(@red,5%);
-	color: @white;
-  .col-sm-4 {
-    &:nth-child(2) {
-      border-right: 1px solid lighten(@red, 20%);
-      border-left: 1px solid lighten(@red, 20%);
-    }
-	}
-	h3 {
-		border-bottom: 0px solid transparent;
-	}
-	b {padding-left: 15px;}
-	border-bottom: 0px solid transparent;
+body .gform_wrapper div.gform_body ul.gform_fields li.gfield.gfield_html ul li, body .gform_wrapper form div.gform_body ul.gform_fields li.gfield.gfield_html ul li {
+	list-style-type: none !important;
+	margin: 0 !important;
 }
-
 /* ==========================================================================
    Sidebar
    ========================================================================== */
@@ -485,7 +636,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 			}
 		}
 	}
-	#features {
+	.home #features {
 		.box {
 			width: 20%;
 			min-height: 240px;
@@ -500,11 +651,25 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 			}
 		}
 	}
+	.box {
+		width: 25%;
+		min-height: 136px;
+	}
 	nav {text-align: center;}
 	#menu-primary-navigation {
 		display: inline-block;
 		float: none;
 		margin: 0 auto;
+	}
+	#numbers {
+		.circle {
+			font-size: 2.5vw;
+			height: 23vw;
+			width: 23vw;
+			background: @yellow;
+			padding: 4.5vw 2vw;
+	}
+
 	}
 }
 
@@ -521,10 +686,17 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 			clear: none;
 		}
 	}
+	.box {
+		font-size: 1.4em;
+		min-height: 0;
+		b {
+			font-size: 1.4em;
+		}
+	}
 }
 
 @media (min-width: @screen-lg-min) {
-	#features {
+	.home #features {
 		.box {min-height: 0;}
 	}
 }
