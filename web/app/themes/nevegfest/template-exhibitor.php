@@ -27,21 +27,24 @@ Template Name: Exhibitor Template
 	<div id="whyparticipate" class="col-sm-6">
 		<h2>Why Participate?</h2>
 		<ul>
-			<li>Reach new customers
-			<li>Build your brand
-			<li>Connect with other businesses
-			<li>Get your name out to thousands
+			<li>Reach new customers and connect with your base
+			<li>Build relationships with other businesses
+			<li>Put your message in front of a diverse crowd of thousands
+			<li>Connect with a dedicated community of like-minded people
+			<li>Build a following for your brand
+
 		</ul>
 	</div>
 	<div id="attendeesare" class="col-sm-6">
 		<h2>Vegfest Attendees Are:</h2>
 		<ul>
-			<li><b>Open-minded early adopters:</b> They try new products.
-			<li><b>Trendsetters:</b> They tell their friends and use social media.
-			<li><b>Health-conscious:</b> They choose healthy foods.
-			<li><b>Environmentally Aware:</b> Lorem Ipsum.
+			<li><b>Young:</b> Two-thirds of attendees are between ages 18-45.
 			<li><b>Motivated:</b> Most travel 20-80 miles to attend.
+			<li><b>Environmentally Aware:</b> Attendees are interested in brands that make help create positive change.
+			<li><b>Health-conscious:</b> They prefer healthy foods and organic products.
+			<li><b>Open-minded, early adopters:</b> They are eager try and purchase new products, tell their friends, and use social media.
 			<li><b>Active:</b> They support organizations &amp; make donations.
+			<li><b>Not just Vegan:</b> Between 40-55% of attendees are omnivores or consume some animal products.
 		</ul>
 	</div>
 </div>
@@ -54,7 +57,7 @@ Template Name: Exhibitor Template
 <div class="container-fluid white center" id="numbers">
 	<h2>Past Sponsors &amp; Exhibitors</h2>
 </div>
-<div class="break"></div>
+<div class="break" id="cupcakes"></div>
 <div class="container-fluid white" id="sponsor-info">
 	<h2>Sponsorship Levels</h2>
 <div id="field_1_19" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc" style=""><div class="col-sm-4">
@@ -117,5 +120,5 @@ Template Name: Exhibitor Template
 	<h2>Want to Sponsor or Exhibit?</h2>
 	<a href="http:/sponsor-and-exhibitor-application/" class="cta red">Apply Now</a>
 </div>
-<div class="break"></div>
+<div class="break" id="joyful"></div>
 </div><!--/content-->

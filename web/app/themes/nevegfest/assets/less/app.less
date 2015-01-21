@@ -12,6 +12,7 @@
 @white:			#ffffff;
 @black:			#222222;
 @gold:			#9b8579;
+@cream:			#fffaef;
 
 .bluebg {
 	background: @blue;
@@ -118,6 +119,17 @@ h1, h2, h3, h4 {
 	line-height: 1.8em;
 }
 .sponsor-exhibitor-guide {
+	.page-header {
+		background: url(/app/themes/nevegfest/assets/img/SponsorEx-Header-yellow.jpg) no-repeat center center;
+		.cover;
+		height: 80vw;
+		min-height: 420px;
+		max-height: 460px;
+	}
+	#testimonial {
+		background: url(/app/themes/nevegfest/assets/img/testimonial_bg.jpg) no-repeat center center;
+		.cover;
+	}
 	.bluebg {
 		padding: 20px 0 30px;
 		h2 {
@@ -132,13 +144,68 @@ h1, h2, h3, h4 {
 			&:hover {background: darken(@blue, 20%);}
 		}
 	}
+	#joyful {
+		background: url(/app/themes/nevegfest/assets/img/joyful-man.jpg) no-repeat center center;
+		.cover;
+	}
+	#cupcakes {
+		background: url(/app/themes/nevegfest/assets/img/cupcakes2.jpg) no-repeat center center;
+		.cover;
+	}
 }
+#reasons {
+	background: @white;
+	h2 {
+		.zona;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-size: 26px;
+	}
+	ul {
+		list-style-type: none;
+		padding-left: 0;
+	}
+}
+#whyparticipate {
+	background: @blue;
+	color: @white;
+	padding: 25px;
+	ul {
+		margin: 0;
+		li {
+			font-size: 26px;
+			padding-bottom: 1em;
+			&:last-child {padding-bottom: 0;}
+		}
+	}
+}
+#attendeesare {
+	padding: 25px;
+	background: @cream;
+	h2 {color: @blue;}
+	ul {
+		color: darken(@gold,15%);
+		padding-left: 0;
+		b {
+			.zona;
+			text-transform: uppercase;
+		}
+		li {
+			padding-bottom: 1em;
+			&:last-child {
+				padding-bottom: 0;
+			}
+		}
+	}
+}
+
 .sponsor-and-exhibitor-application {
 	.page-header {
-		background: url(/app/themes/nevegfest/assets/img/SponsorEx-Header.jpg) no-repeat center center;
+		background: url(/app/themes/nevegfest/assets/img/application-header.jpg) no-repeat center center;
 		.cover;
-		height: 80vh;
-		min-height: 510px;
+		height: 80vw;
+		min-height: 420px;
+		max-height:480px;
 	}
 }
 #numbers {
@@ -148,7 +215,8 @@ h1, h2, h3, h4 {
 		padding: 20px 0;
 	}
 	.circle {
-		.zona;
+		
+.zona;
 		font-size: 4vw;
 		height: 40vw;
 		width: 40vw;
@@ -213,11 +281,12 @@ h1, h2, h3, h4 {
 .page-header {
 	background: url(/app/themes/nevegfest/assets/img/header-home.jpg) no-repeat center center;
 	height: 90vh;
-	min-height: 550px;
+	min-height: 400px;
+	max-height: 510px;
 	.cover;
 	margin: 0;
 	text-align: center;
-	padding: 100px 0 50px 0;
+	padding: 50px 0 50px 0;
 	img {max-width: 90%;}
 	h1 {
 		margin-bottom: 25px;
@@ -354,8 +423,10 @@ h1, h2, h3, h4 {
 /* ==========================================================================
    Primary Content
    ========================================================================== */
-
-.main { }
+	.main {
+		position: relative;
+		top: 60px;
+	}
 
 /* Gallery Shortcode */
 .gallery-row { padding: 15px 0; }
@@ -548,6 +619,11 @@ body .gform_wrapper div.gform_body ul.gform_fields li.gfield.gfield_html ul li, 
 /* ==========================================================================
    Footer
    ========================================================================== */
+.content-info {
+	.container-fluid:first-child {
+		display: inline;
+	}
+}
 #footer-info {
 	color: @white;
 	text-align: center;
@@ -668,8 +744,17 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 			width: 23vw;
 			background: @yellow;
 			padding: 4.5vw 2vw;
+		}
 	}
-
+	#reasons {
+		background: url(/app/themes/nevegfest/assets/img/why-participate_bg.png) no-repeat center center;
+		background-size: 100% 100%;
+	}
+	#whyparticipate {
+		background: transparent;
+	}
+	#attendeesare {
+		background: transparent;
 	}
 }
 
@@ -692,6 +777,12 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 		b {
 			font-size: 1.4em;
 		}
+	}
+	.sponsor-and-exhibitor-application {
+  	.page-header {
+	    height: 480px;
+  	  min-height: 0;
+  	}
 	}
 }
 
