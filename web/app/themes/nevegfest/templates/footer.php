@@ -1,7 +1,4 @@
 <footer class="content-info" role="contentinfo">
-  <div class="container-fluid">
-    <?php dynamic_sidebar('sidebar-footer'); ?>
-  </div>
 	<div id="footer-info" class="bluebg">
 		<div class="container-fluid">
 			<div class="col-sm-5">
