@@ -20,7 +20,7 @@ Template Name: Exhibitor Template
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>2,000</b><br />attendees in 2011</div></div>
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>3,000</b><br />attendees in 2012</div></div>
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>5,000</b><br />attendees in 2013</div></div>
-		<div class="col-xs-6 col-sm-3"><div class="circle"><b>8,000</b><br />attendees in 2014</div></div>
+		<div class="col-xs-6 col-sm-3"><div class="circle"><b>7,000</b><br />attendees in 2014</div></div>
 	</div>
 </div>
 <div id="reasons">
