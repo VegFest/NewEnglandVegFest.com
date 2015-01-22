@@ -54,9 +54,9 @@ Template Name: Exhibitor Template
     <p class="alignright">-John Camp, Vegan Outreach</p>
   </div>
 </div>
-<div class="container-fluid white center" id="numbers">
+<!--<div class="container-fluid white center" id="numbers">
 	<h2>Past Sponsors &amp; Exhibitors</h2>
-</div>
+</div>-->
 <div class="break" id="cupcakes"></div>
 <div class="container-fluid white" id="sponsor-info">
 	<h2>Sponsorship Levels</h2>
@@ -92,7 +92,7 @@ Template Name: Exhibitor Template
 </li><li>Premium table placement at event
 </li></ul>
 </div></div>
-	<a href="http:/sponsor-and-exhibitor-application/" class="cta yellow">Apply Now</a>
+	<a href="/sponsor-and-exhibitor-application/" class="cta yellow">Apply Now</a>
 	<h2>Exhibitor Options</h2>
 </div>
 <div id="exhibitor-info">
@@ -110,7 +110,7 @@ Template Name: Exhibitor Template
 <b>10'x10' exhibit space for federally-recognized 501c3 organizations, and animal-rights groups.</b>
 </div></li>
 	</div>
-	<a href="http:/sponsor-and-exhibitor-application/" class="cta">Apply Now</a>
+	<a href="/sponsor-and-exhibitor-application/" class="cta">Apply Now</a>
 </div>
 <div class="container-fluid white center" id="sponsor-ask">
 	<h2>Sponsor or Exhibit Now</h2>
@@ -118,7 +118,7 @@ Template Name: Exhibitor Template
 </div>
 <div class="bluebg center">
 	<h2>Want to Sponsor or Exhibit?</h2>
-	<a href="http:/sponsor-and-exhibitor-application/" class="cta red">Apply Now</a>
+	<a href="/sponsor-and-exhibitor-application/" class="cta red">Apply Now</a>
 </div>
 <div class="break" id="joyful"></div>
 </div><!--/content-->
