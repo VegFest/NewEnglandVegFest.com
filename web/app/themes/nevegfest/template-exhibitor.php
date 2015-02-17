@@ -57,7 +57,15 @@ Template Name: Exhibitor Template
 <!--<div class="container-fluid white center" id="numbers">
 	<h2>Past Sponsors &amp; Exhibitors</h2>
 </div>-->
-<div class="break" id="cupcakes"></div>
+<div class="slideshow">
+  <ul>
+    <li><img src="/app/themes/nevegfest/assets/img/crowd2.jpg" alt="" />
+    <li><img src="/app/themes/nevegfest/assets/img/chips.jpg" alt="" />
+    <li><img src="/app/themes/nevegfest/assets/img/hummus.jpg" alt="" />
+    <li><img src="/app/themes/nevegfest/assets/img/merch.jpg" alt="" />
+    <li><img src="/app/themes/nevegfest/assets/img/cupcakes2.jpg" alt="" />
+  </ul>
+</div>
 <div class="container-fluid white" id="sponsor-info">
 	<h2>Sponsorship Levels</h2>
 <div id="field_1_19" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc" style=""><div class="col-sm-4">
