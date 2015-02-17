@@ -44,7 +44,15 @@
 		<img src="/app/themes/nevegfest/assets/img/icon-prizes.png" alt="" />
 	</div>
 </div>
-<div class="break" id="crowd"></div>
+<div class="slideshow">
+	<ul>
+		<li><img src="/app/themes/nevegfest/assets/img/attendees.jpg" alt="" />
+		<li><img src="/app/themes/nevegfest/assets/img/home-bbq2.jpg" alt="" />
+		<li><img src="/app/themes/nevegfest/assets/img/icecream-kid.jpg" alt="" />
+		<li><img src="/app/themes/nevegfest/assets/img/go-vegan.jpg" alt="" />
+		<li><img src="/app/themes/nevegfest/assets/img/cookies.jpg" alt="" />
+	</ul>
+</div>
 <img src="/app/themes/nevegfest/assets/img/bw-people.png" alt="VegFest Attendees" class="fullwidth" />
 <div id="testimonial" class="32">
 	<div class="container-fluid">
