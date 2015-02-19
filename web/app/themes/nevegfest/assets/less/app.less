@@ -131,7 +131,9 @@ h1, h2, h3, h4 {
 	text-transform: uppercase;
 	font-size: 18px;
 	white-space: nowrap;
-	&:first-child {margin-right: 16px;}
+	&:first-child {
+		margin-right: 16px;
+	}
 	transition: all, .2s;
 	&:hover {
 		background: darken(@blue, 10%);
@@ -336,7 +338,7 @@ h1, h2, h3, h4 {
 .page-header {
 	background: url(/app/themes/nevegfest/assets/img/header-home.jpg) no-repeat center center;
 	height: 90vh;
-	min-height: 400px;
+	min-height: 440px;
 	max-height: 510px;
 	.cover;
 	margin: 0;
@@ -354,10 +356,13 @@ h1, h2, h3, h4 {
 }
 
 .ctas {
-	height: 70px;
 	padding-bottom: 20px;
 	.zona;
 	font-size: 16px;
+	.cta {
+		display: inline-block;
+		&:first-child {margin-bottom: 10px;}
+	}	
 }
 .navbar {
 	margin: 0;
@@ -758,6 +763,9 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    ========================================================================== */
 
 @media (min-width: @screen-sm-min) { 
+	.ctas {
+		height: 70px;
+	}
 	#mc_embed_signup {
 		input[type="email"] {
 			width: auto;
