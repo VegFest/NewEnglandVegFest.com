@@ -433,8 +433,9 @@ h1, h2, h3, h4 {
 .home #features {
 	display: table;
 	.box {
-		font-size: 1em;
-		font-family: 'Open Sans', sans-serif;
+		.zona;
+		font-size: .9em;
+		min-height: 238px;
 	}
 }
 .box {
@@ -765,6 +766,12 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 @media (min-width: @screen-sm-min) { 
 	.ctas {
 		height: 70px;
+	}
+	.home #features { 
+		.box {
+			min-height: 0;
+			font-size: 1em;
+		}
 	}
 	#mc_embed_signup {
 		input[type="email"] {
