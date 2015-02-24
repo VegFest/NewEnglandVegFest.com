@@ -6,7 +6,7 @@ Template Name: Exhibitor Template
 <?php get_template_part('templates/page', 'header'); ?>
 <div class="content">
 <div class="container-fluid" id="about" class="32">
-  <p>The New England VegFest is a free festival that brings the local community together to celebrate vegetarianism: an animal-friendly, environmentally sustainable, and healthy lifestyle. The VegFest began in 2011 as the Worcester VegFest. This year, we're growing to encompass all of New England.</p>
+  <p>The New England VegFest is a free festival that brings the local community together to celebrate vegetarianism: an animal-friendly, environmentally sustainable, and healthy lifestyle. The VegFest began in 2010 as the Worcester VegFest. This year, we're growing to encompass all of New England.</p>
 </div>
 <div id="features">
 	<div class="box"><p><b>Free</b><br />Admission</p></div>
@@ -40,7 +40,7 @@ Template Name: Exhibitor Template
 		<ul>
 			<li><b>Young:</b> Two-thirds of attendees are between ages 18-45.
 			<li><b>Motivated:</b> Most travel 20-80 miles to attend.
-			<li><b>Environmentally Aware:</b> Attendees are interested in brands that make help create positive change.
+			<li><b>Environmentally Aware:</b> Attendees are interested in brands that help create positive change.
 			<li><b>Health-conscious:</b> They prefer healthy foods and organic products.
 			<li><b>Open-minded, early adopters:</b> They are eager try and purchase new products, tell their friends, and use social media.
 			<li><b>Active:</b> They support organizations &amp; make donations.
@@ -51,7 +51,7 @@ Template Name: Exhibitor Template
 <div id="testimonial" class="32">
   <div class="container-fluid">
     <p class="alignleft">As someone who has spoken at-and attended-many vegetarian festivals throughout the United States, I've come to see the Worcester VegFest as one of the best in the country...the fest is always so well-attended, well-organized, and it teems with high-quality vendors and speakers."</p>
-    <p class="alignright">-John Camp, Vegan Outreach</p>
+    <p class="alignright">-Jon Camp, Vegan Outreach</p>
   </div>
 </div>
 <!--<div class="container-fluid white center" id="numbers">
