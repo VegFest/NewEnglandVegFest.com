@@ -61,6 +61,25 @@
 	</div>
 </div>
 <div class="break" id="food"></div>
+<div id="sponsors">
+	<h2>Our Sponsors</h2>
+
+	<div class="col-md-6" id="gold">
+		<h3>Gold</h3>
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WorcesterMag.png" alt="Worcester Magazine" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/SpiritOfChange.png" alt="Spirit Of Change" />
+	</div>
+	<div class="col-md-6" id="silver">
+		<h3>Silver</h3>
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WayBetterSnacks.png" alt="Way Better Snacks" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/motive-company.png" alt="Motive Company" />
+	</div>
+	<div class="col-xs-12" id="bronze">
+		<h3>Bronze</h3>
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/Vitamix.png" alt="Vitamix" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/LovingHut.png" alt="Loving Hut" />
+	</div>
+</div>
 			<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
 			<div style="overflow:hidden;height:360px;width:100%;"><div id="gmap_canvas" style="height:360px;width:100%;"></div>
 			<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>

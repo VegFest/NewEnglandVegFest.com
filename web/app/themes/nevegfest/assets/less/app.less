@@ -545,6 +545,32 @@ h1, h2, h3, h4 {
 	background: url(/app/themes/nevegfest/assets/img/home-bbq.jpg) no-repeat center center;
 	.cover;	
 }
+#sponsors {
+	padding: 50px 0;
+	text-align: center;
+	text-transform: uppercase;
+	background: @yellow;
+	display: inline-block;
+	width: 100%;
+	#gold, #silver {
+		padding-bottom: 40px;
+	}
+	h2 {
+		.zona;
+		margin-bottom: 1em;
+	}
+	h3 {
+		color: @black;
+		.zona;
+		opacity: .6;
+		font-size: 1.4em;
+		margin: 0;
+	}
+	img {
+		display: inline-block;
+		opacity: .7;
+	}
+}
 #testimonial {
 	background: url(/app/themes/nevegfest/assets/img/Green-quote-bg.jpg) no-repeat center center;
 	.cover;	
@@ -926,6 +952,9 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 }
 
 @media (min-width: @screen-md-min) {
+	#sponsors {
+		img {max-width: 49%;}
+	}
 	.break {
 		background-attachment: fixed !important;
 	}	
