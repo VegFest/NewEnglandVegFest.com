@@ -76,7 +76,7 @@
 	</div>
 	<div class="col-xs-12" id="bronze">
 		<h3>Bronze</h3>
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/Vitamix.png" alt="Vitamix" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vitamix.png" alt="Vitamix" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/LovingHut.png" alt="Loving Hut" />
 	</div>
 </div>
