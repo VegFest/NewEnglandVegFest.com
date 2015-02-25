@@ -475,6 +475,7 @@ h1, h2, h3, h4 {
 }
 .navbar-default .navbar-nav>.menu-contact-us>a {
 	border-top: 8px solid @red;
+	background: transparent !important;
 	color: @red !important;
 	transition: all, .2s;
 	&:hover, &:active {
@@ -865,6 +866,13 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 	#contact {
 		max-height: 365px;
 	}
+	.close, .close:visited, .close:active {
+		color: darken(@blue, 20%);
+		font-size: 2em;
+		&:hover {
+			color: @blue;
+		}
+	}	
 	.ctas {
 		height: 70px;
 	}
