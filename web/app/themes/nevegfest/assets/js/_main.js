@@ -71,4 +71,10 @@ $(document).ready(function() {
     dots: true,               //  Display dot navigation
     fluid: false              //  Support responsive design. May break non-responsive designs
   });
+	$('.close').click(function() {
+		$('#contact').modal('hide');
+	});
+	$('.open').click(function() {
+		$('#contact').modal('show');
+	});
 });

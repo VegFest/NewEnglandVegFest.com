@@ -269,8 +269,58 @@ h1, h2, h3, h4 {
 		.cover;
 		height: 80vw;
 		min-height: 420px;
-		max-height:480px;
+		max-height:4800px;
 	}
+}
+#contact {
+	background: @white;
+	border-radius: 15px;
+	width: 80%;
+	max-width: 600px;
+	margin: 50px auto 0;
+	height: auto;
+	text-align: center;
+	.ctas {
+		padding: 0 0 0 0;
+		height: auto;
+		margin-top: 20px;
+		.cta:nth-child(2) {
+			margin-bottom: 10px;
+		}
+	}
+	h3 {
+		color: @gold;
+	}
+	.modal-header {
+		border: 0;
+	}
+	.modal-body {
+		padding-top: 0;
+		padding-bottom: 0;
+	}
+	.gold {
+		padding-bottom: 20px;
+		font-size: .9em;
+		color: lighten(@gold, 20%);
+		a, a:visited, a:active {
+			color: lighten(@yellow, 10%);
+		}
+	}
+	.modal-footer {
+		border: 0;
+		text-align: center;
+		font-size: 1.2em;
+		img {width: 90%; max-width: 420px; }
+		a, a:visited, a:active {
+			color: @blue;
+			transition: all, .2s;
+			text-decoration: none;
+			&:hover {
+				color: lighten(@blue, 10%);
+				text-decoration: none;
+			}
+		}
+	};
 }
 #numbers {
 	.pad {
@@ -415,6 +465,15 @@ h1, h2, h3, h4 {
 	&:hover, &:active {
 		color: lighten(@blue, 20%);
 		border-color: lighten(@blue, 20%);
+	}
+}
+.navbar-default .navbar-nav>.menu-contact-us>a {
+	border-top: 8px solid @red;
+	color: @red !important;
+	transition: all, .2s;
+	&:hover, &:active {
+		color: lighten(@red, 20%);
+		border-color: lighten(@red, 20%);
 	}
 }
 
@@ -771,6 +830,9 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    ========================================================================== */
 
 @media (min-width: @screen-sm-min) { 
+	#contact {
+		max-height: 450px;
+	}
 	.ctas {
 		height: 70px;
 	}

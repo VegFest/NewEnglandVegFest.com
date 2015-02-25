@@ -4,7 +4,7 @@
   </h1>
 		<?php if (is_front_page()) { ?>
 			<div class="ctas">
-				<a class="cta" href="//www.facebook.com/events/355366494646694/" target="_blank">RSVP</a>
+				<a class="cta" href="//www.facebook.com/events/355366494646694/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP</a>
 				<a class="cta" href="/sponsor-exhibitor-guide/">Sponsor / Exhibit</a>
 			</div>
 			<h2>Sunday, April 26 2015 &middot; 11AM-5PM &middot; Worcester, MA</h2>

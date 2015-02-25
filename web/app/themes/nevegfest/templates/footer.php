@@ -47,5 +47,25 @@
 		<a href="http://vegworcester.com" target="_blank"><img src="/app/themes/nevegfest/assets/img/VegWorcester.png" alt="Presented by VegWorcester" /></a>
 	</div>
 </footer>
-
+<div id="contact" class="modal fade in">
+            <div class="modal-header">
+              <a href="#" data-controls-modal="contact" class="close">×</a>
+            </div>
+            <div class="modal-body">
+							<h3>Contact Us</h3>
+							<p class="gold">For general inquiries, contact <a href="mailto:info@vegworcester.com">info@VegWorcester.com</a>. 
+						For sponsor and exhibitor information, contact <a href="mailto:manda@vegworcester.com">Manda@VegWorcester.com</a></p>
+              <h3>Connect with VegFest</h3>
+							<div class="ctas">
+								<a class="cta" href="//www.facebook.com/events/355366494646694/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP</a>
+								<a class="cta" href="https://twitter.com/hashtag/NEVegFest" target="_blank"><i class="fa fa-twitter"></i> #NEVegFest</a> 
+								<a class="cta" href="https://instagram.com/vegworcester" target="_blank"><i class="fa fa-instagram"></i> #NEVegFest</a>
+							</div>
+            </div>
+            <div class="modal-footer">
+							<a href="http://vegworcester.com"><img src="/app/themes/nevegfest/assets/img/VegWorcester.png" alt="Presented by VegWorcester"></a><br />
+							<a href="https://www.facebook.com/vegworcester" target="_blank"><i class="fa fa-facebook-square"></i> facebook.com/VegWorcester</a>
+							<a href="https://www.twitter.com/vegworcester" target="_blank"><i class="fa fa-twitter"></i> @VegWorcester</a> 
+            </div>
+          </div>
 <?php wp_footer(); ?>
