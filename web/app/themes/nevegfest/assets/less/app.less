@@ -284,6 +284,7 @@ h1, h2, h3, h4 {
 		padding: 0 0 0 0;
 		height: auto;
 		margin-top: 20px;
+		.cta {width: 100%;}
 		.cta:first-child {
 			margin-right: 0;
 		}
@@ -293,17 +294,17 @@ h1, h2, h3, h4 {
 	}
 	h3 {
 		color: @gold;
+		margin-bottom: 1em;
 	}
 	.modal-header {
 		border: 0;
 	}
 	.modal-body {
 		padding-top: 0;
-		padding-bottom: 0;
+		display:inline-block;
 	}
 	.gold {
 		padding-bottom: 20px;
-		font-size: .9em;
 		color: lighten(@gold, 20%);
 		a, a:visited, a:active {
 			color: lighten(@yellow, 10%);
@@ -313,6 +314,8 @@ h1, h2, h3, h4 {
 		border: 0;
 		text-align: center;
 		font-size: 1.2em;
+		margin: 0;
+		padding-top: 0;
 		img {width: 90%; max-width: 420px; }
 		a, a:visited, a:active {
 			color: @blue;
@@ -834,7 +837,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 
 @media (min-width: @screen-sm-min) { 
 	#contact {
-		max-height: 450px;
+		max-height: 365px;
 	}
 	.ctas {
 		height: 70px;
