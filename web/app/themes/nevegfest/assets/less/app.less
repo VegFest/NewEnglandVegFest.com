@@ -553,8 +553,27 @@ h1, h2, h3, h4 {
 	background: @yellow;
 	display: inline-block;
 	width: 100%;
+	.container-fluid {
+		padding: 0;
+		max-width: 900px;
+	}
 	#gold, #silver {
 		padding-bottom: 40px;
+	}
+	#mission, #gold {
+		img {
+			width: 95%;
+			max-width: 400px;
+		}
+	}
+	#gold {
+		img {max-width: 250px;}
+	}
+	#silver, #bronze {
+		img {
+			width: 49%;
+			max-width: 250px;
+		}
 	}
 	h2 {
 		.zona;
@@ -563,13 +582,12 @@ h1, h2, h3, h4 {
 	h3 {
 		color: @black;
 		.zona;
-		opacity: .6;
+		opacity: .2;
 		font-size: 1.4em;
-		margin: 0;
+		margin: .5em 0;
 	}
 	img {
 		display: inline-block;
-		opacity: .7;
 	}
 }
 #testimonial {
@@ -957,11 +975,35 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 	#attendeesare {
 		background: transparent;
 	}
+	#sponsors {
+		#mission {
+			img {
+				max-width: 500px;
+			}
+		}
+		#gold {
+			img {
+				width: 49%;
+				max-width: 350px;
+			}
+		}
+		#silver {
+			img {
+				width: 49%;
+				max-width: 300px;
+			}
+		}
+		#bronze {
+			img {max-width:300px;}
+		}
+	}
 }
 
 @media (min-width: @screen-md-min) {
 	#sponsors {
-		img {max-width: 49%;}
+		#silver {
+			img {width: 33%;}
+		}
 	}
 	.break {
 		background-attachment: fixed !important;
@@ -993,5 +1035,17 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 @media (min-width: @screen-lg-min) {
 	.home #features {
 		.box {min-height: 240px;}
+	}
+	#sponsors {
+		#mission, #gold {
+			img {
+				max-width: 450px;
+			}
+		}
+		#silver {
+			img {
+				max-width: 350px;
+			}
+		}
 	}
 }

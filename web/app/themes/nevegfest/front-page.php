@@ -63,21 +63,29 @@
 <div class="break" id="food"></div>
 <div id="sponsors">
 	<h2>Our Sponsors</h2>
-
-	<div class="col-md-6" id="gold">
-		<h3>Gold</h3>
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WorcesterMag.png" alt="Worcester Magazine" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/SpiritOfChange.png" alt="Spirit Of Change" />
+	<div class="col-xs-12 col-lg-4" id="mission">
+		<h3>Mission Partner</h3>
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/green-monday.png" alt="Green Monday" />
 	</div>
-	<div class="col-md-6" id="silver">
-		<h3>Silver</h3>
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WayBetterSnacks.png" alt="Way Better Snacks" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/motive-company.png" alt="Motive Company" />
+	<div class="col-xs-12 col-lg-8" id="gold">
+		<h3>Gold Partners</h3>
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/SpiritOfChange.png" alt="Spirit Of Change" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WorcesterMag.png" alt="Worcester Magazine" />
+	</div>
+	<div class="col-xs-12" id="silver">
+		<div class="container-fluid">
+			<h3>Silver Partners</h3>
+			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/motive-company.png" alt="Motive Company" />
+			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/organic-living.png" alt="Organic Living Superfoods" />
+			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegan-treats.png" alt="Vegan Treats" />
+			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WayBetterSnacks.png" alt="Way Better Snacks" />
+			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/well-fed-world.png" alt="Well Fed World" />
+		</div>
 	</div>
 	<div class="col-xs-12" id="bronze">
-		<h3>Bronze</h3>
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vitamix.png" alt="Vitamix" />
+		<h3>Bronze Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/LovingHut.png" alt="Loving Hut" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vitamix.png" alt="Vitamix" />
 	</div>
 </div>
 			<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
