@@ -70,7 +70,7 @@
 	<div class="col-xs-12 col-lg-8" id="gold">
 		<h3>Gold Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/SpiritOfChange.png" alt="Spirit Of Change" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WorcesterMag.png" alt="Worcester Magazine" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WorcesterMag.png" class="square" alt="Worcester Magazine" />
 	</div>
 	<div class="col-xs-12" id="silver">
 		<div class="container-fluid">
@@ -85,7 +85,9 @@
 	<div class="col-xs-12" id="bronze">
 		<h3>Bronze Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/LovingHut.png" alt="Loving Hut" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/Tofutti.png" class="square" alt="Tofutti" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vitamix.png" alt="Vitamix" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/VeganProteins.png" alt="Vegan Proteins" />
 	</div>
 </div>
 			<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
