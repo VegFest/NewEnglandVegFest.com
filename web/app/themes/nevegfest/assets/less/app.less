@@ -986,17 +986,19 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 		#gold {
 			img {
 				width: 49%;
-				max-width: 350px;
+				max-width: 300px;
 				&.square {max-width: 200px;}
 			}
 		}
 		#silver {
 			img {
 				width: 49%;
-				max-width: 300px;
+				max-width: 280px;
 			}
 		}
 		#bronze {
+			width: 80%;
+			margin: 0 10%;
 			img {max-width:300px;
 				&.square {max-width: 150px;}
 			}
@@ -1007,7 +1009,14 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 @media (min-width: @screen-md-min) {
 	#sponsors {
 		#silver {
-			img {width: 33%;}
+			img {
+				width: 33%; 
+				max-width: 280px;
+			}
+		}
+		#bronze {
+				width: 80%;
+				margin: 0 10%;
 		}
 	}
 	.break {
@@ -1044,15 +1053,19 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 	#sponsors {
 		#mission, #gold {
 			img {
-				max-width: 450px;
+				max-width: 350px;
 				&.square {max-width: 200px;}
 			}
 		}
 		#silver {
 			img {
-				max-width: 350px;
-				&.square {max-width: 300px;}
+				max-width: 280px;
+				&.square {max-width: 250px;}
 			}
+		}
+		#bronze {
+				width: 65%;
+				margin: 0 17.5%;
 		}
 	}
 }
