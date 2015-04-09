@@ -85,7 +85,7 @@
 	<div class="col-xs-12" id="bronze">
 		<h3>Bronze Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/LovingHut.png" alt="Loving Hut" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/Tofutti.png" class="square" alt="Tofutti" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/tofutti.png" class="square" alt="Tofutti" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vitamix.png" alt="Vitamix" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/VeganProteins.png" alt="Vegan Proteins" />
 	</div>
