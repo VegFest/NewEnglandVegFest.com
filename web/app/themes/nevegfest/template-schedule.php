@@ -74,11 +74,11 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12:15PM</h2>
+				<p>Lena of Vegitopia and the Mystery of the Missing Animals is a vegan-themed fairy tale about how one brave little girl stands up for the animal friends of her land and helps rescue them from being eaten. The book promotes messages of kindness, compassion, and action and shows that magical things can happen when you harness the power of veggies.</p>
+				<p><a href="http://veganpublishers.com/multimedia-archive/lena-of-vegitopia-and-the-mystery-of-the-missing-animals/" target="_blank">Vegan Publishers: Lena of Vegitopia</a></p>
 			</div>	
 			<div class="col-sm-9">
 				<h2>Children's Book Reading</h2>
-				<p>Vegan Publishers do a live reading of <i>Dave Loves Chickens</i>. Do you love chickens? Dave does! Dave is a lovely monster from far far away that doesn’t understand why humans eat animals. Come with Dave and explore the fascinating world of chickens and their many talents. Written and illustrated by Carlos Patino. 
-				<p><a href="http://veganpublishers.com/multimedia-archive/dave-loves-chickens/" target="_blank">Vegan Publishers: Dave Loves Chickens</a></p>
 			</div>
 		</div>
 	</div>
@@ -101,8 +101,8 @@ Template Name: Schedule Template
 			</div>	
 			<div class="col-sm-9">
 				<h2>Children's Book Reading</h2>
-				<p>Lena of Vegitopia and the Mystery of the Missing Animals is a vegan-themed fairy tale about how one brave little girl stands up for the animal friends of her land and helps rescue them from being eaten. The book promotes messages of kindness, compassion, and action and shows that magical things can happen when you harness the power of veggies.</p>
-				<p><a href="http://veganpublishers.com/multimedia-archive/lena-of-vegitopia-and-the-mystery-of-the-missing-animals/" target="_blank">Vegan Publishers: Lena of Vegitopia</a></p>
+				<p>Vegan Publishers do a live reading of <i>Dave Loves Chickens</i>. Do you love chickens? Dave does! Dave is a lovely monster from far far away that doesn’t understand why humans eat animals. Come with Dave and explore the fascinating world of chickens and their many talents. Written and illustrated by Carlos Patino. 
+				<p><a href="http://veganpublishers.com/multimedia-archive/dave-loves-chickens/" target="_blank">Vegan Publishers: Dave Loves Chickens</a></p>
 			</div>
 		</div>
 	</div>
