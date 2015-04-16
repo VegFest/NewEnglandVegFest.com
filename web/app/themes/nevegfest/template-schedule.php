@@ -77,11 +77,11 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12:15PM</h2>
-				<p>Lena of Vegitopia and the Mystery of the Missing Animals is a vegan-themed fairy tale about how one brave little girl stands up for the animal friends of her land and helps rescue them from being eaten. The book promotes messages of kindness, compassion, and action and shows that magical things can happen when you harness the power of veggies.</p>
-				<p><a href="http://veganpublishers.com/multimedia-archive/lena-of-vegitopia-and-the-mystery-of-the-missing-animals/" target="_blank">Vegan Publishers: Lena of Vegitopia</a></p>
 			</div>	
 			<div class="col-sm-9">
 				<h2>Children's Book Reading</h2>
+				<p>Lena of Vegitopia and the Mystery of the Missing Animals is a vegan-themed fairy tale about how one brave little girl stands up for the animal friends of her land and helps rescue them from being eaten. The book promotes messages of kindness, compassion, and action and shows that magical things can happen when you harness the power of veggies.</p>
+				<p><a href="http://veganpublishers.com/multimedia-archive/lena-of-vegitopia-and-the-mystery-of-the-missing-animals/" target="_blank">Vegan Publishers: Lena of Vegitopia</a></p>
 			</div>
 		</div>
 	</div>
