@@ -25,10 +25,12 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>1PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/plantbuilt.jpg" alt="Giacomo and Dani" />
 			</div>	
 			<div class="col-sm-9">
-				<h2>???</h2>
-				<p>Check back for our official presentation announcements</p>
+				<h2>Giacamo Marchese and Dani Taylor, PlantBuilt </h2>
+				<p>PlantBuilt is a 501(c)(3) non profit organization and a collaboration of vegan strength based athletes who compete annually to dispel the myths that vegans are weak and scrawny.  PlantBuilt also raises much needed funds for farm sanctuaries and vegan outreach.  Meet several team members from this years squad of bodybuilders, cross fitters, powerlifters, and kettle bell sport athletes, and find out why they believe that a message of compassion in athletics and competition is so important.  
+</p>
 			</div>
 		</div>
 	</div>
@@ -48,10 +50,11 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>3:30PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/cowspiracy.png" alt="Cowspiracy" />
 			</div>	
 			<div class="col-sm-9">
-				<h2>???</h2>
-				<p>Check back for our official presentation announcements</p>
+				<h2>Movie Screening: Cowspiracy</h2>
+				<p>Cowspiracy: The Sustainability Secret is a groundbreaking feature-length environmental documentary following intrepid filmmaker Kip Andersen as he uncovers the most destructive industry facing the planet today – Animal agriculture - and investigates why the world’s leading environmental organizations are too afraid to talk about it.</p>
 			</div>
 		</div>
 	</div>
