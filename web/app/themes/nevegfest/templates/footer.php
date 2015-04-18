@@ -54,7 +54,7 @@
             <div class="modal-body">
 							<div class="col-sm-6">
 							<h3>Contact Us</h3>
-							<p class="gold">For general inquiries, contact <a href="mailto:info@vegworcester.com">info@VegWorcester.com</a>. For sponsor and exhibitor information, contact <a href="mailto:manda@vegworcester.com">Manda@VegWorcester.com</a></p>
+							<p class="gold">For general inquiries, contact <a href="mailto:info@vegworcester.com">info@VegWorcester.com</a>.</p>
 							</div><div class="col-sm-6">
               <h3>Connect with VegFest</h3>
 							<div class="ctas">
@@ -70,7 +70,6 @@
 							<a href="https://www.twitter.com/vegworcester" target="_blank"><i class="fa fa-twitter"></i> @VegWorcester</a> 
             </div>
           </div>
-<?php wp_footer(); ?>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -79,4 +78,6 @@
 
   ga('create', 'UA-60447757-1', 'auto');
   ga('send', 'pageview');
+
 </script>
+<?php wp_footer(); ?>
