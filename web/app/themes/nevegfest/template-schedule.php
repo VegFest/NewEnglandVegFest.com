@@ -68,7 +68,7 @@ Template Name: Schedule Template
 			</div>	
 			<div class="col-sm-9">
 				<h2>Flowforms Yoga</h2>
-				<p>Enjoy a family-friendly yoga session guided by local teachers from Worcester's Flowforms Yoga. Yoga makes your mind calm and peaceful and opens your heart. It tones, strengthens and heals your body. Presentation is appropriate for all ages, fitness levels and body types. *Bring your own yoga mat! </p>
+				<p>Enjoy a family-friendly yoga session guided by local teachers from Worcester's Flowforms Yoga. Yoga makes your mind calm and peaceful and opens your heart. It tones, strengthens and heals your body. Presentation is appropriate for all ages, fitness levels and body types. </p>
 				<p><a href="http://FlowformsYoga.com" target="_blank">Flowforms Yoga</a></p>
 			</div>
 		</div>
