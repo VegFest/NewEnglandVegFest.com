@@ -55,6 +55,7 @@ Template Name: Schedule Template
 			<div class="col-sm-9">
 				<h2>Movie Screening: Cowspiracy</h2>
 				<p>Cowspiracy: The Sustainability Secret is a groundbreaking feature-length environmental documentary following intrepid filmmaker Kip Andersen as he uncovers the most destructive industry facing the planet today – Animal agriculture - and investigates why the world’s leading environmental organizations are too afraid to talk about it.</p>
+				<p><a href="http://vegfund.org" target="_blank">Sponsored by VegFund</a>
 			</div>
 		</div>
 	</div>
