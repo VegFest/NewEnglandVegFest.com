@@ -78,8 +78,9 @@
 			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/motive-company.png" alt="Motive Company" />
 			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/organic-living.png" alt="Organic Living Superfoods" />
 			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegan-treats.png" alt="Vegan Treats" />
+			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegfund.png" class="square" alt="VefFund" />
 			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WayBetterSnacks.png" alt="Way Better Snacks" />
-			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/well-fed-world.png" alt="Well Fed World" />
+			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/well-fed-world.png" class="square" alt="Well Fed World" />
 		</div>
 	</div>
 	<div class="col-xs-12" id="bronze">
@@ -89,6 +90,7 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/tofutti.png" class="square" alt="Tofutti" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/VeganProteins.png" alt="Vegan Proteins" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vitamix.png" alt="Vitamix" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/wegmans.png" alt="Wegmans" />
 	</div>
 </div>
 			<script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
