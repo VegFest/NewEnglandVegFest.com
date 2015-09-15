@@ -100,7 +100,7 @@ Template Name: Exhibitor Template
 </li><li>Premium table placement at event
 </li></ul>
 </div></div>
-	<a href="/sponsor-and-exhibitor-application/" class="cta yellow">Apply Now</a>
+<!--	<a href="/sponsor-and-exhibitor-application/" class="cta yellow">Apply Now</a>-->
 	<h2>Exhibitor Options</h2>
 </div>
 <div id="exhibitor-info">
@@ -118,15 +118,15 @@ Template Name: Exhibitor Template
 <b>10'x10' exhibit space for federally-recognized 501c3 organizations, and animal-rights groups.</b>
 </div></li>
 	</div>
-	<a href="/sponsor-and-exhibitor-application/" class="cta">Apply Now</a>
+<!--	<a href="/sponsor-and-exhibitor-application/" class="cta">Apply Now</a>-->
 </div>
 <div class="container-fluid white center" id="sponsor-ask">
 	<h2>Sponsor or Exhibit Now</h2>
 	<p>VegWorcester and New England VegFest are 100% organized by volunteers. We rely on support from our sponsors and exhibitors to make this incredible event happen. The VegFest is an amazing way to connect with your customers, supporters, and the community. Please join us, and help make this our most successful year yet! Space is limited, and available on a first-come-first-serve basis.</p>
 </div>
-<div class="bluebg center">
+<!--<div class="bluebg center">
 	<h2>Want to Sponsor or Exhibit?</h2>
-	<a href="/sponsor-and-exhibitor-application/" class="cta red">Apply Now</a>
+	<a href="/sponsor-and-exhibitor-application/" class="cta red">Apply Now</a>-->
 </div>
 <div class="break" id="joyful"></div>
 </div><!--/content-->

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html class="no-js" <?php language_attributes(); ?>>
 <head>
+  <meta name="google-site-verification" content="cUaNWZUN2DyHaytuVCJwePzwJIsWZj6Mk4Zw46tY9F0" />
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title><?php wp_title('|', true, 'right'); ?></title>
