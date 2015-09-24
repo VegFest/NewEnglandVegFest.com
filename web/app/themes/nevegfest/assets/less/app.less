@@ -13,6 +13,7 @@
 @black:			#222222;
 @gold:			#9b8579;
 @cream:			#fffaef;
+@lightgray: rgb(238, 238, 238);
 
 .bluebg {
 	background: @blue;
@@ -77,13 +78,13 @@ body {
         height: 10px;
         margin: 0 4px;
         text-indent: -999em;
-  
+
         border: 2px solid #fff;
         border-radius: 6px;
-  
+
         cursor: pointer;
         opacity: .4;
-  
+
         -webkit-transition: background .5s, opacity .5s;
         -moz-transition: background .5s, opacity .5s;
         transition: background .5s, opacity .5s;
@@ -101,7 +102,7 @@ body {
       filter: drop-shadow(0 1px 2px rgba(0,0,0,.3));
     }
 	}
-	
+
 img {max-width: 100%;}
 
 h1, h2, h3, h4 {
@@ -379,7 +380,7 @@ h1, h2, h3, h4 {
 		padding: 20px 0;
 	}
 	.circle {
-		
+
 .zona;
 		font-size: 4vw;
 		height: 40vw;
@@ -412,7 +413,7 @@ h1, h2, h3, h4 {
 }
 #sponsor-info {
 	h2 {
-		text-align: center; 
+		text-align: center;
 		margin-bottom: 1em;
 		font-size: 2.4em;
 		&:last-child {
@@ -469,7 +470,7 @@ h1, h2, h3, h4 {
 	.cta {
 		display: inline-block;
 		&:first-child {margin-bottom: 10px;}
-	}	
+	}
 }
 .navbar {
 	margin: 0;
@@ -584,12 +585,12 @@ h1, h2, h3, h4 {
 
 #crowd {
 	background: url(/app/themes/nevegfest/assets/img/attendees.jpg) no-repeat center center;
-	.cover;	
+	.cover;
 	max-height: 560px;
 }
 #food {
 	background: url(/app/themes/nevegfest/assets/img/home-bbq.jpg) no-repeat center center;
-	.cover;	
+	.cover;
 }
 #sponsors {
 	padding: 50px 0;
@@ -639,7 +640,7 @@ h1, h2, h3, h4 {
 }
 #testimonial {
 	background: url(/app/themes/nevegfest/assets/img/Green-quote-bg.jpg) no-repeat center center;
-	.cover;	
+	.cover;
 	padding: 0 30px;
 	color: @white;
 	.zona;
@@ -658,7 +659,10 @@ h1, h2, h3, h4 {
 /* Gallery Shortcode */
 .gallery-row { padding: 15px 0; }
 
-#gform_submit_button_1, #gform_submit_button_2, #gform_submit_button_3 {
+#gform_submit_button_1,
+#gform_submit_button_2,
+#gform_submit_button_3,
+.gform_button[type="submit"] {
 	.cta;
 	.zona;
 	background: @green;
@@ -674,7 +678,7 @@ h1, h2, h3, h4 {
 .gform_footer {
 	text-align: center;
 }
-#field_1_6 {
+#field_1_6, #field_4_6 {
 	display: inline-block;
 	float: right;
 }
@@ -702,7 +706,7 @@ h1, h2, h3, h4 {
 		margin-bottom: .5em;
 	}
 }
-#field_1_24 {
+#field_1_24, #field_4_24 {
 	div {
 		padding: 15px;
 		border: 1px dotted #dedede;
@@ -725,16 +729,17 @@ h1, h2, h3, h4 {
 #field_1_5 {
 	.gfield_description {
 		text-align: center;
-	}	
+	}
 }
-#input_1_5 {
+#input_1_5, #input_4_5 {
 	margin: 1em auto 0 auto !important;
 	display: table;
 	text-align: center;
 	input[name="input_5"] {
 		display: none;
 	}
-	.gchoice_5_0, .gchoice_5_1 {
+	.gchoice_5_0, .gchoice_5_1,
+  .gchoice_4_5_0, .gchoice_4_5_1 {
 		display: inline-block;
 		label {
 			.cta;
@@ -747,11 +752,13 @@ h1, h2, h3, h4 {
 			min-width: 205px;
 		}
 	}
-	.gchoice_5_1 label {
-		background: @red;
-		&:hover {
-			background: darken(red, 10%);
-		}
+	.gchoice_5_1, .gchoice_4_5_1 {
+    label {
+		  background: @red;
+		  &:hover {
+			 background: darken(red, 10%);
+		  }
+    }
 	}
 }
 
@@ -763,7 +770,8 @@ h1, h2, h3, h4 {
 }
 
 /* Sponsor and Exhibitor Options */
-#input_1_3, #input_1_8 {
+#input_1_3, #input_1_8,
+#input_4_3, #input_4_8 {
 	.ginput_price {display: none;}
 	li {
 		display: inline-block;
@@ -776,7 +784,8 @@ h1, h2, h3, h4 {
 		margin-left: 36px;
 	}
 }
-#field_1_19 {
+#field_1_19,
+#field_4_19 {
 	display: table;
 	width: 100%;
 	max-width: 1100px;
@@ -820,7 +829,7 @@ h1, h2, h3, h4 {
 		padding: 0;
 		font-size: 14px;
 		list-style-type: none;
-		li {		
+		li {
 			padding: 8px 16px;
 			margin: 0 !important;
 		}
@@ -833,6 +842,11 @@ h1, h2, h3, h4 {
 	}
 	b {display:inline-block; padding-left: 5px;}
 }
+
+.gfield .textarea {
+  border-color: @lightgray;
+}
+
 body .gform_wrapper div.gform_body ul.gform_fields li.gfield.gfield_html ul li, body .gform_wrapper form div.gform_body ul.gform_fields li.gfield.gfield_html ul li {
 	list-style-type: none !important;
 	margin: 0 !important;
@@ -870,7 +884,7 @@ body .gform_wrapper div.gform_body ul.gform_fields li.gfield.gfield_html ul li, 
 	color: @white;
 	text-align: center;
 	a, a:visited {
-		color: @white; 
+		color: @white;
 		font-weight: bold;
 	}
 	img.alignright {
@@ -941,7 +955,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
    Media Queries
    ========================================================================== */
 
-@media (min-width: @screen-sm-min) { 
+@media (min-width: @screen-sm-min) {
 	#contact {
 		max-height: 365px;
 	}
@@ -951,11 +965,11 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 		&:hover {
 			color: @blue;
 		}
-	}	
+	}
 	.ctas {
 		height: 70px;
 	}
-	.home #features { 
+	.home #features {
 		.box {
 			min-height: 0;
 			font-size: 1em;
@@ -978,7 +992,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 	}
 	#about p {
 		padding: 0 30px;
-		font-size: 36px;	
+		font-size: 36px;
 	}
 	#footer-info {
 		img.alignright {
@@ -1069,7 +1083,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 	#sponsors {
 		#silver {
 			img {
-				width: 33%; 
+				width: 33%;
 				max-width: 280px;
 			}
 		}
@@ -1080,7 +1094,7 @@ figure.alignnone { margin-left: 0; margin-right: 0; }
 	}
 	.break {
 		background-attachment: fixed !important;
-	}	
+	}
 	#footer-info {
 		img.alignright {
 			max-width: 128px;
