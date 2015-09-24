@@ -1,4 +1,4 @@
-NEVegfest
+NEVegFest
 =========
 
-Website for the New England Vegfest
+Website for the New England VegFest
