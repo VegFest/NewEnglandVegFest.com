@@ -36,7 +36,7 @@ Template Name: Exhibitor Template
 		</ul>
 	</div>
 	<div id="attendeesare" class="col-sm-6">
-		<h2>Vegfest Attendees Are:</h2>
+		<h2>VegFest Attendees Are:</h2>
 		<ul>
 			<li><b>Young:</b> Two-thirds of attendees are between ages 18-45.
 			<li><b>Motivated:</b> Most travel 20-80 miles to attend.
