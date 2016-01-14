@@ -7,7 +7,7 @@ Website for the [New England VegFest](https://NewEnglandVegFest.com)
 
 
 # Tech stack
-This is a WordPress website, hosted on Dreamhost.
+This is a WordPress website, hosted on Dreamhost. This repo is the canonical source.
 
 # How to make changes
 
