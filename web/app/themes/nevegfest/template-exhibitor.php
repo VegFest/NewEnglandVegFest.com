@@ -17,10 +17,10 @@ Template Name: Exhibitor Template
 <div class="container-fluid white center" id="numbers">
 	<h2>VegFest Attendees by the Numbers</h2>
 	<div class="pad">
-		<div class="col-xs-6 col-sm-3"><div class="circle"><b>2,000</b><br />attendees in 2011</div></div>
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>3,000</b><br />attendees in 2012</div></div>
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>5,000</b><br />attendees in 2013</div></div>
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>7,000</b><br />attendees in 2014</div></div>
+		<div class="col-xs-6 col-sm-3"><div class="circle"><b>10,000</b><br />attendees in 2015</div></div>
 	</div>
 </div>
 <div id="reasons">
