@@ -51,7 +51,7 @@ Template Name: Exhibitor Template
 <div id="testimonial" class="32">
   <div class="container-fluid">
     <p class="alignleft">As someone who has spoken at-and attended-many vegetarian festivals throughout the United States, I've come to see the Worcester VegFest as one of the best in the country...the fest is always so well-attended, well-organized, and it teems with high-quality vendors and speakers."</p>
-    <p class="alignright">-Jon Camp, Vegan Outreach</p>
+    <p class="alignright">-Jon Camp, Humane League</p>
   </div>
 </div>
 <!--<div class="container-fluid white center" id="numbers">
