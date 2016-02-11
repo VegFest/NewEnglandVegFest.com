@@ -63,11 +63,7 @@
 <div class="break" id="food"></div>
 <div id="sponsors">
 	<h2>Our Sponsors</h2>
-<!--	<div class="col-xs-12 col-lg-4" id="mission">
-		<h3>Mission Partner</h3>
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/green-monday.png" alt="Green Monday" />
-	</div>-->
-	<div class="col-xs-12 col-lg-8" id="gold">
+	<div class="col-xs-12" id="gold">
 		<h3>Gold Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/SpiritOfChange.png" alt="Spirit Of Change" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WorcesterMag.png" class="square" alt="Worcester Magazine" />
