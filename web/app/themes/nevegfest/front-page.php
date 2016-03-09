@@ -53,7 +53,7 @@
 		<li><img src="/app/themes/nevegfest/assets/img/cookies.jpg" alt="" />
 	</ul>
 </div>
-<img src="/app/themes/nevegfest/assets/img/bw-people.png" alt="VegFest Attendees" class="fullwidth" />
+<!-- <img src="/app/themes/nevegfest/assets/img/bw-people.png" alt="VegFest Attendees" class="fullwidth" /> -->
 <div id="testimonial" class="32">
 	<div class="container-fluid">
 		<p class="alignleft">"VegFest is one of the best events in the city! It combines education about compassionate practices, along with wonderful vendors who promote animal welfare, vegetarian and vegan living, in a festive and warm atmosphere. And the food is great too!"</p>
