@@ -53,7 +53,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>3:30PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/speakers/emilyb.jpg" alt="Bite Sized Vegan" />
+				<img src="/app/themes/nevegfest/assets/img/speakers/emily-b.jpg" alt="Bite Sized Vegan" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Emily Moran Barwick <i>artist, activist, educator, "Bite Size Vegan"</i></h2>
