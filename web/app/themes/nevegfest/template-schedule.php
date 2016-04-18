@@ -38,22 +38,10 @@ Template Name: Schedule Template
 
 		</div>
 	</div>
-	<!-- <div class="presentation red">
-		<div class="container-fluid">
-			<div class="col-sm-3">
-				<h2>2PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/lsn-photo.jpg" alt="Lindsay S. Nixon" />
-			</div>
-			<div class="col-sm-9">
-				<h2>Lorelei Plotczyk, <i>Truth or Drought</i></h2>
-				<p>Lorelei Plotczyk is an environmentalist and writer, who holds her MBA with an Environmental Management specialization. She's an organizer of Truth or Drought, a campaign to draw a connection between water scarcity and animal agriculture. Come to this presentation to learn about the ecological impacts of factory farming. She blogs at <a href="http://http://www.brainonhugs.com/">BrainOnHugs.com</a>.</p>
-			</div>
-		</div>
-	</div> -->
 	<div class="presentation yellow">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2>3:30PM</h2>
+				<h2>2PM</h2>
 				<img src="/app/themes/nevegfest/assets/img/speakers/emily-b.jpg" alt="Bite Sized Vegan" />
 			</div>
 			<div class="col-sm-9">
@@ -62,6 +50,21 @@ Template Name: Schedule Template
 			</div>
 		</div>
 	</div>
+
+	<!-- <div class="presentation red">
+		<div class="container-fluid">
+			<div class="col-sm-3">
+				<h2>3:30PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/speakers/lorele-plotczyk.jpg" alt="Lorelei Plotczyk" />
+			</div>
+			<div class="col-sm-9">
+				<h2>Lorelei Plotczyk, <i>Truth or Drought</i></h2>
+				<p>Lorelei Plotczyk is an environmentalist and writer, who holds her MBA with an Environmental Management specialization. She's an organizer of Truth or Drought, a campaign to draw a connection between water scarcity and animal agriculture. Come to this presentation to learn about the ecological impacts of factory farming. She blogs at <a href="http://http://www.brainonhugs.com/">BrainOnHugs.com</a>.</p>
+			</div>
+		</div>
+	</div> -->
+
+
 	<!--
 	<div class="container-fluid white">
 		<h2>Activities <br /><i>Main Event Hall</i></h2>
