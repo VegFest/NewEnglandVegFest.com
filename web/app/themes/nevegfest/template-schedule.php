@@ -13,7 +13,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/speakers/stephanie-bogdanich.jpg" alt="Taco Cleanse" />
+				<img src="/app/themes/nevegfest/assets/img/speakers/jessica-and-stephanie.jpg" alt="Taco Cleanse" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Jessica Morris & Stephanie Bogdanich <i>authors The Taco Cleanse: The Tortilla Based Diet Proven To Change Your Life</i></h2>
@@ -25,7 +25,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>1PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/speakers/beverly-lynn-bennett.jpg" alt="Beverly Lynn Bennett" />
+				<img src="/app/themes/nevegfest/assets/img/speakers/beverly-lynn-bennett.png" alt="Beverly Lynn Bennett" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Beverly Lynn Bennett <i>vegan chef, writer, animal advocate</i></h2>
@@ -53,7 +53,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>3:30PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/cowspiracy.png" alt="Cowspiracy" />
+				<img src="/app/themes/nevegfest/assets/img/speakers/emilyb.jpg" alt="Bite Sized Vegan" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Emily Moran Barwick <i>artist, activist, educator, "Bite Size Vegan"</i></h2>
