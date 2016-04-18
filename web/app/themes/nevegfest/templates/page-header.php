@@ -8,7 +8,7 @@
         <a class="cta" href="//www.facebook.com/events/1093809630649546/" target="_blank"><i class="fa fa-facebook-square"></i> Facebook event</a>
         <a class="cta yellow" href="/member/">Become a member - $25</a>
 			</div>
-			<h2>May 1, 2016 &middot; 11AM-5PM &middot; Worcester, MA</h2>
+			<h2>May 1, 2016 &middot; 11AM-5PM &middot; DCU Center &middot; Worcester, MA</h2>
 		<?php } else { ?>
 			<h2><?= the_title(); ?></h2>
 		<?php } ?>
