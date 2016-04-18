@@ -7,24 +7,12 @@ Template Name: Schedule Template
 
 <div class="content">
 	<div class="container-fluid white">
-		<h2>Featured Presentations <br /><i>3rd Floor, Meeting Room E</i></h2>
+		<h2>Featured Presentations <br /><i>3rd Floor</i></h2>
 	</div>
 	<div class="presentation green">
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/speakers/jessica-and-stephanie.jpg" alt="Taco Cleanse" />
-			</div>
-			<div class="col-sm-9">
-				<h2>Jessica Morris & Stephanie Bogdanich <i>authors The Taco Cleanse: The Tortilla Based Diet Proven To Change Your Life</i></h2>
-				<p>In 2013 Jessica and Stephanie, along with their fellow taco scientists in Austin Texas, embarked on a journey that would change the world forever. For 30 days they ate nothing but tacos for breakfast, lunch, dinner, and dessert. After years of rigorous testing they came up with their breakthrough cleanse plan <i>"The Taco Cleanse"</i>. It's the first ever diet plan the focuses on creating a happier life that promises to detox your dreams and redefine your dinner.</p>
-			</div>
-		</div>
-	</div>
-	<div class="presentation blue">
-		<div class="container-fluid">
-			<div class="col-sm-3">
-				<h2>1PM</h2>
 				<img src="/app/themes/nevegfest/assets/img/speakers/beverly-lynn-bennett.png" alt="Beverly Lynn Bennett" />
 			</div>
 			<div class="col-sm-9">
@@ -32,9 +20,22 @@ Template Name: Schedule Template
 				<p>
 					<strong>"Spiralizing: The Fun and Easy Way to Turn Produce into Pasta”</strong>: Beverly Lynn Bennett with prepare Tzatziki-Style Cucumbers and Raw Pad Thai recipes
 				</p>
-				<p>Beverly Lynn Bennett is an experienced vegan chef and baker, writer, and animal advocate who is passionate about showing the world how easy, delicious, and healthful it is to live and eat as a vegan. A certified food-service operations manager, she earned her culinary arts degree in 1988 and gained much practical experience in the years that followed, working in and managing vegan and vegetarian restaurants and natural foods stores. Vegan since the early 1990s, Beverly is the author of Vegan Bites: Recipes for Singles, Chia: Using the Ancient Superfood, Kale: The Nutritional Powerhouse, Spiralize!: Transform Vegetables and Fruits from Ordinary to Extraordinary, The Pure Power of Maca, The Complete Idiot's Guide to Vegan Cooking, The Complete Idiot's Guide to Gluten-Free Vegan Cooking, and others. Her work has appeared in many national and international print publications, on public television and DVD, and all over the web. She has hosted The Vegan Chef website at <a href="http://www.veganchef.com">veganchef.com</a> since 1999, and lives in the very vegan-friendly city of Eugene, Oregon.
-</p>
+				<p>Beverly Lynn Bennett is an experienced vegan chef and baker, writer, and animal advocate who is passionate about showing the world how easy, delicious, and healthful it is to live and eat as a vegan. A certified food-service operations manager, she earned her culinary arts degree in 1988 and gained much practical experience in the years that followed, working in and managing vegan and vegetarian restaurants and natural foods stores. Vegan since the early 1990s, Beverly is the author of Vegan Bites: Recipes for Singles, Chia: Using the Ancient Superfood, Kale: The Nutritional Powerhouse, Spiralize!: Transform Vegetables and Fruits from Ordinary to Extraordinary, The Pure Power of Maca, The Complete Idiot's Guide to Vegan Cooking, The Complete Idiot's Guide to Gluten-Free Vegan Cooking, and others. Her work has appeared in many national and international print publications, on public television and DVD, and all over the web. She has hosted The Vegan Chef website at <a href="http://www.veganchef.com">veganchef.com</a> since 1999, and lives in the very vegan-friendly city of Eugene, Oregon.</p>
 			</div>
+		</div>
+	</div>
+	<div class="presentation blue">
+		<div class="container-fluid">
+
+			<div class="col-sm-3">
+				<h2>1PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/speakers/jessica-and-stephanie.jpg" alt="Taco Cleanse" />
+			</div>
+			<div class="col-sm-9">
+				<h2>Jessica Morris & Stephanie Bogdanich <i>authors The Taco Cleanse: The Tortilla Based Diet Proven To Change Your Life</i></h2>
+				<p>In 2013 Jessica and Stephanie, along with their fellow taco scientists in Austin Texas, embarked on a journey that would change the world forever. For 30 days they ate nothing but tacos for breakfast, lunch, dinner, and dessert. After years of rigorous testing they came up with their breakthrough cleanse plan <i>"The Taco Cleanse"</i>. It's the first ever diet plan the focuses on creating a happier life that promises to detox your dreams and redefine your dinner.</p>
+			</div>
+
 		</div>
 	</div>
 	<!-- <div class="presentation red">
@@ -57,8 +58,7 @@ Template Name: Schedule Template
 			</div>
 			<div class="col-sm-9">
 				<h2>Emily Moran Barwick <i>artist, activist, educator, "Bite Size Vegan"</i></h2>
-				<p>Emily created Bite Size Vegan, a popular collection of free, educational videos about veganism. Her mission is to simplify veganism and help people understand that it’s not an exclusive club, fad diet but rather a logical, compassionate, rational approach to life- especially in regards to the lives of others.</p>
-				<p><a href="http://vegfund.org" target="_blank">Sponsored by VegFund</a>
+				<p>Emily created <a href="http://bitesizevegan.com/">Bite Size Vegan</a>, a popular collection of free, educational videos about veganism. Her mission is to simplify veganism and help people understand that it’s not an exclusive club, fad diet but rather a logical, compassionate, rational approach to life- especially in regards to the lives of others.</p>
 			</div>
 		</div>
 	</div>
