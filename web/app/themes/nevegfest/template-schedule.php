@@ -31,6 +31,7 @@ Template Name: Schedule Template
 			</div>
 			<div class="col-sm-9">
 				<h2>Jessica Morris & Stephanie Bogdanich <i>authors The Taco Cleanse: The Tortilla Based Diet Proven To Change Your Life</i></h2>
+				<h3>Cooking Demo</h3>
 				<p>In 2013 Jessica and Stephanie, along with their fellow taco scientists in Austin Texas, embarked on a journey that would change the world forever. For 30 days they ate nothing but tacos for breakfast, lunch, dinner, and dessert. After years of rigorous testing they came up with their breakthrough cleanse plan <i>"The Taco Cleanse"</i>. It's the first ever diet plan the focuses on creating a happier life that promises to detox your dreams and redefine your dinner.</p>
 			</div>
 
