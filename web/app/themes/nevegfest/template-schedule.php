@@ -17,12 +17,7 @@ Template Name: Schedule Template
 			</div>
 			<div class="col-sm-9">
 				<h2>Beverly Lynn Bennett <i>vegan chef, writer, animal advocate</i></h2>
-				<p>
-					<h3>Beverly Lynn Bennett prepares Tzatziki-Style Cucumbers and Raw Pad Thai recipes</h3>
-					<p>
-						<strong>Cooking Demo:</strong> Spiralizing: The Fun and Easy Way to Turn Produce into Pasta
-					</p>
-				</p>
+				<h3>Cooking Demo</h3>
 				<p>Beverly Lynn Bennett is an experienced vegan chef and baker, writer, and animal advocate who is passionate about showing the world how easy, delicious, and healthful it is to live and eat as a vegan. A certified food-service operations manager, she earned her culinary arts degree in 1988 and gained much practical experience in the years that followed, working in and managing vegan and vegetarian restaurants and natural foods stores. Vegan since the early 1990s, Beverly has published over a dozen books. Her most recent book is <i>Spiralize!: Transform Vegetables and Fruits from Ordinary to Extraordinary</i> Since 1999 she has been sharing her work on <a href="http://www.veganchef.com">VeganChef.com</a>.</p>
 			</div>
 		</div>
