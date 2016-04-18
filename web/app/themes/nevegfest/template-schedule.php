@@ -18,7 +18,10 @@ Template Name: Schedule Template
 			<div class="col-sm-9">
 				<h2>Beverly Lynn Bennett <i>vegan chef, writer, animal advocate</i></h2>
 				<p>
-					<strong>"Spiralizing: The Fun and Easy Way to Turn Produce into Pasta”</strong>: Beverly Lynn Bennett with prepare Tzatziki-Style Cucumbers and Raw Pad Thai recipes
+					<h3>Beverly Lynn Bennett prepares Tzatziki-Style Cucumbers and Raw Pad Thai recipes</h3>
+					<p>
+						<strong>Cooking Demo:</strong> Spiralizing: The Fun and Easy Way to Turn Produce into Pasta
+					</p>
 				</p>
 				<p>Beverly Lynn Bennett is an experienced vegan chef and baker, writer, and animal advocate who is passionate about showing the world how easy, delicious, and healthful it is to live and eat as a vegan. A certified food-service operations manager, she earned her culinary arts degree in 1988 and gained much practical experience in the years that followed, working in and managing vegan and vegetarian restaurants and natural foods stores. Vegan since the early 1990s, Beverly is the author of Vegan Bites: Recipes for Singles, Chia: Using the Ancient Superfood, Kale: The Nutritional Powerhouse, Spiralize!: Transform Vegetables and Fruits from Ordinary to Extraordinary, The Pure Power of Maca, The Complete Idiot's Guide to Vegan Cooking, The Complete Idiot's Guide to Gluten-Free Vegan Cooking, and others. Her work has appeared in many national and international print publications, on public television and DVD, and all over the web. She has hosted The Vegan Chef website at <a href="http://www.veganchef.com">veganchef.com</a> since 1999, and lives in the very vegan-friendly city of Eugene, Oregon.</p>
 			</div>
@@ -51,18 +54,18 @@ Template Name: Schedule Template
 		</div>
 	</div>
 
-	<!-- <div class="presentation red">
+	<div class="presentation red">
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>3:30PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/speakers/lorele-plotczyk.jpg" alt="Lorelei Plotczyk" />
+				<img src="/app/themes/nevegfest/assets/img/speakers/lorelei-plotczyk.jpg" alt="Lorelei Plotczyk" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Lorelei Plotczyk, <i>Truth or Drought</i></h2>
-				<p>Lorelei Plotczyk is an environmentalist and writer, who holds her MBA with an Environmental Management specialization. She's an organizer of Truth or Drought, a campaign to draw a connection between water scarcity and animal agriculture. Come to this presentation to learn about the ecological impacts of factory farming. She blogs at <a href="http://http://www.brainonhugs.com/">BrainOnHugs.com</a>.</p>
+				<p>Lorelei Plotczyk is an environmentalist and writer. She holds an MBA with a specialization in Environmental Management. She's organizer of <a href="http://www.truthordrought.com/">Truth or Drought</a>, a campaign that draws connections between animal agriculture and water scarcity. Come to this presentation for a fun and upbeat way to learn about the ecological impacts of factory farming. Lorelei blogs at <a href="http://http://www.brainonhugs.com/">BrainOnHugs.com</a>.</p>
 			</div>
 		</div>
-	</div> -->
+	</div>
 
 
 	<!--
