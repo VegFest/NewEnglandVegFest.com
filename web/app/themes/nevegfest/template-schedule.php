@@ -58,7 +58,12 @@ Template Name: Schedule Template
 			</div>
 			<div class="col-sm-9">
 				<h2>Lorelei Plotczyk, <i>Truth or Drought</i></h2>
-				<p>Lorelei Plotczyk is an environmentalist and writer. She holds an MBA with a specialization in Environmental Management. She's organizer of <a href="http://www.truthordrought.com/">Truth or Drought</a>, a campaign that draws connections between animal agriculture and water scarcity. Come to this presentation for a fun and upbeat way to learn about the ecological impacts of factory farming. Lorelei blogs at <a href="http://http://www.brainonhugs.com/">BrainOnHugs.com</a>.</p>
+
+				<p>
+					Lorelei Plotczyk is an environmentalist and writer. She holds an MBA with a specialization in Environmental Management and is organizer of <a href="http://www.truthordrought.com/">Truth or Drought</a>, a campaign that draws connections between animal agriculture, water scarcity and other environmental issues. Come to this presentation for a fun and upbeat way to learn about the widespread ecological impacts of animal farming. Lorelei blogs at <a href="http://eatplantsdrinkbeer.com/">eatplantsdrinkbeer.com</a>.
+				</p>
+
+
 			</div>
 		</div>
 	</div>
