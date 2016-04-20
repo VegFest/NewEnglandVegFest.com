@@ -67,27 +67,23 @@
 		<h3>Gold Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/SpiritOfChange.png" alt="Spirit Of Change" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WorcesterMag.png" class="square" alt="Worcester Magazine" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/humaneleague-logo.png" class="square" alt="The Humane League" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/whole-foods.png" class="square" alt="Whole Foods Market" />
 	</div>
-<!--	<div class="col-xs-12" id="silver">
+	<div class="col-xs-12" id="silver">
 		<div class="container-fluid">
 			<h3>Silver Partners</h3>
 			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/motive-company.png" alt="Motive Company" />
 			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/organic-living.png" alt="Organic Living Superfoods" />
 			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegan-treats.png" alt="Vegan Treats" />
-			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vegfund.png" class="square" alt="VefFund" />
-			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WayBetterSnacks.png" alt="Way Better Snacks" />
-			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/well-fed-world.png" class="square" alt="Well Fed World" />
+			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vitamix.png" alt="Vitamix" />
 		</div>
 	</div>
 	<div class="col-xs-12" id="bronze">
 		<h3>Bronze Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/LovingHut.png" alt="Loving Hut" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/humaneleague-logo.png" class="square" alt="Humane League" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/tofutti.png" class="square" alt="Tofutti" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/VeganProteins.png" alt="Vegan Proteins" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/vitamix.png" alt="Vitamix" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/wegmans.png" alt="Wegmans" />
-	</div>-->
+	</div>
 </div>
 			<!-- <script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
 			<div style="overflow:hidden;height:360px;width:100%;"><div id="gmap_canvas" style="height:360px;width:100%;"></div>
