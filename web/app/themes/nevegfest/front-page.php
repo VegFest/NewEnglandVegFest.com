@@ -83,6 +83,8 @@
 		<h3>Bronze Partners</h3>
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/LovingHut.png" alt="Loving Hut" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/wegmans.png" alt="Wegmans" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/balance-chiro.png" alt="InBalance" />
+
 	</div>
 </div>
 			<!-- <script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
