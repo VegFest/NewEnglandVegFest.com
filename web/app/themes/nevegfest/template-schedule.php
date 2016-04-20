@@ -18,7 +18,7 @@ Template Name: Schedule Template
 			<div class="col-sm-9">
 				<h2>Beverly Lynn Bennett <i>vegan chef, writer, animal advocate</i></h2>
 				<h3>Cooking Demo</h3>
-				<p>Beverly Lynn Bennett is an experienced vegan chef and baker, writer, and animal advocate who is passionate about showing the world how easy, delicious, and healthful it is to live and eat as a vegan. A certified food-service operations manager, she earned her culinary arts degree in 1988 and gained much practical experience in the years that followed, working in and managing vegan and vegetarian restaurants and natural foods stores. Vegan since the early 1990s, Beverly has published over a dozen books. Her most recent book is <i>Spiralize!: Transform Vegetables and Fruits from Ordinary to Extraordinary</i> Since 1999 she has been sharing her work on <a href="http://www.veganchef.com">VeganChef.com</a>.</p>
+				<p>Beverly Lynn Bennett is an experienced vegan chef and baker, writer, and animal advocate who is passionate about showing the world how easy, delicious, and healthful it is to live and eat as a vegan. A certified food-service operations manager, she earned her culinary arts degree in 1988 and gained much practical experience in the years that followed, working in and managing vegan and vegetarian restaurants and natural foods stores. Vegan since the early 1990s, Beverly has published over a dozen books. Her most recent book is <i>Spiralize!: Transform Vegetables and Fruits from Ordinary to Extraordinary</i>. Since 1999 she has been sharing her work on <a href="http://www.veganchef.com">VeganChef.com</a>.</p>
 			</div>
 		</div>
 	</div>
@@ -60,7 +60,7 @@ Template Name: Schedule Template
 				<h2>Lorelei Plotczyk, <i>Truth or Drought</i></h2>
 
 				<p>
-					Lorelei Plotczyk is an environmentalist and writer. She holds an MBA with a specialization in Environmental Management and is organizer of <a href="http://www.truthordrought.com/">Truth or Drought</a>, a campaign that draws connections between animal agriculture, water scarcity and other environmental issues. Come to this presentation for a fun and upbeat way to learn about the widespread ecological impacts of animal farming. Lorelei blogs at <a href="http://eatplantsdrinkbeer.com/">eatplantsdrinkbeer.com</a>.
+					Lorelei Plotczyk is an environmentalist and writer. She holds an MBA with a specialization in Environmental Management and is organizer of <a href="http://www.truthordrought.com/">Truth or Drought</a>, a campaign that draws connections between animal agriculture, water scarcity and other environmental issues. Come to this presentation for a fun and upbeat way to learn about the widespread ecological impacts of animal farming. Lorelei blogs at <a href="http://eatplantsdrinkbeer.com/">Eat Plants / Drink Beer</a> and <a href="https://www.facebook.com/brainonhugs">Brain on Hugs</a>.
 				</p>
 
 
