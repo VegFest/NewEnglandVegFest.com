@@ -61,7 +61,7 @@
 	</div>
 </div>
 <div class="break" id="food"></div>
-<div id="sponsors">
+<!-- <div id="sponsors">
 	<h2>Our Sponsors</h2>
 	<div class="col-xs-12" id="gold">
 		<h3>Gold Partners</h3>
@@ -86,7 +86,7 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/balance-chiro.png" alt="InBalance" />
 
 	</div>
-</div>
+</div> -->
 			<!-- <script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
 			<div style="overflow:hidden;height:360px;width:100%;"><div id="gmap_canvas" style="height:360px;width:100%;"></div>
 			<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
