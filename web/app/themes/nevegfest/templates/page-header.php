@@ -4,11 +4,10 @@
   </h1>
 		<?php if (is_front_page()) { ?>
 			<div class="ctas">
-				<!-- <a class="cta" href="//www.facebook.com/events/355366494646694/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP</a> -->
-        <a class="cta" href="//www.facebook.com/events/1093809630649546/" target="_blank"><i class="fa fa-facebook-square"></i> Facebook event</a>
-        <a class="cta yellow" href="/member/">Become a member - $25</a>
+        <a class="cta" href="//www.facebook.com/NewEnglandVegFest/" target="_blank"><i class="fa fa-facebook-square"></i> Like us on Facebook</a>
+        <!-- <a class="cta yellow" href="/member/">Become a member - $25</a> -->
 			</div>
-			<h2>May 1, 2016 &middot; 11AM-5PM &middot; DCU Center &middot; Worcester, MA</h2>
+			<h2>Sunday April 30, 2017 &middot; 11AM-5PM &middot; DCU Center &middot; Worcester, MA</h2>
 		<?php } else { ?>
 			<h2><?= the_title(); ?></h2>
 		<?php } ?>
