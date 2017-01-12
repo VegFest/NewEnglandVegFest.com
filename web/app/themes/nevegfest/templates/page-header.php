@@ -4,7 +4,7 @@
   </h1>
 		<?php if (is_front_page()) { ?>
 			<div class="ctas">
-        <a class="cta" href="/exhibiting">I'm interested in being a vendor!</a>
+        <a class="cta" href="/interested">I'm interested in being a vendor!</a>
         <a class="cta yellow" href="//www.facebook.com/NewEnglandVegFest/" target="_blank"><i class="fa fa-facebook-square"></i> Like us on Facebook</a>
         <!-- <a class="cta yellow" href="/member/">Become a member - $25</a> -->
 			</div>
