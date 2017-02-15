@@ -99,7 +99,7 @@ Template Name: Exhibitor Template
 </li><li>Preferred table placement at event
 </li></ul>
 </div></div>
-	<a href="/sponsor/?src=sponsorandexhibitorguide" class="cta yellow">Interested?</a>
+	<a href="/sponsor/?src=sponsorandexhibitorguide" class="cta yellow">Apply to Sponsor</a>
 	<h2>Exhibitor Options</h2>
 </div>
 <div id="exhibitor-info">
@@ -117,7 +117,7 @@ Template Name: Exhibitor Template
 <b>10'x10' exhibit space for federally-recognized 501c3 organizations, and animal-rights groups.</b>
 </div></li>
 	</div>
-	<a href="/exhibit/?src=sponsorandexhibitorguide" class="cta">Apply Now</a>
+	<a href="/exhibit/?src=sponsorandexhibitorguide" class="cta">Apply to Exhibit</a>
 </div>
 <div class="container-fluid white center" id="sponsor-ask">
 	<h2>Sponsor or Exhibit Now</h2>
