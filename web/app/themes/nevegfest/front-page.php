@@ -61,16 +61,25 @@
 	</div>
 </div>
 <div class="break" id="food"></div>
-<!-- <div id="sponsors">
+<div id="sponsors">
 	<h2>Our Sponsors</h2>
 	<div class="col-xs-12" id="gold">
-		<h3>Gold Partners</h3>
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/SpiritOfChange.png" alt="Spirit Of Change" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/WorcesterMag.png" class="square" alt="Worcester Magazine" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/humaneleague-logo.png" class="square" alt="The Humane League" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/whole-foods.png" class="square" alt="Whole Foods Market" />
+		<!-- <h3>Gold Partners</h3> -->
+
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-01-dcu-center.png" alt="DCU Center" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-02-lightlife.png" alt="Lightlife" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-03-thehumaneleague.png" alt="The Humane League" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-05-spiritofchange.png" alt="Spirit of Change" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-06-organiclivingsuperfoods.png" alt="Organic Living Superfoods" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-07-roots.png" alt="Roots" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-08-womag.png" alt="Worcester Magazine" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-10-cedars.png" alt="Cedar's" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-11-threegirlsvegancreamery.png" alt="Three Girls Vegan Creamery" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-12-wegmans.png" alt="Wegmans" />
+
 	</div>
-	<div class="col-xs-12" id="silver">
+	<!-- <div class="col-xs-12" id="silver">
 		<div class="container-fluid">
 			<h3>Silver Partners</h3>
 			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/motive-company.png" alt="Motive Company" />
@@ -85,8 +94,8 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/wegmans.png" alt="Wegmans" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/balance-chiro.png" alt="InBalance" />
 
-	</div>
-</div> -->
+	</div> -->
+</div>
 			<!-- <script type="text/javascript" src="//maps.google.com/maps/api/js?sensor=false"></script>
 			<div style="overflow:hidden;height:360px;width:100%;"><div id="gmap_canvas" style="height:360px;width:100%;"></div>
 			<style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
