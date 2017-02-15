@@ -66,17 +66,17 @@
 	<div class="col-xs-12" id="gold">
 		<!-- <h3>Gold Partners</h3> -->
 
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-01-dcu-center.png" alt="DCU Center" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-02-lightlife.png" alt="Lightlife" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-03-thehumaneleague.png" alt="The Humane League" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-05-spiritofchange.png" alt="Spirit of Change" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-06-organiclivingsuperfoods.png" alt="Organic Living Superfoods" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-07-roots.png" alt="Roots" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-08-womag.png" alt="Worcester Magazine" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-10-cedars.png" alt="Cedar's" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-11-threegirlsvegancreamery.png" alt="Three Girls Vegan Creamery" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/web-logos_17-12-wegmans.png" alt="Wegmans" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-01-dcu-center.png" alt="DCU Center" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-02-lightlife.png" alt="Lightlife" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-03-thehumaneleague.png" alt="The Humane League" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-05-spiritofchange.png" alt="Spirit of Change" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-06-organiclivingsuperfoods.png" alt="Organic Living Superfoods" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-07-roots.png" alt="Roots" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-08-womag.png" alt="Worcester Magazine" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-10-cedars.png" alt="Cedar's" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-11-threegirlsvegancreamery.png" alt="Three Girls Vegan Creamery" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-12-wegmans.png" alt="Wegmans" />
 
 	</div>
 	<!-- <div class="col-xs-12" id="silver">
