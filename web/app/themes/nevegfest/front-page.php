@@ -77,6 +77,9 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-10-cedars.png" alt="Cedar's" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-11-threegirlsvegancreamery.png" alt="Three Girls Vegan Creamery" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-12-wegmans.png" alt="Wegmans" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-13-compassion-co.png" alt="Loving Hut" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-13-vegan-treats.png" alt="Vegan Treats" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-13-loving-hut.png" alt="Loving Hut" />
 
 	</div>
 	<!-- <div class="col-xs-12" id="silver">
