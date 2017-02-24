@@ -131,7 +131,7 @@ Template Name: Exhibitor Template
 </div>
 <div class="container-fluid white center" id="sponsor-ask">
 	<h2>Sponsor or Exhibit Now</h2>
-	<p>VegWorcester and New England VegFest are 100% organized by volunteers. We rely on support from our sponsors and exhibitors to make this incredible event happen. The VegFest is an amazing way to connect with your customers, supporters, and the community. Please join us, and help make this our most successful year yet! Space is limited, and available on a first-come-first-serve basis.</p>
+	<p>New England VegFest is a not-for-profit event put on by hundreds of volunteers, we rely on support from our sponsors and exhibitors to make this incredible event happen. The VegFest is an amazing way to connect with your customers, supporters, and the community. Please join us, and help make this our most successful year yet! Sign up now, space is limited!</p>
 </div>
 <div class="bluebg center">
 	<h2>Interested in sponsoring or exhibiting, but want more info?</h2>
