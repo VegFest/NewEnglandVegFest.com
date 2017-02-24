@@ -120,7 +120,7 @@ Template Name: Exhibitor Template
         <b>A single booth space for any business, restaurant, or organization.</b>
       </div>
 
-      <div class="col-sm-offset-2 col-sm-4">
+      <div class="col-sm-4">
         <h3>Food Truck Space</h3>
         <b>A single extended booth space to fit a food truck.</b>
       </div>
