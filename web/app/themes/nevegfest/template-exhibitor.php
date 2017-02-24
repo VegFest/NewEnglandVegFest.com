@@ -115,23 +115,20 @@ Template Name: Exhibitor Template
 <div id="exhibitor-info">
 	<div class="container-fluid">
 <li id="field_1_20" class="gfield      gfield_html gfield_html_formatted gfield_no_follows_desc" style="display: table;"><div class="col-sm-4 col-sm-6">
-<h3>Standard Exhibitor Space</h3>
-<b>10'x10' exhibit space for any business, restaurant, or organization.</b>
+<div class="col-xs-6 col-sm-6">
+  <h3>Standard Exhibitor Space</h3>
+  <b>A single booth space for any business, restaurant, or organization.</b>
 </div>
-<div class="col-sm-4 col-sm-6">
-<h3>Exhibitor Space with Electricity</h3>
-<b>10'x10' exhibit space for any business, restaurant, or organization that requires access to electricity.</b>
-</div>
-<div class="col-sm-4">
-<h3>Non-Profit Exhibitor Space</h3>
-<b>10'x10' exhibit space for federally-recognized 501c3 organizations, and animal-rights groups.</b>
+<div class="col-xs-6 col-sm-6">
+  <h3>Food Truck Space</h3>
+  <b>A single extended booth space to fit a food truck.</b>
 </div></li>
 	</div>
 	<a href="/exhibit/?src=sponsorandexhibitorguide" class="cta">Apply to Exhibit</a>
 </div>
 <div class="container-fluid white center" id="sponsor-ask">
 	<h2>Sponsor or Exhibit Now</h2>
-	<p>New England VegFest is a not-for-profit event put on by hundreds of volunteers, we rely on support from our sponsors and exhibitors to make this incredible event happen. The VegFest is an amazing way to connect with your customers, supporters, and the community. Please join us, and help make this our most successful year yet! Sign up now, space is limited!</p>
+	<p>New England VegFest is a not-for-profit event put on by a valiant volunteer effort, we rely on support from our sponsors and exhibitors to make this incredible event happen. The VegFest is an amazing way to connect with your customers, supporters, and the community. Please join us, and help make this our most successful year yet! Sign up now, space is limited!</p>
 </div>
 <div class="bluebg center">
 	<h2>Interested in sponsoring or exhibiting, but want more info?</h2>
