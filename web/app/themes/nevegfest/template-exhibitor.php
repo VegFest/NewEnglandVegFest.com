@@ -111,9 +111,10 @@ Template Name: Exhibitor Template
 </div></div>
 	<a href="/sponsor/?src=sponsorandexhibitorguide" class="cta yellow">Apply to Sponsor</a>
   <br/><br/>
+  <h2>Exhibitor Options</h2>
 </div>
 <div id="exhibitor-info">
-  <h2>Exhibitor Options</h2>
+
 	<div class="container-fluid">
     <div class="row" >
       <div class="col-sm-offset-2 col-sm-4">
