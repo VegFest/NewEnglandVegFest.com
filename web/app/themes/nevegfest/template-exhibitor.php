@@ -114,17 +114,17 @@ Template Name: Exhibitor Template
 </div>
 <div id="exhibitor-info">
 	<div class="container-fluid">
-      <li id="field_1_20" class="gfield      gfield_html gfield_html_formatted gfield_no_follows_desc" style="display: table;"><div class="col-sm-6">
+    <div class="row" style="width:60%">
+      <div class="col-sm-6">
         <h3>Standard Exhibitor Space</h3>
         <b>A single booth space for any business, restaurant, or organization.</b>
-      </div></li>
+      </div>
 
-      <li id="field_1_20" class="gfield      gfield_html gfield_html_formatted gfield_no_follows_desc" style="display: table;"><div class="col-sm-6">
+      <div class="col-sm-6">
         <h3>Food Truck Space</h3>
         <b>A single extended booth space to fit a food truck.</b>
-      </div></li>
       </div>
-  </li>
+    </div>
 	</div>
 	<a href="/exhibit/?src=sponsorandexhibitorguide" class="cta">Apply to Exhibit</a>
 </div>
