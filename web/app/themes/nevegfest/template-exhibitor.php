@@ -72,7 +72,7 @@ Template Name: Exhibitor Template
 <h3>Corporate</h3>
 <ul>
   <li>Premium Placement
-  </li><li>Free Electricity
+  </li><li>Free electricity
   </li><li>Free table and chairs
   </li><li>Sponsored social media campaign
   </li><li>Logo on poster and marketing materials
