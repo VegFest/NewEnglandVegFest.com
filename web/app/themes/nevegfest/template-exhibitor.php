@@ -74,13 +74,12 @@ Template Name: Exhibitor Template
   <li>Premium Placement
   </li><li>Free Electricity
   </li><li>Free table and chairs
-  </li><li>Up to 2 free lengths of pipe & drape
   </li><li>Sponsored social media campaign
+  </li><li>Up to 2 free lengths of pipe & drape
   </li><li>Logo on poster and marketing materials
   </li><li>Logo on website
   </li><li>Full page ad in program
   </li><li>Extra space accomodations
-
   </li>
 </ul>
 </div>
@@ -90,8 +89,8 @@ Template Name: Exhibitor Template
   <li>Premium placement
   </li><li>Free electricity
   </li><li>Free table and chairs
-  </li><li>1 Free length of pipe & drape
   </li><li>Paid social media mention
+  </li><li>1 Free length of pipe & drape
   </li><li>Logo on poster and marketing materials
   </li><li>Logo on website
   </li><li>Half page ad in program
