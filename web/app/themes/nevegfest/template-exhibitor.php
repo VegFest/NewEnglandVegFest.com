@@ -71,38 +71,43 @@ Template Name: Exhibitor Template
 <div id="field_1_19" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc" style=""><div class="col-sm-4">
 <h3>Corporate</h3>
 <ul>
-<li> All Small Business benefits, plus:
-
-</li><li>Premium Placement
-</li><li>Extra space accomodations
-</li><li>Up to 2 free lengths of pipe & drape
-</li><li>Free Electricity
-</li><li>Free table and chairs
-</li><li>Full page ad in program
-</li><li>Logo on poster and marketing materials
-</li><li>Logo on website
-</li><li>Sponsored social media campaign
-</li></ul>
+  <li>Premium Placement
+  </li><li>Extra space accomodations
+  </li><li>Up to 2 free lengths of pipe & drape
+  </li><li>Free Electricity
+  </li><li>Free table and chairs
+  </li><li>Full page ad in program
+  </li><li>Logo on poster and marketing materials
+  </li><li>Logo on website
+  </li><li>Sponsored social media campaign
+  </li>
+</ul>
 </div>
 <div class="col-sm-4">
 <h3>Small Business</h3>
 <ul>
-<li> All Friends and Family benefits, plus:
-</li><li>Special Mention during event
-</li><li>Social Media thank you via Facebook and Twitter
-</li><li>Logo in sponsor section of event program
-</li><li>Premium table placement at event
-</li><li>Personalized sponsor benefits
-
-</li></ul>
+  <li>Premium placement
+  </li><li>1 Free length of pipe & drape
+  </li><li>Free electricity
+  </li><li>Free table and chairs
+  </li><li>Half page ad in program
+  </li><li>Logo on poster
+  </li><li>Logo on website
+  </li><li>Paid social media mention
+  </li>
+</ul>
 </div>
 <div class="col-sm-4">
 <h3>Friends and Family</h3>
 <ul>
-<li>Thank you in program and on Website
-</li><li>Free table at VegFest with Electricity and Tables/Chairs
-</li><li>Preferred table placement at event
-</li></ul>
+  <li>Preferred placement
+  </li><li>Free electricity
+  </li><li>Free table and chairs
+  </li><li>Social media mention
+  </li><li>Name on marketing materials
+  </li><li>Logo on website
+  </li>
+</ul>
 </div></div>
 	<a href="/sponsor/?src=sponsorandexhibitorguide" class="cta yellow">Apply to Sponsor</a>
 	<h2>Exhibitor Options</h2>
