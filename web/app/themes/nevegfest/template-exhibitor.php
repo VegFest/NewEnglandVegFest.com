@@ -72,14 +72,15 @@ Template Name: Exhibitor Template
 <h3>Corporate</h3>
 <ul>
   <li>Premium Placement
-  </li><li>Extra space accomodations
-  </li><li>Up to 2 free lengths of pipe & drape
   </li><li>Free Electricity
   </li><li>Free table and chairs
-  </li><li>Full page ad in program
+  </li><li>Up to 2 free lengths of pipe & drape
+  </li><li>Sponsored social media campaign
   </li><li>Logo on poster and marketing materials
   </li><li>Logo on website
-  </li><li>Sponsored social media campaign
+  </li><li>Full page ad in program
+  </li><li>Extra space accomodations
+
   </li>
 </ul>
 </div>
@@ -87,13 +88,13 @@ Template Name: Exhibitor Template
 <h3>Small Business</h3>
 <ul>
   <li>Premium placement
-  </li><li>1 Free length of pipe & drape
   </li><li>Free electricity
   </li><li>Free table and chairs
-  </li><li>Half page ad in program
-  </li><li>Logo on poster
-  </li><li>Logo on website
+  </li><li>1 Free length of pipe & drape
   </li><li>Paid social media mention
+  </li><li>Logo on poster and marketing materials
+  </li><li>Logo on website
+  </li><li>Half page ad in program
   </li>
 </ul>
 </div>
