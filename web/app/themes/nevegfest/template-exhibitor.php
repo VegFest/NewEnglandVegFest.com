@@ -20,7 +20,7 @@ Template Name: Exhibitor Template
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>3,000</b><br />attendees in 2012</div></div>
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>5,000</b><br />attendees in 2013</div></div>
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>7,000</b><br />attendees in 2014</div></div>
-		<div class="col-xs-6 col-sm-3"><div class="circle"><b>10,000</b><br />attendees in 2015-16</div></div>
+		<div class="col-xs-6 col-sm-3"><div class="circle"><b>12,000</b><br />attendees in 2015-16</div></div>
 	</div>
 </div>
 <div id="reasons">
@@ -72,11 +72,16 @@ Template Name: Exhibitor Template
 <h3>Corporate</h3>
 <ul>
 <li> All Small Business benefits, plus:
-</li><li>Inside or back cover ad on event program
-</li><li>Social media promotion campaign via Facebook and Twitter
-</li><li>Logo on all VegFest promotional materials (Posters, flyers, print ads, etc.)
-</li><li>Premium Space with added features (extra space, pipe and drape, line management, etc)
-</li><li>Personalized promotion opportunities during event
+
+</li><li>Premium Placement
+</li><li>Extra space accomodations
+</li><li>Up to 2 free lengths of pipe & drape
+</li><li>Free Electricity
+</li><li>Free table and chairs
+</li><li>Full page ad in program
+</li><li>Logo on poster and marketing materials
+</li><li>Logo on website
+</li><li>Sponsored social media campaign
 </li></ul>
 </div>
 <div class="col-sm-4">
