@@ -5,7 +5,7 @@
 		<?php if (is_front_page()) { ?>
 			<div class="ctas">
         <a class="cta" href="/exhibit/?src=frontpage">Apply to Exhibit!</a>
-        <a class="cta yellow" href="//www.facebook.com/events/765063066992237/" target="_blank"><i class="fa fa-facebook-square"></i>FACEBOOK EVENT</a>
+        <a class="cta yellow" href="//www.facebook.com/events/765063066992237/" target="_blank"><i class="fa fa-facebook-square"></i> FACEBOOK EVENT</a>
         <!-- <a class="cta yellow" href="/member/">Become a member - $25</a> -->
 			</div>
 			<h2>Sunday April 30, 2017 &middot; 11AM-5PM &middot; DCU Center &middot; Worcester, MA</h2>
