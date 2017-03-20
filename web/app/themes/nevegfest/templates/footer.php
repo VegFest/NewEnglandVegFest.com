@@ -25,7 +25,7 @@
 <div class="mc-field-group">
 	<label for="mce-EMAIL" class="hidden">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="you@email.com">
-	<input type="hidden" value="VegFest 2015 Website" name="SOURCE" id="mce-SOURCE">
+	<input type="hidden" value="VegFest 2017 Website" name="SOURCE" id="mce-SOURCE">
 </div>
 	<div id="mce-responses">
 		<div class="response" id="mce-error-response" style="display:none"></div>
