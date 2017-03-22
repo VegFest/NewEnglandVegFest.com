@@ -32,3 +32,5 @@ node_modules
 # Vagrant
 bin
 .vagrant
+
+.DS_Store
