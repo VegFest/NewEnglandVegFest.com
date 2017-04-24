@@ -33,7 +33,7 @@ Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has he
 			<div class="col-sm-9">
 				<h2>James Aspey <i>Animal Rights Activist</i></h2>
 				<h3>Presentation: Intro to Veganism</h3>
-				<p>James Aspey has gone from beating leukaemia as a teen to being one of Australia’s leading vegan activists. Initially going vegetarian for a 7 day experiment, James then learned about the health, ethical and environmental issues surrounding animal consumption, and has been vegan ever since. Grabbing global attention in 2015 after breaking a 365 day vow of silence in a TV interview seen by millions, James has continued devoting himself to activism. He travels all around the world giving free speeches on animal rights and veganism. <a href="http://jamesaspey.com.au">http://jamesaspey.com.au</a></p>
+				<p>James Aspey has gone from beating leukaemia as a teen to being one of Australia’s leading vegan activists. Initially going vegetarian for a 7 day experiment, James then learned about the health, ethical and environmental issues surrounding animal consumption, and has been vegan ever since. Grabbing global attention in 2015 after breaking a 365 day vow of silence in a TV interview seen by millions, James has continued devoting himself to activism. He travels all around the world giving free speeches on animal rights and veganism. <a href="http://jamesaspey.com.au">JamesAspey.com.au</a></p>
 			</div>
 
 		</div>
