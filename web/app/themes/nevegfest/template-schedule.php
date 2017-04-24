@@ -42,7 +42,7 @@ Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has he
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>2:30PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2017/unlocking-the-cage.jpg" alt="Unlocking the Cage" />
+				<img src="/app/themes/nevegfest/assets/img/presenters2017/unlocking-the-cage-movie.jpg" alt="Unlocking the Cage" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Unlocking The Cage <i> feature film</i></h2>
