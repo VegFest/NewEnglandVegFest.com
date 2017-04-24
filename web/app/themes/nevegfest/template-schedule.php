@@ -83,7 +83,7 @@ Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has he
 				<h2>Flowforms Yoga</h2>
 				<p>Start the day off right and join FlowForms Yoga for some free family-friendly yoga session. Explore yoga postures and guided visualizations to create an engaging and relaxing experience for the whole family. <a href="http://FlowFormsYoga.com">FlowFormsYoga.com</a></p>
 				<p>
-					<ul>
+					<ul style="color:#ffffff;">
 						<li>10:30–11:00 // Open Levels Hatha Yoga ages 10+</li>
 						<li>11:15–11:45 // Open Levels Hatha Yoga ages 10+</li>
 						<li>12:00–12:30 // All Ages Family Yoga</li>
@@ -112,7 +112,7 @@ Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has he
 			<div class="col-sm-9">
 				<h2>Veg Speed Dating</h2>
 				<p>This isn’t your typical speed dating. Veg Speed Date is exclusively for vegan and vegetarian singles across North America. Veg Speed Date has thought through every detail to make sure people have a great time! Three-minute mini dates will let you connect with other VegFest attendees in a fun and intimate setting.</p>
-				<p>*Must register atleast 20 min in advance online or at the Veg Speed Date table near the escalators</p>
+				<p>*Must register at least 20 min in advance online or at the Veg Speed Date table near the escalators</p>
 				<p><a href="http://vegspeeddate.com" target="_blank">VegSpeedDate.com</a></p>
 			</div>
 		</div>
