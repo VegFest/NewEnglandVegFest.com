@@ -19,7 +19,7 @@ Template Name: Schedule Template
 				<h2>Chef Kevin Williams <i>ROOTS Natural Foods. Kitchen + Juice Bar</i></h2>
 				<h3>Cooking Demo</h3>
 				<p>Kevin Williams has been cooking professionally for over 25 years. His culinary path began at the age of 14 when he declared to his mother he was going to stop eating animals.
-Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has held the chef position in 5 US states as well as Vancouver Canada. At Roots, Chef Kevin has brought his California culinary style to the east, utilizing fresh farm produce, organic grains, tubers and legumes. <a href="http://rootsnaturalfoods.com">rootsnaturalfoods.com</a></p>
+Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has held the Chef position in 5 US states as well as Vancouver Canada. At Roots, Chef Kevin has brought his California culinary style to the east, utilizing fresh farm produce, organic grains, tubers and legumes. <a href="http://rootsnaturalfoods.com">rootsnaturalfoods.com</a></p>
 			</div>
 		</div>
 	</div>
@@ -33,7 +33,7 @@ Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has he
 			<div class="col-sm-9">
 				<h2>James Aspey <i>Animal Rights Activist</i></h2>
 				<h3>Presentation: Intro to Veganism</h3>
-				<p>James Aspey has gone from beating leukaemia as a teen to being one of Australia’s leading vegan activists. Initially going vegetarian for a 7 day experiment, James then learned about the health, ethical and environmental issues surrounding animal consumption, and has been vegan ever since. Grabbing global attention in 2015 after breaking a 365 day vow of silence in a TV interview seen by millions, James has continued devoting himself to activism. He travels all around the world giving free speeches on animal rights and veganism. <a href="http://jamesaspey.com.au">JamesAspey.com.au</a></p>
+				<p>James Aspey has gone from beating leukemia as a teen to being one of Australia’s leading vegan activists. Initially going vegetarian for a 7 day experiment, James then learned about the health, ethical and environmental issues surrounding animal consumption, and has been vegan ever since. Grabbing global attention in 2015 after breaking a 365 day vow of silence in a TV interview seen by millions, James has continued devoting himself to activism. He travels all around the world giving free speeches on animal rights and veganism. <a href="http://jamesaspey.com.au">JamesAspey.com.au</a></p>
 			</div>
 
 		</div>
