@@ -98,10 +98,11 @@ Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has he
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12:30PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/presenters2017/vegan-publishers-book-reading.jpg" alt="Lena of Vegitopia" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Children's Book Reading</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2017/vegan-publishers-book-reading.jpg" alt="Lena of Vegitopia" />
+
 				<p>Join Casey Taft, Co-Founder of Vegan Pulishers, for a reading of Lena of Vegitopia and the Mystery of the Missing Animals by Sybil Severin. <a href="http://veganpublishers.com">veganpublishers.com</a></p>
 			</div>
 		</div>
