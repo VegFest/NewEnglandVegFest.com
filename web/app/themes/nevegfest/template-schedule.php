@@ -117,7 +117,7 @@ Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has he
 				<h2>Veg Speed Dating</h2>
 				<p>This isn’t your typical speed dating. Veg Speed Date is exclusively for vegan and vegetarian singles across North America. Veg Speed Date has thought through every detail to make sure people have a great time! Three-minute mini dates will let you connect with other VegFest attendees in a fun and intimate setting.</p>
 				<p>*Must register at least 20 min in advance online or at the Veg Speed Date table near the escalators</p>
-				<p><a href="http://vegspeeddate.com" target="_blank">VegSpeedDate.com</a></p>
+				<p><a href="https://vegspeeddate.com/event/157044/" target="_blank">Sign up now</a></p>
 			</div>
 		</div>
 
