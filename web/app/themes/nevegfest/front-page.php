@@ -62,7 +62,7 @@
 </div>
 <div class="break" id="food"></div>
 <div id="sponsors">
-	<h2>Our Sponsors</h2>
+	<h2>Our 2017 Sponsors</h2>
 	<div class="col-xs-12" id="gold">
 		<!-- <h3>Gold Partners</h3> -->
 
