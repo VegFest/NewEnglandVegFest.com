@@ -1,6 +1,7 @@
 <?php get_template_part('templates/page', 'header'); ?>
 <div class="container-fluid" id="about" class="32">
 	<p>The New England VegFest is a free festival that brings the local community together to celebrate vegetarianism: an animal-friendly, environmentally sustainable, and healthy lifestyle.</p>
+	<p><a href="/interested/?src=frontpage-20170524" class="cta red">I'm interested in exhibiting!</a></p>
 </div>
 <div id="features">
 	<div class="box">
