@@ -7,18 +7,19 @@ Template Name: Schedule Template
 
 <div class="content">
 	<div class="container-fluid white">
-		<h2>Featured Presentations <br /><i>3rd Floor</i></h2>
+		<h2>Featured Presentations <br /><i>3rd Floor, Junior Ballroom</i></h2>
 	</div>
 	<div class="presentation green">
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/speakers/beverly-lynn-bennett.png" alt="Beverly Lynn Bennett" />
+				<img src="/app/themes/nevegfest/assets/img/presenters2017/chef-kevin.jpg" alt="Chef Kevin Williams" />
 			</div>
 			<div class="col-sm-9">
-				<h2>Beverly Lynn Bennett <i>vegan chef, writer, animal advocate</i></h2>
+				<h2>Chef Kevin Williams <i>ROOTS Natural Foods. Kitchen + Juice Bar</i></h2>
 				<h3>Cooking Demo</h3>
-				<p>Beverly Lynn Bennett is an experienced vegan chef and baker, writer, and animal advocate who is passionate about showing the world how easy, delicious, and healthful it is to live and eat as a vegan. A certified food-service operations manager, she earned her culinary arts degree in 1988 and gained much practical experience in the years that followed, working in and managing vegan and vegetarian restaurants and natural foods stores. Vegan since the early 1990s, Beverly has published over a dozen books. Her most recent book is <i>Spiralize!: Transform Vegetables and Fruits from Ordinary to Extraordinary</i>. Since 1999 she has been sharing her work on <a href="http://www.veganchef.com">VeganChef.com</a>.</p>
+				<p>Kevin Williams has been cooking professionally for over 25 years. His culinary path began at the age of 14 when he declared to his mother he was going to stop eating animals.
+Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has held the Chef position in 5 US states as well as Vancouver Canada. At Roots, Chef Kevin has brought his California culinary style to the east, utilizing fresh farm produce, organic grains, tubers and legumes. <a href="http://rootsnaturalfoods.com">rootsnaturalfoods.com</a></p>
 			</div>
 		</div>
 	</div>
@@ -27,12 +28,12 @@ Template Name: Schedule Template
 
 			<div class="col-sm-3">
 				<h2>1PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/speakers/jessica-and-stephanie.jpg" alt="Taco Cleanse" />
+				<img src="/app/themes/nevegfest/assets/img/presenters2017/james-aspey.jpg" alt="James Aspey" />
 			</div>
 			<div class="col-sm-9">
-				<h2>Jessica Morris & Stephanie Bogdanich <i>authors The Taco Cleanse: The Tortilla Based Diet Proven To Change Your Life</i></h2>
-				<h3>Cooking Demo</h3>
-				<p>In 2013 Jessica and Stephanie, along with their fellow taco scientists in Austin Texas, embarked on a journey that would change the world forever. For 30 days they ate nothing but vegan tacos for breakfast, lunch, dinner, and dessert. After years of rigorous testing they came up with their breakthrough cleanse plan <i>"The Taco Cleanse"</i>. It's the first ever diet plan the focuses on creating a happier life that promises to detox your dreams and redefine your dinner.</p>
+				<h2>James Aspey <i>Animal Rights Activist</i></h2>
+				<h3>Presentation: Intro to Veganism</h3>
+				<p>James Aspey has gone from beating leukemia as a teen to being one of Australia’s leading vegan activists. Initially going vegetarian for a 7 day experiment, James then learned about the health, ethical and environmental issues surrounding animal consumption, and has been vegan ever since. Grabbing global attention in 2015 after breaking a 365 day vow of silence in a TV interview seen by millions, James has continued devoting himself to activism. He travels all around the world giving free speeches on animal rights and veganism. <a href="http://jamesaspey.com.au">JamesAspey.com.au</a></p>
 			</div>
 
 		</div>
@@ -40,17 +41,17 @@ Template Name: Schedule Template
 	<div class="presentation yellow">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2>2PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/speakers/emily-b.jpg" alt="Bite Sized Vegan" />
+				<h2>2:30PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/presenters2017/unlocking-the-cage-movie.jpg" alt="Unlocking the Cage" />
 			</div>
 			<div class="col-sm-9">
-				<h2>Emily Moran Barwick <i>artist, activist, educator, "Bite Size Vegan"</i></h2>
-				<p>Emily created <a href="http://bitesizevegan.com/">Bite Size Vegan</a>, a popular collection of free, educational videos about veganism. Her mission is to simplify veganism and help people understand that it’s not an exclusive club, fad diet but rather a logical, compassionate, rational approach to life- especially in regards to the lives of others.</p>
+				<h2>Unlocking The Cage <i> feature film</i></h2>
+				<p>Unlocking the Cage follows animal rights lawyer Steven Wise in his unprecedented challenge to break down the legal wall that separates animals from humans. After thirty years of struggling with ineffective animal welfare laws, Steve and his legal team, the Nonhuman Rights Project (NhRP), are making history by filing the first lawsuits that seek to transform an animal from a thing with no rights to a person with legal protections. <a href="http://unlockingthecagethefilm.com">unlockingthecagethefilm.com</a></p>
 			</div>
 		</div>
 	</div>
 
-	<div class="presentation red">
+	<!-- <div class="presentation red">
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>3:30PM</h2>
@@ -66,49 +67,60 @@ Template Name: Schedule Template
 
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 
-	<!--
+
 	<div class="container-fluid white">
-		<h2>Activities <br /><i>Main Event Hall</i></h2>
+		<h2>Activities <br /><i>Meeting Room E, 3rd Floor</i></h2>
 	</div>
 	<div class="presentation green">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2>11:15AM</h2>
+				<h2>10:30AM-11AM</h2>
+				<img src="/app/themes/nevegfest/assets/img/presenters2017/flow-forms-yoga.png" alt="Flow Forms Yoga" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Flowforms Yoga</h2>
-				<p>Enjoy a family-friendly yoga session guided by local teachers from Worcester's Flowforms Yoga. Yoga makes your mind calm and peaceful and opens your heart. It tones, strengthens and heals your body. Presentation is appropriate for all ages, fitness levels and body types. </p>
-				<p><a href="http://FlowformsYoga.com" target="_blank">Flowforms Yoga</a></p>
+				<p>Start the day off right and join FlowForms Yoga for some free family-friendly yoga session. Explore yoga postures and guided visualizations to create an engaging and relaxing experience for the whole family. <a href="http://FlowFormsYoga.com">FlowFormsYoga.com</a></p>
+				<p>
+					<ul style="color:#ffffff;">
+						<li>10:30–11:00 // Open Levels Hatha Yoga ages 10+</li>
+						<li>11:15–11:45 // Open Levels Hatha Yoga ages 10+</li>
+						<li>12:00–12:30 // All Ages Family Yoga</li>
+						<li>3:00–3:30 // Open Levels Hatha Yoga ages 10+	</li>
+					</ul>
+				</p>
 			</div>
 		</div>
 	</div>
 	<div class="presentation red">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2>12:15PM</h2>
+				<h2>12:30PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/presenters2017/vegan-publishers-book-reading.jpg" alt="Lena of Vegitopia" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Children's Book Reading</h2>
-				<p>Lena of Vegitopia and the Mystery of the Missing Animals is a vegan-themed fairy tale about how one brave little girl stands up for the animal friends of her land and helps rescue them from being eaten. The book promotes messages of kindness, compassion, and action and shows that magical things can happen when you harness the power of veggies.</p>
-				<p><a href="http://veganpublishers.com/multimedia-archive/lena-of-vegitopia-and-the-mystery-of-the-missing-animals/" target="_blank">Vegan Publishers: Lena of Vegitopia</a></p>
+
+				<p>Join Casey Taft, Co-Founder of Vegan Pulishers, for a reading of Lena of Vegitopia and the Mystery of the Missing Animals by Sybil Severin. <a href="http://veganpublishers.com">veganpublishers.com</a></p>
 			</div>
 		</div>
 	</div>
 	<div class="presentation blue">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2>1:15PM</h2>
+				<h2>1:30PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/presenters2017/veg-speed-date.png" alt="Veg Speed Dating" />
 			</div>
 			<div class="col-sm-9">
-				<h2>Vegetable Circus</h2>
-				<p>Vegetable Circus instructors teach the basics of a variety of circus arts to deliver an interactive experience. Everyone participates in circus themed group games and receives hands-on instruction in many circus skills. Fun for kids!</p>
-				<p><a href="http://vegetablecircus.com" target="_blank">Vegetable Circus</a></p>
+				<h2>Veg Speed Dating</h2>
+				<p>This isn’t your typical speed dating. Veg Speed Date is exclusively for vegan and vegetarian singles across North America. Veg Speed Date has thought through every detail to make sure people have a great time! Three-minute mini dates will let you connect with other VegFest attendees in a fun and intimate setting.</p>
+				<p>*Must register at least 20 min in advance online or at the Veg Speed Date table near the escalators</p>
+				<p><a href="https://vegspeeddate.com/event/157044/" target="_blank">Sign up now</a></p>
 			</div>
 		</div>
--->
+
 	</div>
 <!--
 	<div class="presentation yellow">
