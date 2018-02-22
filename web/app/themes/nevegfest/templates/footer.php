@@ -54,7 +54,7 @@
             <div class="modal-body">
 							<div class="col-sm-6">
 							<h3>Contact Us</h3>
-							<p class="gold">For general inquiries, contact <a href="mailto:info@vegworcester.com">info@VegWorcester.com</a>.</p>
+							<p class="gold">For general inquiries, contact <a href="mailto:info@newenglandvegfest.com">info@newenglandvegfest.com</a>.</p>
 							</div><div class="col-sm-6">
               <h3>Connect with VegFest</h3>
 							<div class="ctas">
