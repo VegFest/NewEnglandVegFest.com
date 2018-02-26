@@ -20,6 +20,7 @@
 					<!-- Begin MailChimp Signup Form -->
 					<div id="mc_embed_signup">
 					<form action="//VegWorcester.us2.list-manage.com/subscribe/post?u=38963ea1aa7f978ae2c06864a&amp;id=42306f7ec2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<form action="https://VegWorcester.us2.list-manage.com/subscribe/post?u=38963ea1aa7f978ae2c06864a&amp;id=f8c8808133" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 
 <div class="mc-field-group">
@@ -32,11 +33,12 @@
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 	<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_38963ea1aa7f978ae2c06864a_f8c8808133" tabindex="-1" value=""></div>
-    <!-- <div style="position: absolute; left: -5000px;"><input type="text" name="b_38963ea1aa7f978ae2c06864a_42306f7ec2" tabindex="-1" value=""></div> -->
+
     <div><input type="submit" value="GO" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 
 		<div class="clear">
-			<input type="checkbox" value="1" name="group[20109][1]" id="mce-group[20109]-20109-0"><label for="mce-group[20109]-20109-0">
+			<!-- <input type="checkbox" value="1" name="group[20109][1]" id="mce-group[20109]-20109-0"><label for="mce-group[20109]-20109-0"> -->
+			<input type="checkbox" value="1" name="group[20109][1]" id="mce-group[20109]-20109-0"><label for="mce-group[20109]-20109-0">I'm interested in volunteering</label>
 			<!-- <input type="checkbox" value="1" name="group[1][1]" id="mce-group[1]-1-0"><label for="mce-group[1]-1-0"> I'm interested in volunteering</label> -->
 		</div>
     </div>
