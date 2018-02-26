@@ -72,17 +72,33 @@
 		<!--  -->
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-03-thehumaneleague.png" alt="The Humane League" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" />
-		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-05-spiritofchange.png" alt="Spirit of Change" /> -->
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-08-womag.png" alt="Worcester Magazine" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-07-roots.png" alt="Roots" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-10-cedars.png" alt="Cedar's" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-15-vegan-treats.png" alt="Vegan Treats" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-14-loving-hut.png" alt="Loving Hut" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/dcu-center.png" alt="DCU Center" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/fanciful-fox.png" alt="The Fanciful Fox" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/hippeas.png" alt="Hippeas" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/jennifer-lee.png" alt="Jenniger Lee" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/little-leaf.png" alt="Little Lead" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/living-earth.png" alt="The Living Earth" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/lundberg.png" alt="Lundberg" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/nea.png" alt="" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/neavs.png" alt="NEAVS" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/roots.png" alt="Roots" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/thl.png" alt="The Humane League" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/vegan-nest.png" alt="Vegan Nest" />
+
+
 		<!--
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-06-organiclivingsuperfoods.png" alt="Organic Living Superfoods" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-08-womag.png" alt="Worcester Magazine" />
+
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-11-threegirlsvegancreamery.png" alt="Three Girls Vegan Creamery" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-12-wegmans.png" alt="Wegmans" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-13-compassionco.png" alt="Compassion Co" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-14-loving-hut.png" alt="Loving Hut" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-15-vegan-treats.png" alt="Vegan Treats" /> -->
+		-->
 
 	</div>
 	<!-- <div class="col-xs-12" id="silver">
