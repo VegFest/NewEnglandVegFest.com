@@ -25,18 +25,26 @@
 <div class="mc-field-group">
 	<label for="mce-EMAIL" class="hidden">Email Address </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="you@email.com">
-	<input type="hidden" value="VegFest 2017 Website" name="SOURCE" id="mce-SOURCE">
+	<input type="hidden" value="New England VegFest 2018 Website" name="SOURCE" id="mce-SOURCE">
 </div>
 	<div id="mce-responses">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_38963ea1aa7f978ae2c06864a_42306f7ec2" tabindex="-1" value=""></div>
+	<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_38963ea1aa7f978ae2c06864a_f8c8808133" tabindex="-1" value=""></div>
+    <!-- <div style="position: absolute; left: -5000px;"><input type="text" name="b_38963ea1aa7f978ae2c06864a_42306f7ec2" tabindex="-1" value=""></div> -->
     <div><input type="submit" value="GO" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-		<div class="clear"><input type="checkbox" value="1" name="group[1][1]" id="mce-group[1]-1-0"><label for="mce-group[1]-1-0"> I'm interested in volunteering</label></div>
+
+		<div class="clear">
+			<input type="checkbox" value="1" name="group[20109][1]" id="mce-group[20109]-20109-0"><label for="mce-group[20109]-20109-0">
+			<!-- <input type="checkbox" value="1" name="group[1][1]" id="mce-group[1]-1-0"><label for="mce-group[1]-1-0"> I'm interested in volunteering</label> -->
+		</div>
     </div>
 </form>
 </div>
+
+
+
 
 <!--End mc_embed_signup-->
 				</div>
@@ -54,7 +62,7 @@
             <div class="modal-body">
 							<div class="col-sm-6">
 							<h3>Contact Us</h3>
-							<p class="gold">For general inquiries, contact <a href="mailto:info@vegworcester.com">info@VegWorcester.com</a>.</p>
+							<p class="gold">For general inquiries, contact <a href="mailto:info@newenglandvegfest.com">info@newenglandvegfest.com</a>.</p>
 							</div><div class="col-sm-6">
               <h3>Connect with VegFest</h3>
 							<div class="ctas">

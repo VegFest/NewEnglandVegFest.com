@@ -5,10 +5,16 @@
 		<?php if (is_front_page()) { ?>
 			<div class="ctas">
         <!-- <a class="cta" href="/exhibit/?src=frontpage">Apply to Exhibit!</a> -->
+<<<<<<< HEAD
         <a class="cta yellow" href="/member/?src=frontpage">Become a member</a>
         <a class="cta" href="//www.facebook.com/events/765063066992237/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP ON FACEBOOK</a>
+=======
+        <!--<a class="cta" href="//www.facebook.com/events/765063066992237/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP ON FACEBOOK</a>-->
+        <a class="cta" href="//member.vegfest.org" target="_blank">BECOME A MEMBER</a>
+        <a class="cta yellow" href="//NewEnglandVegFest.com/exhibit/?src=frontpage2018"> Exhibit/Sponsor at VegFest</a>
+>>>>>>> 5c970d491bb215cebffda1d0c0344c677a606bb2
 			</div>
-			<h2>Sunday April 30, 2017 &middot; 11AM-5PM &middot; DCU Center &middot; Worcester, MA</h2>
+			<h2>Sunday April 29, 2018 &middot; DCU Center &middot; Worcester, MA</h2>
 		<?php } else { ?>
 			<h2><?= the_title(); ?></h2>
 		<?php } ?>

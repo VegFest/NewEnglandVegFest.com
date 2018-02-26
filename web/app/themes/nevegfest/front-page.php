@@ -1,6 +1,7 @@
 <?php get_template_part('templates/page', 'header'); ?>
 <div class="container-fluid" id="about" class="32">
 	<p>The New England VegFest is a free festival that brings the local community together to celebrate vegetarianism: an animal-friendly, environmentally sustainable, and healthy lifestyle.</p>
+	<p><a href="/interested/?src=frontpage-20170524" class="cta red">I'm interested in exhibiting!</a></p>
 </div>
 <div id="features">
 	<div class="box">
@@ -62,24 +63,26 @@
 </div>
 <div class="break" id="food"></div>
 <div id="sponsors">
-	<h2>Our Sponsors</h2>
+	<h2>Our 2018 Sponsors</h2>
 	<div class="col-xs-12" id="gold">
 		<!-- <h3>Gold Partners</h3> -->
 
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-01-dcu-center.png" alt="DCU Center" />
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-01-dcu-center.png" alt="DCU Center" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-02-lightlife.png" alt="Lightlife" />
+		<!--  -->
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-03-thehumaneleague.png" alt="The Humane League" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-05-spiritofchange.png" alt="Spirit of Change" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-06-organiclivingsuperfoods.png" alt="Organic Living Superfoods" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-07-roots.png" alt="Roots" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-08-womag.png" alt="Worcester Magazine" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-10-cedars.png" alt="Cedar's" />
+		<!--
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-06-organiclivingsuperfoods.png" alt="Organic Living Superfoods" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-08-womag.png" alt="Worcester Magazine" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-11-threegirlsvegancreamery.png" alt="Three Girls Vegan Creamery" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-12-wegmans.png" alt="Wegmans" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-13-compassionco.png" alt="Compassion Co" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-14-loving-hut.png" alt="Loving Hut" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-15-vegan-treats.png" alt="Vegan Treats" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-15-vegan-treats.png" alt="Vegan Treats" /> -->
 
 	</div>
 	<!-- <div class="col-xs-12" id="silver">

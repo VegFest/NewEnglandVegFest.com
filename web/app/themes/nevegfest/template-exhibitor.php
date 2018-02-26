@@ -7,6 +7,7 @@ Template Name: Exhibitor Template
 <div class="content">
 <div class="container-fluid" id="about" class="32">
   <p>The New England VegFest is a free festival that brings the local community together to celebrate vegetarianism: an animal-friendly, environmentally sustainable, and healthy lifestyle. The VegFest began in 2010 as the Worcester VegFest. We've grown to encompass all of New England, reaching thousands and thousands of people in the process.</p>
+  <p><a href="/interested/?src=sponsorandexhibitorguide-20170524" class="cta red">I'm interested!</a></p>
 </div>
 <div id="features">
 	<div class="box"><p><b>Free</b><br />Admission</p></div>
@@ -109,7 +110,7 @@ Template Name: Exhibitor Template
   </li>
 </ul>
 </div></div>
-	<a href="/sponsor/?src=sponsorandexhibitorguide" class="cta yellow">Apply to Sponsor</a>
+	<a href="/interested/?src=sponsorandexhibitorguide-20170524-interestedinsponsoring" class="cta yellow">I'm interested in Sponsorship</a>
   <br/><br/>
   <h2>Exhibitor Options</h2>
 </div>
@@ -128,7 +129,7 @@ Template Name: Exhibitor Template
       </div>
     </div>
 	</div>
-	<a href="/exhibit/?src=sponsorandexhibitorguide" class="cta">Apply to Exhibit</a>
+  <a href="/interested/?src=sponsorandexhibitorguide-20170524-interestedinexhibiting" class="cta">I'm interested in Exhibiting</a>
 </div>
 <div class="container-fluid white center" id="sponsor-ask">
 	<h2>Sponsor or Exhibit Now</h2>
@@ -136,7 +137,7 @@ Template Name: Exhibitor Template
 </div>
 <div class="bluebg center">
 	<h2>Interested in sponsoring or exhibiting, but want more info?</h2>
-	<a href="/interested/?src=sponsorandexhibitorguide" class="cta red">I'm interested!</a>
+	<a href="/interested/?src=sponsorandexhibitorguide-20170524" class="cta red">I'm interested!</a>
 </div>
 <div class="break" id="joyful"></div>
 </div><!--/content-->
