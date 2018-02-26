@@ -19,8 +19,7 @@
 					<h3>Signup for VegFest News</h3>
 					<!-- Begin MailChimp Signup Form -->
 					<div id="mc_embed_signup">
-					<form action="//VegWorcester.us2.list-manage.com/subscribe/post?u=38963ea1aa7f978ae2c06864a&amp;id=42306f7ec2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-					<form action="https://VegWorcester.us2.list-manage.com/subscribe/post?u=38963ea1aa7f978ae2c06864a&amp;id=f8c8808133" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+					<form action="//VegWorcester.us2.list-manage.com/subscribe/post?u=38963ea1aa7f978ae2c06864a&amp;id=f8c8808133" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 
 <div class="mc-field-group">
