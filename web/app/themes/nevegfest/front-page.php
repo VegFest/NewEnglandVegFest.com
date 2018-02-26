@@ -72,7 +72,7 @@
 		<!--  -->
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-03-thehumaneleague.png" alt="The Humane League" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-05-spiritofchange.png" alt="Spirit of Change" />
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-05-spiritofchange.png" alt="Spirit of Change" /> -->
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-07-roots.png" alt="Roots" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-10-cedars.png" alt="Cedar's" />
 		<!--
