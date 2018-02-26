@@ -87,7 +87,6 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/nea.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/neavs.png" alt="NEAVS" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/roots.png" alt="Roots" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/thl.png" alt="The Humane League" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/vegan-nest.png" alt="Vegan Nest" />
 
 
