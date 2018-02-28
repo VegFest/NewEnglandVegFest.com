@@ -28,3 +28,5 @@ foreach($roots_includes as $file){
   require_once $filepath;
 }
 unset($file, $filepath);
+
+add_filter('deprecated_constructor_trigger_error', '__return_false');
