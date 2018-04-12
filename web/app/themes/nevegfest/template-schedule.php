@@ -12,13 +12,13 @@ Template Name: Schedule Template
 	<div class="presentation green">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2>12PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2017/chef-kevin.jpg" alt="Chef Kevin Williams" />
+				<h2>12:30PM-1:15pm</h2>
+				<img src="/app/themes/nevegfest/assets/img/presenters2018/chef-kevin.jpg" alt="Chef Kevin Williams" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Chef Kevin Williams <i>ROOTS Natural Foods. Kitchen + Juice Bar</i></h2>
 				<h3>Cooking Demo</h3>
-				<p>Kevin Williams has been cooking professionally for over 25 years. His culinary path began at the age of 14 when he declared to his mother he was going to stop eating animals.
+				<p>Kevin Williams is back again this year for another cooking demo. He has been cooking professionally for over 25 years. His culinary path began at the age of 14 when he declared to his mother he was going to stop eating animals.
 Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has held the Chef position in 5 US states as well as Vancouver Canada. At Roots, Chef Kevin has brought his California culinary style to the east, utilizing fresh farm produce, organic grains, tubers and legumes. <a href="http://rootsnaturalfoods.com">rootsnaturalfoods.com</a></p>
 			</div>
 		</div>
@@ -27,13 +27,13 @@ Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has he
 		<div class="container-fluid">
 
 			<div class="col-sm-3">
-				<h2>1PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2017/james-aspey.jpg" alt="James Aspey" />
+				<h2>1:30PM-2:30PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/presenters2018/Miyoko-Schinner.jpg" alt="Miyoko Schinner" />
 			</div>
 			<div class="col-sm-9">
-				<h2>James Aspey <i>Animal Rights Activist</i></h2>
-				<h3>Presentation: Intro to Veganism</h3>
-				<p>James Aspey has gone from beating leukemia as a teen to being one of Australia’s leading vegan activists. Initially going vegetarian for a 7 day experiment, James then learned about the health, ethical and environmental issues surrounding animal consumption, and has been vegan ever since. Grabbing global attention in 2015 after breaking a 365 day vow of silence in a TV interview seen by millions, James has continued devoting himself to activism. He travels all around the world giving free speeches on animal rights and veganism. <a href="http://jamesaspey.com.au">JamesAspey.com.au</a></p>
+				<h2>Miyoko Schinner <i>Author & Entrepreneur</i></h2>
+				<h3>Presentation: The Future of Food</h3>
+				<p>Miyoko Schinner is founder and CEO of Miyoko’s Kitchen, a leader in innovative, award-winning, organic dairy alternatives that aim to redefine the future of the creamery. A passionate culinarian, Miyoko is the author of five cookbooks and hosted three seasons of Vegan Mashup, a cooking show that aired on PBS nationwide. An avid activist working to change the culture of food, Miyoko is on the board of the Plant Based Foods Association and co-founder of Rancho Compasión, a farmed animal sanctuary in Nicasio, California that provides a home to over 80 farm animals.</p>
 			</div>
 
 		</div>
@@ -41,12 +41,16 @@ Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has he
 	<div class="presentation yellow">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2>2:30PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2017/unlocking-the-cage-movie.jpg" alt="Unlocking the Cage" />
+				<h2>3:30PM-5PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/presenters2018/Honey-LaBronx.jpg" alt="Honey LaBronx" />
 			</div>
 			<div class="col-sm-9">
-				<h2>Unlocking The Cage <i> feature film</i></h2>
-				<p>Unlocking the Cage follows animal rights lawyer Steven Wise in his unprecedented challenge to break down the legal wall that separates animals from humans. After thirty years of struggling with ineffective animal welfare laws, Steve and his legal team, the Nonhuman Rights Project (NhRP), are making history by filing the first lawsuits that seek to transform an animal from a thing with no rights to a person with legal protections. <a href="http://unlockingthecagethefilm.com">unlockingthecagethefilm.com</a></p>
+				<h2>Honey LaBronx<i> Activist</i></h2>
+				<p>Honey LaBronx stars in her own YouTube cooking series, The Vegan Drag Queen, and hosts the Big Fat Vegan Radio podcast. An LGBTQ rights activist, she is committed to bringing discussions about animal rights, intersectionality, and social justice to new audiences. In 2011, she was one of 8 activists arrested for blocking New York City traffic while demonstrating for marriage equality alongside her drag mother, Bob The Drag Queen. She has performed around the world raising funds for local animal sanctuaries, rescues, and activist organizations. Out of drag Honey — Ben Strothmann — is an actor, singer, playwright, and theatrical photographer, originally from Milwaukee, Wisconsin.</p>
+				<h3>Presentation: Listening Powerfully</h3>
+				<p> Have your conversations left you feeling disempowered? Does it seem like there's a bigger impact to be had? Are you sometimes unsuccessful in getting through to people?
+
+Come discover some of the fundamental rules of communication. This workshop will feature one-on-one coaching and partnered sharing exercises in a relaxed and fun setting. Participants will leave having discovered for themselves that it's not so much about HOW to listen — but what specifically to listen FOR in order to have conversations that make things happen.</p>
 			</div>
 		</div>
 	</div>
@@ -77,47 +81,40 @@ Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has he
 	<div class="presentation green">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2>10:30AM-11AM</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2017/flow-forms-yoga.png" alt="Flow Forms Yoga" />
+				<h2>12:15AM-1PM</h2>
+				<!-- <img src="/app/themes/nevegfest/assets/img/presenters2018/" alt="Yoga at the Ashram" /> -->
 			</div>
 			<div class="col-sm-9">
-				<h2>Flowforms Yoga</h2>
-				<p>Start the day off right and join FlowForms Yoga for some free family-friendly yoga session. Explore yoga postures and guided visualizations to create an engaging and relaxing experience for the whole family. <a href="http://FlowFormsYoga.com">FlowFormsYoga.com</a></p>
-				<p>
-					<ul style="color:#ffffff;">
-						<li>10:30–11:00 // Open Levels Hatha Yoga ages 10+</li>
-						<li>11:15–11:45 // Open Levels Hatha Yoga ages 10+</li>
-						<li>12:00–12:30 // All Ages Family Yoga</li>
-						<li>3:00–3:30 // Open Levels Hatha Yoga ages 10+	</li>
-					</ul>
-				</p>
+				<h2>Morning Yoga</h2>
+				<h3>Provided by Yoga at the Ashram</h3>
+				<p>Start the day off right and join Yoga at the Ashram for some free family-friendly yoga session. Explore yoga postures and guided visualizations to create an engaging and relaxing experience for the whole family. </p>
+
 			</div>
 		</div>
 	</div>
 	<div class="presentation red">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2>12:30PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2017/vegan-publishers-book-reading.jpg" alt="Lena of Vegitopia" />
+				<h2>1:30PM-3:30PM</h2>
+				<!-- <img src="/app/themes/nevegfest/assets/img/presenters2018/" alt="Lena of Vegitopia" /> -->
 			</div>
 			<div class="col-sm-9">
-				<h2>Children's Book Reading</h2>
+				<h2>Movie Screening</h2>
 
-				<p>Join Casey Taft, Co-Founder of Vegan Pulishers, for a reading of Lena of Vegitopia and the Mystery of the Missing Animals by Sybil Severin. <a href="http://veganpublishers.com">veganpublishers.com</a></p>
+				<p>Film to be announced</p>
 			</div>
 		</div>
 	</div>
 	<div class="presentation blue">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2>1:30PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2017/veg-speed-date.png" alt="Veg Speed Dating" />
+				<h2>4PM-4:45PM</h2>
+				<!-- <img src="/app/themes/nevegfest/assets/img/presenters2017/veg-speed-date.png" alt="Veg Speed Dating" /> -->
+
 			</div>
 			<div class="col-sm-9">
-				<h2>Veg Speed Dating</h2>
-				<p>This isn’t your typical speed dating. Veg Speed Date is exclusively for vegan and vegetarian singles across North America. Veg Speed Date has thought through every detail to make sure people have a great time! Three-minute mini dates will let you connect with other VegFest attendees in a fun and intimate setting.</p>
-				<p>*Must register at least 20 min in advance online or at the Veg Speed Date table near the escalators</p>
-				<p><a href="https://vegspeeddate.com/event/157044/" target="_blank">Sign up now</a></p>
+				<h2>End of the Day Yoga & Meditation</h2>
+				<p>End your VegFest by joining Yoga at the Ashram for yoga and meditation.</p>
 			</div>
 		</div>
 
