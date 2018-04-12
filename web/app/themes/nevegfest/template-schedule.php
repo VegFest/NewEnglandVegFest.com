@@ -154,5 +154,35 @@ Come discover some of the fundamental rules of communication. This workshop will
 			</div>
 		</div>
 	</div> -->
+	<div class="container-fluid white">
+		<h2>Kids' Stuff! <br /><i>Kids area in the exhibit hall</i></h2>
+	</div>
+	<div class="presentation green">
+		<div class="container-fluid">
+			<div class="col-sm-3">
+				<h2>1PM-1:30PM</h2>
+				<!-- <img src="/app/themes/nevegfest/assets/img/presenters2018/" alt="Yoga at the Ashram" /> -->
+			</div>
+			<div class="col-sm-9">
+				<h2>Children's Book Reading</h2>
+				<h3>Provided by Vegan Publishers</h3>
+				<p></p>
 
+			</div>
+		</div>
+	</div>
+	<div class="presentation red">
+		<div class="container-fluid">
+			<div class="col-sm-3">
+				<h2>2PM-3PM</h2>
+				<!-- <img src="/app/themes/nevegfest/assets/img/presenters2018/" alt="Lena of Vegitopia" /> -->
+			</div>
+			<div class="col-sm-9">
+				<h2>Kids' Yoga</h2>
+
+				<p></p>
+			</div>
+		</div>
+	</div>
+	
 </div><!--/content-->
