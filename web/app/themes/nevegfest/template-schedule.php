@@ -17,9 +17,11 @@ Template Name: Schedule Template
 			</div>
 			<div class="col-sm-9">
 				<h2>Chef Kevin Williams <i>ROOTS Natural Foods. Kitchen + Juice Bar</i></h2>
-				<h3>Cooking Demo</h3>
-				<p>Kevin Williams is back again this year for another cooking demo. He has been cooking professionally for over 25 years. His culinary path began at the age of 14 when he declared to his mother he was going to stop eating animals.
-Chef Kevin attended Johnson & Wales cooking school in Providence RI., and has held the Chef position in 5 US states as well as Vancouver Canada. At Roots, Chef Kevin has brought his California culinary style to the east, utilizing fresh farm produce, organic grains, tubers and legumes. <a href="http://rootsnaturalfoods.com">rootsnaturalfoods.com</a></p>
+				<p>He's back again this year for another cooking demo.</p>
+				<p>Kevin Williams has been cooking professionally for over 25 years. His culinary path began at the age of 14 when he declared to his mother he was going to stop eating animals. Chef Kevin attended cooking school at Johnson & Wales in Providence, RI, and he has held the chef position in 5 US states as well as in Canada. At Roots, Chef Kevin has brought his California culinary style to the east, utilizing fresh farm produce, organic grains, tubers, and legumes.
+				</p>
+				<h3>Cooking Demo:  Introduction to Vegan Mexican Cooking</h3>
+				<p>During this vegan cooking demo, Chef Kevin Williams from Roots Natural Foods will put his own twist on basic sauce making. On the menu: ceviche and jackfruit tacos using traditional techniques that he recently perfected on a trip through Mexico. </p>
 			</div>
 		</div>
 	</div>
