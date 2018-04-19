@@ -18,7 +18,7 @@ Template Name: Schedule Template
 			<div class="col-sm-9">
 				<h2>Chef Kevin Williams <i>ROOTS Natural Foods. Kitchen + Juice Bar</i></h2>
 				<p>He's back again this year for another cooking demo.</p>
-				<p>Kevin Williams has been cooking professionally for over 25 years. His culinary path began at the age of 14 when he declared to his mother he was going to stop eating animals. Chef Kevin attended cooking school at Johnson & Wales in Providence, RI, and he has held the chef position in 5 US states as well as in Canada. At Roots, Chef Kevin has brought his California culinary style to the east, utilizing fresh farm produce, organic grains, tubers, and legumes.
+				<p>Bio: Kevin Williams has been cooking professionally for over 25 years. His culinary path began at the age of 14 when he declared to his mother he was going to stop eating animals. Chef Kevin attended cooking school at Johnson & Wales in Providence, RI, and he has held the chef position in 5 US states as well as in Canada. At Roots, Chef Kevin has brought his California culinary style to the east, utilizing fresh farm produce, organic grains, tubers, and legumes.
 				</p>
 				<h3>Cooking Demo:  Introduction to Vegan Mexican Cooking</h3>
 				<p>During this vegan cooking demo, Chef Kevin Williams from Roots Natural Foods will put his own twist on basic sauce making. On the menu: ceviche and jackfruit tacos using traditional techniques that he recently perfected on a trip through Mexico. </p>
@@ -34,7 +34,7 @@ Template Name: Schedule Template
 			</div>
 			<div class="col-sm-9">
 				<h2>Miyoko Schinner <i>Author & Entrepreneur</i></h2>
-				<h3>Presentation: The Future of Food</h3>
+				<h3>Presentation: Is the Future of Food Vegan?</h3>
 				<p>Miyoko Schinner is founder and CEO of Miyoko’s Kitchen, a leader in innovative, award-winning, organic dairy alternatives that aim to redefine the future of the creamery. A passionate culinarian, Miyoko is the author of five cookbooks and hosted three seasons of Vegan Mashup, a cooking show that aired on PBS nationwide. An avid activist working to change the culture of food, Miyoko is on the board of the Plant Based Foods Association and co-founder of Rancho Compasión, a farmed animal sanctuary in Nicasio, California that provides a home to over 80 farm animals.</p>
 			</div>
 
@@ -184,5 +184,5 @@ Come discover some of the fundamental rules of communication. This workshop will
 			</div>
 		</div>
 	</div>
-	
+
 </div><!--/content-->
