@@ -84,7 +84,7 @@ Come discover some of the fundamental rules of communication. This workshop will
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12:15AM-1PM</h2>
-				<!-- <img src="/app/themes/nevegfest/assets/img/presenters2018/" alt="Yoga at the Ashram" /> -->
+				<img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Yoga at the Ashram" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Morning Yoga</h2>
