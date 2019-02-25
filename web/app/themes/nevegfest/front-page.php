@@ -63,14 +63,14 @@
 </div>
 <div class="break" id="food"></div>
 <div id="sponsors">
-	<h2>Our 2018 Sponsors</h2>
+	<h2>Our 2019 Sponsors</h2>
 	<div class="col-xs-12" id="gold">
 		<!-- <h3>Gold Partners</h3> -->
 
 		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-01-dcu-center.png" alt="DCU Center" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-02-lightlife.png" alt="Lightlife" />
 		<!--  -->
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/navitas.png" alt="Navitas" />
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/navitas.png" alt="Navitas" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/like-no-udder.png" alt="Like No Udder" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-03-thehumaneleague.png" alt="The Humane League" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" />
@@ -89,15 +89,17 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/nea.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/neavs.png" alt="NEAVS" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/roots.png" alt="Roots" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/vegan-nest.png" alt="Vegan Nest" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/vegan-nest.png" alt="Vegan Nest" /> -->
 
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/loving-hut.png" alt="" />
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/loving-hut.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/made-good.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/massthreads.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/power.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/pulse-cafe.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/rescom.png" alt="" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/yoga.png" alt="" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/yoga.png" alt="" /> -->
+			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2019/city-compost.png" alt="City Compost" />
+			<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2019/spirit-of-change.png" alt="Spirit of Change" />
 
 
 		<!--
