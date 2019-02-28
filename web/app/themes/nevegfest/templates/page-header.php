@@ -7,7 +7,7 @@
         <a class="cta red" href="//NewEnglandVegFest.com/sponsor/?src=frontpage2019"> Sponsor</a>
         <a class="cta yellow" href="//NewEnglandVegFest.com/exhibit/?src=frontpage2019"> Exhibit</a>
         <!-- <a class="cta" href="//facebook.com/events/144050729606900/" target="_blank"><i class="fa fa-facebook-square"></i> RSVP ON FACEBOOK</a> -->
-        <a class="cta yellow" href="//member.vegfest.org?src=nevf19" target="_blank">BECOME A MEMBER & GET EARLY ADMISSION</a>
+        <a class="cta blue" href="//member.vegfest.org?src=nevf19" target="_blank">GET EARLY ADMISSION</a>
 			</div>
 			<h2>Sunday April 28, 2019 &middot;  DCU Center &middot; Worcester, MA</h2>
 		<?php } else { ?>
