@@ -80,7 +80,7 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-14-loving-hut.png" alt="Loving Hut" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/dcu-center.png" alt="DCU Center" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/fanciful-fox.png" alt="The Fanciful Fox" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/hippeas.png" alt="Hippeas" />
+
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/jennifer-lee.png" alt="Jenniger Lee" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/little-leaf.png" alt="Little Lead" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/living-earth.png" alt="The Living Earth" />
@@ -102,7 +102,7 @@
 
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2019/city-compost.png" alt="City Compost" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2019/spirit-of-change.png" alt="Spirit of Change" />
-
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/hippeas.png" alt="Hippeas" />
 
 		<!--
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-06-organiclivingsuperfoods.png" alt="Organic Living Superfoods" />
