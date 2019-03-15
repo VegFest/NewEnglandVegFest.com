@@ -76,7 +76,7 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-08-womag.png" alt="Worcester Magazine" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-07-roots.png" alt="Roots" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-15-vegan-treats.png" alt="Vegan Treats" />
+
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-14-loving-hut.png" alt="Loving Hut" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/dcu-center.png" alt="DCU Center" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/fanciful-fox.png" alt="The Fanciful Fox" />
@@ -95,7 +95,7 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/massthreads.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/power.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/pulse-cafe.png" alt="" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/yoga.png" alt="" /> -->
+		 -->
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/made-good.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-10-cedars.png" alt="Cedar's" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/rescom.png" alt="" />
@@ -103,7 +103,8 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2019/city-compost.png" alt="City Compost" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2019/spirit-of-change.png" alt="Spirit of Change" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/hippeas.png" alt="Hippeas" />
-
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-15-vegan-treats.png" alt="Vegan Treats" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/yoga.png" alt="Yoga at the Ashram" />
 		<!--
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-06-organiclivingsuperfoods.png" alt="Organic Living Superfoods" />
 
