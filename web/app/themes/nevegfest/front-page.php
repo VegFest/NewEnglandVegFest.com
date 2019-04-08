@@ -92,7 +92,6 @@
 
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/massthreads.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/power.png" alt="" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/pulse-cafe.png" alt="" />
 		 -->
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/made-good.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-10-cedars.png" alt="Cedar's" />
@@ -106,6 +105,7 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/like-no-udder.png" alt="Like No Udder" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-07-roots.png" alt="Roots" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/pulse-cafe.png" alt="" />
 		<!--
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-06-organiclivingsuperfoods.png" alt="Organic Living Superfoods" />
 
