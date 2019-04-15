@@ -43,7 +43,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>3:15PM-4:05PM</h2>
-				<img src="/app/uploads/gravity_forms/31-039a11cce4b26d01f50a5f40d2559bd5/2019/03/Toni-Okamoto-Farmers-Market-Shoot-7.jpg , http://newenglandvegfest.com/app/uploads/gravity_forms/31-039a11cce4b26d01f50a5f40d2559bd5/2019/03/Toni-Okamoto-Farmers-Market-Shoot-12.jpg" alt="Toni	Okamoto" />
+				<img src="/app/themes/nevegfest/assets/img/toni-okamoto.jpg" alt="Toni	Okamoto" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Toni Okamoto<i> Author of Plant-Based on a Budget</i></h2>
@@ -122,7 +122,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12:45PM-1:30PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2018/" alt="Yoga at the Ashram" />
+				<img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Yoga at the Ashram" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Yoga</h2>
@@ -135,7 +135,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>1:45PM-2:30PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2018/" alt="Yoga at the Ashram" />
+				<img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Yoga at the Ashram" />
 
 			</div>
 			<div class="col-sm-9">
@@ -165,7 +165,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>4PM-4:45PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/presenters2018/" alt="Yoga at the Ashram" />
+				<img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Yoga at the Ashram" />
 
 			</div>
 			<div class="col-sm-9">
@@ -181,29 +181,17 @@ Template Name: Schedule Template
 	<div class="container-fluid white">
 		<h2>Kids' Stuff! <br /><i>Kids area in the exhibit hall</i></h2>
 	</div>
-	<div class="presentation green">
-		<div class="container-fluid">
-			<div class="col-sm-3">
-				<h2>12:15PM-12:45PM</h2>
-				<!-- <img src="/app/themes/nevegfest/assets/img/presenters2018/" alt="Yoga at the Ashram" /> -->
-			</div>
-			<div class="col-sm-9">
-				<h2>Children's Book Reading</h2>
-				<h3>Provided by Vegan Publishers</h3>
-				<p></p>
 
-			</div>
-		</div>
-	</div>
 	<div class="presentation red">
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>2PM-3PM</h2>
-				<!-- <img src="/app/themes/nevegfest/assets/img/presenters2018/" alt="Lena of Vegitopia" /> -->
+				<!-- <img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Lena of Vegitopia" /> -->
 			</div>
 			<div class="col-sm-9">
-				<h2>Casey	Taft <i>Co-founder Vegan Publishers</i></h2>
-				<h3>Kids' Storytime</h3>
+				<h2>Children's Book Reading</h2>
+				<h3>Casey	Taft <i>Co-founder Vegan Publishers</i></h3>
+
 				<p>Vegan Publishers was formed in 2013 with a mission to publish a range of books that promote social consciousness and awareness related to veganism. We are interested in publishing books for adults and children that focus on positive themes emphasizing justice and respect for all living beings. Vegan Publishers hopes to be at the forefront of the growing societal trend towards vegan living.</p>
 			</div>
 		</div>
