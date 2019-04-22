@@ -144,7 +144,8 @@ Template Name: Schedule Template
 
 			</div>
 			<div class="col-sm-9">
-				<h2>Activities and fun times all day (Kids' area in the Exhibit Hall)</h2>
+				<h2><i>Kids' Area in Exhibit Hall</i></h2>
+				<h2>Activities and fun times all day</h2>
 				<h3>Hosted by Main Idea </h3>
 			</div>
 		</div>
@@ -155,8 +156,9 @@ Template Name: Schedule Template
 				<h2>12:15PM-12:45PM</h2>
 			</div>
 			<div class="col-sm-9">
-				<h2>Children's Book Reading (Kids' Area in Exhibit Hall)</h2>
-				<h2><i>Read by Casey Taft, the co-founder Vegan Publishers</i></h2>
+				<h2><i>Kids' Area in Exhibit Hall</i></h2>
+				<h2>Children's Book Reading</h2>
+				<h2>Read by Casey Taft, the co-founder Vegan Publishers</h2>
 			</div>
 		</div>
 	</div>
@@ -164,12 +166,13 @@ Template Name: Schedule Template
 	<div class="presentation yellow">
 		<div class="container-fluid">
 			<div class="col-sm-3">
+				<h2><i>Showcase Corner</i></h2>
 				<h2>1:45PM-2:30PM</h2>
 				<img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Yoga at the Ashram" />
 
 			</div>
 			<div class="col-sm-9">
-				<h2>Kids' Yoga (Showcase Corner)</h2>
+				<h2>Kids' Yoga</h2>
 				<h3>Hosted by Yoga at the Ashram</h3>
 
 			</div>
