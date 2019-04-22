@@ -166,12 +166,12 @@ Template Name: Schedule Template
 	<div class="presentation yellow">
 		<div class="container-fluid">
 			<div class="col-sm-3">
-				<h2><i>Showcase Corner</i></h2>
 				<h2>1:45PM-2:30PM</h2>
 				<img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Yoga at the Ashram" />
 
 			</div>
 			<div class="col-sm-9">
+				<h2><i>Showcase Corner</i></h2>
 				<h2>Kids' Yoga</h2>
 				<h3>Hosted by Yoga at the Ashram</h3>
 
