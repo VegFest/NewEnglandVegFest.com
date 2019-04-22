@@ -135,12 +135,22 @@ Template Name: Schedule Template
 	</div>
 
 	<div class="container-fluid white">
-		<h2>Kids' Stuff! <br /><i>11 AM - 5 PM
-Activities and fun times all day<br />Kids' Area in Exhibit Hall <br/>
-presented by Main Idea</i></h2>
+		<h2>Kids' Stuff! </h2>
 	</div>
+	<div class="presentation green">
+		<div class="container-fluid">
+			<div class="col-sm-3">
+				<h2>11AM-5PM</h2>
+				<img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Yoga at the Ashram" />
 
-	<div class="presentation red">
+			</div>
+			<div class="col-sm-9">
+				<h2>Activities and fun times all day (Kids' area in the Exhibit Hall)</h2>
+				<h3>Hosted by Main Idea </h3>
+			</div>
+		</div>
+	</div>
+	<div class="presentation blue">
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12:15PM-12:45PM</h2>
@@ -151,7 +161,9 @@ presented by Main Idea</i></h2>
 				<h2><i>Read by Casey Taft, the co-founder Vegan Publishers</i></h2>
 			</div>
 		</div>
+	</div>
 
+	<div class="presentation yellow">
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>1:45PM-2:30PM</h2>
@@ -164,7 +176,6 @@ presented by Main Idea</i></h2>
 
 			</div>
 		</div>
-
 	</div>
 
 </div><!--/content-->
