@@ -153,7 +153,6 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12:15PM-12:45PM</h2>
-				<!-- <img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Lena of Vegitopia" /> -->
 			</div>
 			<div class="col-sm-9">
 				<h2>Children's Book Reading (Kids' Area in Exhibit Hall)</h2>
