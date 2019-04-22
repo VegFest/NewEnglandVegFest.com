@@ -141,7 +141,6 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>11AM-5PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Yoga at the Ashram" />
 
 			</div>
 			<div class="col-sm-9">
