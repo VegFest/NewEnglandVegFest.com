@@ -27,7 +27,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 
 			<div class="col-sm-3">
-				<h2>1:45PM-2:05PM</h2>
+				<h2>1:45PM-2:35PM</h2>
 				<img src="/app/uploads/gravity_forms/31-039a11cce4b26d01f50a5f40d2559bd5/2019/03/IMG_5079.jpg" alt="Berto	Calkins" />
 			</div>
 			<div class="col-sm-9">
@@ -43,7 +43,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>3:15PM-4:05PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/toni-okamoto.jpg" alt="Toni	Okamoto" />
+				<img src="/app/themes/nevegfest/assets/img/toni-okamoto2019.jpg" alt="Toni	Okamoto" />
 			</div>
 			<div class="col-sm-9">
 				<h2>Toni Okamoto<i> Author of Plant-Based on a Budget</i></h2>
@@ -133,7 +133,25 @@ Template Name: Schedule Template
 			</div>
 		</div>
 	</div>
-	<div class="presentation blue">
+
+	<div class="container-fluid white">
+		<h2>Kids' Stuff! <br /><i>11 AM - 5 PM
+Activities and fun times all day<br />Kids' Area in Exhibit Hall <br/>
+presented by Main Idea</i></h2>
+	</div>
+
+	<div class="presentation red">
+		<div class="container-fluid">
+			<div class="col-sm-3">
+				<h2>12:15PM-12:45PM</h2>
+				<!-- <img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Lena of Vegitopia" /> -->
+			</div>
+			<div class="col-sm-9">
+				<h2>Children's Book Reading (Kids' Area in Exhibit Hall)</h2>
+				<h2><i>Read by Casey Taft, the co-founder Vegan Publishers</i></h2>
+			</div>
+		</div>
+
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>1:45PM-2:30PM</h2>
@@ -141,32 +159,12 @@ Template Name: Schedule Template
 
 			</div>
 			<div class="col-sm-9">
-				<h2>Kids' Yoga</h2>
+				<h2>Kids' Yoga (Showcase Corner)</h2>
 				<h3>Hosted by Yoga at the Ashram</h3>
-				<p>It is named after the great yogi, Baba Siri Chand, who united all of yoga 500 years ago.</p>
 
 			</div>
 		</div>
 
-	</div>
-
-	<div class="container-fluid white">
-		<h2>Kids' Stuff! <br /><i>Kids area in the exhibit hall</i></h2>
-	</div>
-
-	<div class="presentation red">
-		<div class="container-fluid">
-			<div class="col-sm-3">
-				<h2>2PM-3PM</h2>
-				<!-- <img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Lena of Vegitopia" /> -->
-			</div>
-			<div class="col-sm-9">
-				<h2>Children's Book Reading</h2>
-				<h3>Casey	Taft <i>Co-founder Vegan Publishers</i></h3>
-
-				<p>Vegan Publishers was formed in 2013 with a mission to publish a range of books that promote social consciousness and awareness related to veganism. We are interested in publishing books for adults and children that focus on positive themes emphasizing justice and respect for all living beings. Vegan Publishers hopes to be at the forefront of the growing societal trend towards vegan living.</p>
-			</div>
-		</div>
 	</div>
 
 </div><!--/content-->
