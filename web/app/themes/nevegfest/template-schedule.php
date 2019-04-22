@@ -7,7 +7,7 @@ Template Name: Schedule Template
 
 <div class="content">
 	<div class="container-fluid white">
-		<h2>Featured Presentations <br /><i>3rd Floor, Junior Ballroom</i></h2>
+		<h2>Presentations <br /><i>3rd Floor, Junior Ballroom</i></h2>
 	</div>
 	<div class="presentation green">
 		<div class="container-fluid">
@@ -55,7 +55,7 @@ Template Name: Schedule Template
 
 
 	<div class="container-fluid white">
-		<h2>Presentations <br /><i>Meeting Room E, 3rd Floor</i></h2>
+		<h2><i>Meeting Room E, 3rd Floor</i></h2>
 	</div>
 	<div class="presentation green">
 		<div class="container-fluid">
@@ -107,6 +107,7 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>11:30AM-12:00PM</h2>
+				<h2>2:45PM-3:35PM</h2>
 				<img src="/app/uploads/gravity_forms/31-039a11cce4b26d01f50a5f40d2559bd5/2019/03/2B4CB768-8B37-45D3-869D-AA17C63D5493.jpeg" alt="Grey" />
 			</div>
 			<div class="col-sm-9">
@@ -122,12 +123,13 @@ Template Name: Schedule Template
 		<div class="container-fluid">
 			<div class="col-sm-3">
 				<h2>12:45PM-1:30PM</h2>
+				<h2>4:00PM-4:45PM</h2>
 				<img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Yoga at the Ashram" />
 			</div>
 			<div class="col-sm-9">
-				<h2>Yoga</h2>
+				<h2>All-Levels Yoga</h2>
 				<h3>Hosted by Yoga at the Ashram</h3>
-				<p>Yoga at the Ashram is a non-profit organization founded in Millis, MA in 1970.</p>
+				<p>Develop your inner calm, strength, and physical well-being during this participatory yoga demonstration for all experience levels. Yoga at the Ashram is a non-profit organization founded in Millis, MA in 1970.</p>
 			</div>
 		</div>
 	</div>
@@ -142,36 +144,6 @@ Template Name: Schedule Template
 				<h2>Kids' Yoga</h2>
 				<h3>Hosted by Yoga at the Ashram</h3>
 				<p>It is named after the great yogi, Baba Siri Chand, who united all of yoga 500 years ago.</p>
-
-			</div>
-		</div>
-
-	</div>
-	<div class="presentation yellow">
-		<div class="container-fluid">
-			<div class="col-sm-3">
-				<h2>3:15PM-4:05PM</h2>
-				<img src="/app/uploads/gravity_forms/31-039a11cce4b26d01f50a5f40d2559bd5/2019/03/2B4CB768-8B37-45D3-869D-AA17C63D5493.jpeg" alt="Grey" />
-			</div>
-			<div class="col-sm-9">
-				<h2>Grey <i>Musician</i></h2>
-				<h3>Plant Based Drippin - 2nd Performance</h3>
-				<p>Grey is one of the hottest emerging artists at the intersection between activism, urban style & hip hop. A growing Atlanta institution in his own right, Grey became one of the most talked about acts of 2016 after his Vegan Thanksgiving freestyle & music video took the internet by storm. Notching a total of 30+ million views, he was catapulted from local stardom to the global stage. Even PETA and Whole Foods supported his release, proving the cross-marketability of Grey and his message.</p>
-				<p>His music and clothing line, Plant Based Drippin, is creating a new energy in the Vegan community. A lyricist, activist, and social entrepreneur, Grey is nothing short of refreshing. With a clear, understandable, and sophisticated flow, Grey is an artist to watch in 2019. He, like vegan cooking, just might surprise you</p>
-			</div>
-		</div>
-	</div>
-	<div class="presentation green">
-		<div class="container-fluid">
-			<div class="col-sm-3">
-				<h2>4PM-4:45PM</h2>
-				<img src="/app/themes/nevegfest/assets/img/yoga-at-the-ashram.png" alt="Yoga at the Ashram" />
-
-			</div>
-			<div class="col-sm-9">
-				<h2>Yoga</h2>
-				<h3>Hosted by Yoga at the Ashram</h3>
-				<p>Whether you seek sound healing, Kundalini yoga for awareness, meditation, dance, or a yoga get-away, Yoga at the Ashram is for you. It also offers innovative educational practices & programs, including world-class trainings, supported with Ayurvedic-inspired vegetarian nutrition. It is located in the spiritually uplifting environment of the yoga center’s host, Guru Ram Das Ashram, a place of peaceful meditation for over 45 years.</p>
 
 			</div>
 		</div>
