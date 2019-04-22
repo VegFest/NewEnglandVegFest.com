@@ -144,8 +144,8 @@ Template Name: Schedule Template
 
 			</div>
 			<div class="col-sm-9">
-				<h2><i>Kids' Area in Exhibit Hall</i></h2>
 				<h2>Activities and fun times all day</h2>
+				<h2><i>Kids' Area in Exhibit Hall</i></h2>
 				<h3>Hosted by Main Idea </h3>
 			</div>
 		</div>
@@ -156,8 +156,8 @@ Template Name: Schedule Template
 				<h2>12:15PM-12:45PM</h2>
 			</div>
 			<div class="col-sm-9">
-				<h2><i>Kids' Area in Exhibit Hall</i></h2>
 				<h2>Children's Book Reading</h2>
+				<h2><i>Kids' Area in Exhibit Hall</i></h2>
 				<h2>Read by Casey Taft, the co-founder Vegan Publishers</h2>
 			</div>
 		</div>
@@ -171,8 +171,8 @@ Template Name: Schedule Template
 
 			</div>
 			<div class="col-sm-9">
-				<h2><i>Showcase Corner</i></h2>
 				<h2>Kids' Yoga</h2>
+				<h2><i>Showcase Corner</i></h2>
 				<h3>Hosted by Yoga at the Ashram</h3>
 
 			</div>
