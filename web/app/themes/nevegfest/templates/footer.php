@@ -54,6 +54,7 @@
 	</div>
 	<div id="credit" class="container-fluid">
 		<a href="http://vegworcester.com" target="_blank"><img src="/app/themes/nevegfest/assets/img/VegWorcester.png" alt="Presented by VegWorcester" /></a>
+		<a href="http://newenglandvegfest.com/app/uploads/2019/03/NEVF-Code-of-Conduct-2019.pdf">Code of Conduct</a>
 	</div>
 </footer>
 <div id="contact" class="modal fade in">
