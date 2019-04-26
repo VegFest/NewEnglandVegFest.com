@@ -171,9 +171,10 @@ Template Name: Schedule Template
 
 			</div>
 			<div class="col-sm-9">
-				<h2>Kids' Yoga</h2>
+				<h2>Kid's Yoga Fun! with Sach Anand</h2>
 				<h2><i>Showcase Corner</i></h2>
 				<h3>Hosted by Yoga at the Ashram</h3>
+
 
 			</div>
 		</div>
