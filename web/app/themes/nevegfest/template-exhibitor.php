@@ -6,39 +6,45 @@ Template Name: Exhibitor Template
 <?php get_template_part('templates/page', 'header'); ?>
 <div class="content">
 <div class="container-fluid" id="about" class="32">
-  <p>The New England VegFest is a free festival that brings the local community together to celebrate vegetarianism: an animal-friendly, environmentally sustainable, and healthy lifestyle. The VegFest began in 2010 as the Worcester VegFest. We've grown to encompass all of New England, reaching thousands and thousands of people in the process.</p>
-  <p><a href="/interested/?src=sponsorandexhibitorguide-20170524" class="cta red">I'm interested!</a></p>
+  <p>The New England VegFest is a free festival that brings the community together to celebrate an animal-friendly, environmentally sustainable, and healthy lifestyle. The event began in 2010 and has grown into one of the largest VegFests in the country, attracting more than 10,000 attendees from across New England, as well as a wide range of enthusiastic exhibitors and amazing sponsors.</p>
+  <p><a href="https://newenglandvegfest.com/sponsor/?src=sponsorandexhibitorguide-20200204" class="cta red">BECOME A SPONSOR</a></p>
 </div>
 <div id="features">
 	<div class="box"><p><b>Free</b><br />Admission</p></div>
 	<div class="box"><p><b>100+</b><br />Exhibitors</p></div>
-	<div class="box"><p>Thousands of<br /><b>Attendees</b></p></div>
+	<div class="box"><p>10,000+<br /><b>Attendees</b></p></div>
 	<div class="box"><p>World Famous<br /><b>Speakers</b></p></div>
 </div>
 <div class="container-fluid white center" id="numbers">
-	<h2>VegFest Attendees by the Numbers</h2>
+	<h2>Put your brand in the spotlight</h2>
 	<div class="pad">
-		<div class="col-xs-6 col-sm-3"><div class="circle"><b>3,000</b><br />attendees in 2012</div></div>
+    <p>
+      Sponsors are the MVP’s of VegFest, providing generous support that helps sustain and grow our non-profit event.
+    </p>
+    <p>
+      When you become a sponsor, you receive high visibility promotion to our supporters and attendees at the festival, throughout New England, and across our social media platforms. You also get special perks and personalized treatment to ensure you have an overall incredible day VegFest.
+    </p>
+		<!-- <div class="col-xs-6 col-sm-3"><div class="circle"><b>3,000</b><br />attendees in 2012</div></div>
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>5,000</b><br />attendees in 2013</div></div>
 		<div class="col-xs-6 col-sm-3"><div class="circle"><b>7,000</b><br />attendees in 2014</div></div>
-		<div class="col-xs-6 col-sm-3"><div class="circle"><b>12,000</b><br />attendees in 2015-16</div></div>
+		<div class="col-xs-6 col-sm-3"><div class="circle"><b>12,000</b><br />attendees in 2015-16</div></div> -->
 	</div>
 </div>
 <div id="reasons">
 	<div id="whyparticipate" class="col-sm-6">
 		<h2>Why Participate?</h2>
 		<ul>
-			<li>Reach new customers and connect with your base
-			<li>Build relationships with other businesses
-			<li>Put your message in front of a diverse crowd of thousands
+			<li>Reach new customers from throughout New England
+			<li>Stand out from the crowd at VegFest with preferred placement and perks
+			<li>Associate your brand with an inspiring and compassionate event
 			<li>Connect with a dedicated community of like-minded people
-			<li>Build a following for your brand
+			<li>Give back by supporting a cause you are passionate about
 
 		</ul>
 	</div>
 	<div id="attendeesare" class="col-sm-6">
 		<h2>VegFest Attendees Are:</h2>
-		<ul>
+		<ul style="font-size:20px">
 			<li><b>Young:</b> Two-thirds of attendees are between ages 18-45.
 			<li><b>Motivated:</b> Most travel 20-80 miles to attend.
 			<li><b>Environmentally Aware:</b> Attendees are interested in brands that help create positive change.
