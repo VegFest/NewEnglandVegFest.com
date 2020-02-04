@@ -165,13 +165,13 @@ Template Name: Exhibitor Template
 	</div>
   <a href="/sponsor/?src=sponsorandexhibitorguide-20200204" class="cta red">BECOME A SPONSOR</a>
 </div> -->
-<div class="container-fluid white center" id="sponsor-ask">
+<!-- <div class="container-fluid white center" id="sponsor-ask">
 	<h2>Get More Information</h2>
 	<p>We’d love to connect with you further about becoming a VegFest sponsor. Contact Jen at <a href="mailto:jen@vegfest.org">jen@vegfest.org</a> for more information. You can also learn more about <a href="https://newenglandvegfest.com/interested/">becoming an Exhibitor at VegFest</a>.</p>
-</div>
+</div> -->
 <div class="bluebg center">
-	<h2>Interested in sponsoring or exhibiting, but want more info?</h2>
-	<a href="/sponsor/?src=sponsorandexhibitorguide-20200204" class="cta red">BECOME A SPONSOR</a>
+	<h2>Get More Information</h2>
+	<p>We’d love to connect with you further about becoming a VegFest sponsor. Contact Jen at <a href="mailto:jen@vegfest.org">jen@vegfest.org</a> for more information. You can also learn more about <a href="https://newenglandvegfest.com/interested/">becoming an Exhibitor at VegFest</a>.</p>
 </div>
 <div class="break" id="joyful"></div>
 </div><!--/content-->
