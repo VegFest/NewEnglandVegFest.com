@@ -7,7 +7,7 @@ Template Name: Exhibitor Template
 <div class="content">
 <div class="container-fluid" id="about" class="32">
   <p>The New England VegFest is a free festival that brings the community together to celebrate an animal-friendly, environmentally sustainable, and healthy lifestyle. The event began in 2010 and has grown into one of the largest VegFests in the country, attracting more than 10,000 attendees from across New England, as well as a wide range of enthusiastic exhibitors and amazing sponsors.</p>
-  <p><a href="https://newenglandvegfest.com/sponsor/?src=sponsorandexhibitorguide-20200204" class="cta red">BECOME A SPONSOR</a></p>
+  <p><a href="/sponsor/?src=sponsorandexhibitorguide-20200204" class="cta red">BECOME A SPONSOR</a></p>
 </div>
 <div id="features">
 	<div class="box"><p><b>Free</b><br />Admission</p></div>
@@ -140,11 +140,15 @@ Template Name: Exhibitor Template
 </ul>
 </div>
 </div>
-	<a href="/interested/?src=sponsorandexhibitorguide-20170524-interestedinsponsoring" class="cta yellow">I'm interested in Sponsorship</a>
+<p class="text-center" style="color: #725f55; font-size: 20px;">
+  Please help make 2020 our most successful year yet by becoming a VegFest sponsor! Space is limited, so sign up now.
+</p>
+	<a href="/sponsor/?src=sponsorandexhibitorguide-20200204" class="cta red">BECOME A SPONSOR</a>
+
   <br/><br/>
-  <h2>Exhibitor Options</h2>
+  <!-- <h2>Exhibitor Options</h2> -->
 </div>
-<div id="exhibitor-info">
+<!-- <div id="exhibitor-info">
 
 	<div class="container-fluid">
     <div class="row" >
@@ -159,15 +163,15 @@ Template Name: Exhibitor Template
       </div>
     </div>
 	</div>
-  <a href="/interested/?src=sponsorandexhibitorguide-20170524-interestedinexhibiting" class="cta">I'm interested in Exhibiting</a>
-</div>
+  <a href="/sponsor/?src=sponsorandexhibitorguide-20200204" class="cta red">BECOME A SPONSOR</a>
+</div> -->
 <div class="container-fluid white center" id="sponsor-ask">
-	<h2>Sponsor or Exhibit Now</h2>
-	<p>New England VegFest is a not-for-profit event put on by a valiant volunteer effort, we rely on support from our sponsors and exhibitors to make this incredible event happen. The VegFest is an amazing way to connect with your customers, supporters, and the community. Please join us, and help make this our most successful year yet! Sign up now, space is limited!</p>
+	<h2>Get More Information</h2>
+	<p>We’d love to connect with you further about becoming a VegFest sponsor. Contact Jen at <a href="mailto:jen@vegfest.org">jen@vegfest.org</a> for more information. You can also learn more about <a href="https://newenglandvegfest.com/interested/">becoming an Exhibitor at VegFest</a>.</p>
 </div>
 <div class="bluebg center">
 	<h2>Interested in sponsoring or exhibiting, but want more info?</h2>
-	<a href="/interested/?src=sponsorandexhibitorguide-20170524" class="cta red">I'm interested!</a>
+	<a href="/sponsor/?src=sponsorandexhibitorguide-20200204" class="cta red">BECOME A SPONSOR</a>
 </div>
 <div class="break" id="joyful"></div>
 </div><!--/content-->
