@@ -17,7 +17,7 @@ Template Name: Exhibitor Template
 </div>
 <div class="container-fluid white center" id="numbers">
 	<h2>Put your brand in the spotlight</h2>
-	<div class="pad">
+	<div class="pad" style="color: #725f55; font-size: 20px;">
     <p>
       Sponsors are the MVP’s of VegFest, providing generous support that helps sustain and grow our non-profit event.
     </p>
@@ -75,47 +75,71 @@ Template Name: Exhibitor Template
 </div>
 <div class="container-fluid white" id="sponsor-info">
 	<h2>Sponsorship Levels</h2>
-<div id="field_1_19" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc" style=""><div class="col-sm-4">
-<h3>Corporate</h3>
+<div id="field_1_19" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc" style=""><div class="col-sm-3">
+<h3>Platinum</h3>
 <ul>
-  <li>Premium Placement
+  <li>Premium placement for high guest traffic
+  </li><li>Extra space accommodation (Up to 15’ X 30’)
   </li><li>Free electricity
-  </li><li>Free table and chairs
-  </li><li>Sponsored social media campaign
-  </li><li>Logo on poster and marketing materials
+  </li><li>Free table and chairs; pipe and drape
   </li><li>Logo on website
-  </li><li>Up to 2 free lengths of pipe & drape
-  </li><li>Full page ad in program
-  </li><li>Extra space accomodations
+  </li><li>Swag bag insert
+  </li><li>Logo on VegFest poster
+  </li><li>Full page ad on program back cover
+  </li><li>2 paid social media mentions
+  </li><li>Logo included in VegFest emails
+  </li><li>Volunteer loading/unloading assistance & event support
+  </li><li>VegFest email spotlight
+  </li><li>Banner at event (banner provided by sponsor)
+  </li><li>Pre-presentation mention over PA system
   </li>
 </ul>
 </div>
-<div class="col-sm-4">
-<h3>Small Business</h3>
+<div class="col-sm-3">
+<h3>Gold</h3>
 <ul>
-  <li>Premium placement
+  <li>Premium placement for high guest traffic
+  </li><li>Extra space accommodation (Up to 15’ X 30’)
   </li><li>Free electricity
-  </li><li>Free table and chairs
-  </li><li>Paid social media mention
-  </li><li>Logo on poster and marketing materials
+  </li><li>Free table and chairs; pipe and drape
   </li><li>Logo on website
-  </li><li>1 Free length of pipe & drape
-  </li><li>Half page ad in program
+  </li><li>Swag bag insert
+  </li><li>Logo on VegFest poster
+  </li><li>Full page ad on program
+  </li><li>Paid social media mentions
+  </li><li>Logo included in VegFest emails
+  </li><li>Volunteer loading/unloading assistance
   </li>
 </ul>
 </div>
-<div class="col-sm-4">
-<h3>Friends and Family</h3>
+<div class="col-sm-3">
+<h3>Silver</h3>
+<ul>
+  <li>Preferred placement
+  </li><li>Extra space accommodation (Up to 10’ X 20’)
+  </li><li>Free electricity
+  </li><li>Free table and chairs; pipe and drape
+  </li><li>Logo on website
+  </li><li>Swag bag insert
+  </li><li>Logo on VegFest poster
+  </li><li>Half size ad in program
+  </li><li>Paid social media mentions
+  </li><li>Social media mention
+  </li>
+</ul>
+</div>
+<div class="col-sm-3">
+<h3>Bronze</h3>
 <ul>
   <li>Preferred placement
   </li><li>Free electricity
-  </li><li>Free table and chairs
-  </li><li>Social media mention
-  </li><li>Name on marketing materials
+  </li><li>Free table and chairs; pipe and drape
   </li><li>Logo on website
+  </li><li>Swag bag insert
   </li>
 </ul>
-</div></div>
+</div>
+</div>
 	<a href="/interested/?src=sponsorandexhibitorguide-20170524-interestedinsponsoring" class="cta yellow">I'm interested in Sponsorship</a>
   <br/><br/>
   <h2>Exhibitor Options</h2>
