@@ -169,7 +169,7 @@ Template Name: Exhibitor Template
 	<h2>Get More Information</h2>
 	<p>We’d love to connect with you further about becoming a VegFest sponsor. Contact Jen at <a href="mailto:jen@vegfest.org">jen@vegfest.org</a> for more information. You can also learn more about <a href="https://newenglandvegfest.com/interested/">becoming an Exhibitor at VegFest</a>.</p>
 </div> -->
-<div class="bluebg center">
+<div class="container-fluid bluebg center">
 	<h2>Get More Information</h2>
 	<p>We’d love to connect with you further about becoming a VegFest sponsor. Contact Jen at <a href="mailto:jen@vegfest.org">jen@vegfest.org</a> for more information. You can also learn more about <a href="https://newenglandvegfest.com/interested/">becoming an Exhibitor at VegFest</a>.</p>
 </div>
