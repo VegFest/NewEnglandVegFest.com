@@ -77,7 +77,6 @@ Template Name: Exhibitor Template
 	<h2>Sponsorship Levels</h2>
 <div id="field_1_19" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc" style=""><div class="col-sm-3">
 <h3>Platinum</h3>
-<h4>&#36;4,000</h4>
 <ul>
   <li>Premium placement for high guest traffic
   </li><li>Extra space accommodation (Up to 15’ X 30’)
@@ -98,7 +97,6 @@ Template Name: Exhibitor Template
 </div>
 <div class="col-sm-3">
 <h3>Gold</h3>
-<h4>&#36;2,500</h4>
 <ul>
   <li>Premium placement for high guest traffic
   </li><li>Extra space accommodation (Up to 15’ X 30’)
@@ -116,7 +114,6 @@ Template Name: Exhibitor Template
 </div>
 <div class="col-sm-3">
 <h3>Silver</h3>
-<h4>&#36;1,500</h4>
 <ul>
   <li>Preferred placement
   </li><li>Extra space accommodation (Up to 10’ X 20’)
@@ -133,7 +130,6 @@ Template Name: Exhibitor Template
 </div>
 <div class="col-sm-3">
 <h3>Bronze</h3>
-<h4>&#36;750</h4>
 <ul>
   <li>Preferred placement
   </li><li>Free electricity
@@ -175,7 +171,7 @@ Template Name: Exhibitor Template
 </div> -->
 <div class="bluebg center">
 	<h2>Get More Information</h2>
-	<p>We’d love to connect with you further about becoming a VegFest sponsor. Contact Jen at <a href="mailto:jen@vegfest.org">jen@vegfest.org</a> for more information. You can also learn more about <a href="https://newenglandvegfest.com/exhibit/">becoming an Exhibitor at VegFest</a>.</p>
+	<p>We’d love to connect with you further about becoming a VegFest sponsor. Contact Jen at <a href="mailto:jen@vegfest.org">jen@vegfest.org</a> for more information. You can also learn more about <a href="https://newenglandvegfest.com/interested/">becoming an Exhibitor at VegFest</a>.</p>
 </div>
-<div class="break" id="joyful-man"></div>
+<div class="break" id="joyful"></div>
 </div><!--/content-->
