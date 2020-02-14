@@ -6,7 +6,7 @@ Template Name: Exhibitor Template
 <?php get_template_part('templates/page', 'header'); ?>
 <div class="content">
 <div class="container-fluid" id="about" class="32">
-  <p>The New England VegFest is a free festival that brings the community together to celebrate an animal-friendly, environmentally sustainable, and healthy lifestyle. The event began in 2010 and has grown into one of the largest VegFests in the country, attracting more than 10,000 attendees from across New England, as well as a wide range of enthusiastic exhibitors and amazing sponsors.</p>
+  <p>The New England VegFest is a free festival that brings the community together to celebrate an animal-friendly, environmentally sustainable, and healthy lifestyle. The event began in 2010 and has grown into one of the largest VegFests in the country, attracting more than 10,000 attendees from across New England, as well as a wide range of exhibitors and amazing sponsors.</p>
   <p><a href="/sponsor/?src=sponsorandexhibitorguide-20200204" class="cta red">BECOME A SPONSOR</a></p>
 </div>
 <div id="features">
@@ -76,7 +76,7 @@ Template Name: Exhibitor Template
 <div class="container-fluid white" id="sponsor-info">
 	<h2>Sponsorship Levels</h2>
 <div id="field_1_19" class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc" style=""><div class="col-sm-3">
-<h3>Platinum</h3>
+<h3>Platinum $4,000</h3>
 <ul>
   <li>Premium placement for high guest traffic
   </li><li>Extra space accommodation (Up to 15’ X 30’)
@@ -96,7 +96,7 @@ Template Name: Exhibitor Template
 </ul>
 </div>
 <div class="col-sm-3">
-<h3>Gold</h3>
+<h3>Gold $2,500</h3>
 <ul>
   <li>Premium placement for high guest traffic
   </li><li>Extra space accommodation (Up to 15’ X 30’)
@@ -113,7 +113,7 @@ Template Name: Exhibitor Template
 </ul>
 </div>
 <div class="col-sm-3">
-<h3>Silver</h3>
+<h3>Silver $1,500</h3>
 <ul>
   <li>Preferred placement
   </li><li>Extra space accommodation (Up to 10’ X 20’)
@@ -129,7 +129,7 @@ Template Name: Exhibitor Template
 </ul>
 </div>
 <div class="col-sm-3">
-<h3>Bronze</h3>
+<h3>Bronze $750</h3>
 <ul>
   <li>Preferred placement
   </li><li>Free electricity
