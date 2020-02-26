@@ -63,7 +63,7 @@
 </div>
 <div class="break" id="food"></div>
 <div id="sponsors">
-	<h2>Our 2019 Sponsors</h2>
+	<h2>Our 2020 Sponsors</h2>
 	<div class="col-xs-12" id="gold">
 		<!-- <h3>Gold Partners</h3> -->
 
@@ -93,19 +93,22 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/massthreads.png" alt="" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/power.png" alt="" />
 		 -->
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/made-good.png" alt="" />
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/made-good.png" alt="" /> -->
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-10-cedars.png" alt="Cedar's" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/rescom.png" alt="" />
 
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2019/city-compost.png" alt="City Compost" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2019/spirit-of-change.png" alt="Spirit of Change" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/hippeas.png" alt="Hippeas" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-15-vegan-treats.png" alt="Vegan Treats" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/yoga.png" alt="Yoga at the Ashram" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/like-no-udder.png" alt="Like No Udder" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-07-roots.png" alt="Roots" />
-		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/pulse-cafe.png" alt="" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2019/spirit-of-change.png" alt="Spirit of Change" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2020/edible-worcester-logo.png" alt="Edible Worcester" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2020/green-mountain-energy-logo.png" alt="Green Mountain Energy" />
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/hippeas.png" alt="Hippeas" /> -->
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-15-vegan-treats.png" alt="Vegan Treats" /> -->
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/yoga.png" alt="Yoga at the Ashram" /> -->
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/like-no-udder.png" alt="Like No Udder" /> -->
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" /> -->
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-07-roots.png" alt="Roots" /> -->
+		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/pulse-cafe.png" alt="" /> -->
 		<!--
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-06-organiclivingsuperfoods.png" alt="Organic Living Superfoods" />
 
