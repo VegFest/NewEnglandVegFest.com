@@ -102,8 +102,8 @@
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2020/green-mountain-energy-logo.png" alt="Green Mountain Energy" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2020/edible-worcester-logo.png" alt="Edible Worcester" />
 		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2020/vegan-robs-logo.png" alt="Vegan Rob's" />
+		<img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-15-vegan-treats.png" alt="Vegan Treats" />
 		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/hippeas.png" alt="Hippeas" /> -->
-		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-15-vegan-treats.png" alt="Vegan Treats" /> -->
 		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/yoga.png" alt="Yoga at the Ashram" /> -->
 		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2018/like-no-udder.png" alt="Like No Udder" /> -->
 		<!-- <img src="/app/themes/nevegfest/assets/img/sponsor-logos/2017/web-logos_17-04-awellfedworld.png" alt="A Well-fed World" /> -->
