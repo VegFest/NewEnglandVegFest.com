@@ -2,8 +2,8 @@
 
 <div class="container-fluid" id="about" class="32">
 	<p>The New England VegFest is a free festival that brings the local community together to celebrate vegetarianism: an animal-friendly, environmentally sustainable, and healthy lifestyle.</p>
-	<!-- <div style="padding: 10px; margin-top: 20px; margin-left: 20px; margin-right: 20px; background: #7ff4f2; border-radius:25px; text-align: left">
-	<p style="font-size: 18px;">
+	<div style="padding: 10px; margin-top: 20px; margin-left: 20px; margin-right: 20px; background: #7ff4f2; border-radius:25px; text-align: left">
+	<p style="font-size: 18px; ">
 	<strong>IMPORTANT: POSTPONED TO SUNDAY JUNE 28, 2020</strong>
 <p style="font-size: 18px;">
 		Due to safety concerns related to the coronavirus outbreak, the New England VegFest has been postponed from April 19 to June 28, 2020 at the DCU Center in Worcester, MA.
@@ -14,7 +14,7 @@
 	<p style="font-size: 18px;">
 		We are currently accepting exhibitor applications for our June 28 event and hope to see you there! Stay tuned to this page for updates, and contact <a href="mailto:jen@vegfest.org">jen@vegfest.org</a> with any questions.
 	</p>
-	</div> -->
+	</div>
 	<!-- <p><a href="/interested/?src=frontpage-20170524" class="cta red">I'm interested in exhibiting!</a></p> -->
 </div>
 <div id="features">
