@@ -72,10 +72,10 @@ if (!defined('ABSPATH')) {
 }
 
 
-/*** code from greg for fixing web form errors ***/
-ini_set(‘display_errors’,’Off’);
-ini_set(‘error_reporting’, E_ALL );
-define(‘WP_DEBUG’, false);
-define(‘WP_DEBUG_DISPLAY’, false);
-
-/*** code from greg for fixing web form errors ***/
+// /*** code from greg for fixing web form errors ***/
+ini_set('display_errors','Off');
+ini_set('error_reporting', 0 );
+define('WP_DEBUG', false);
+define('WP_DEBUG_DISPLAY', false);
+//
+// /*** code from greg for fixing web form errors ***/
